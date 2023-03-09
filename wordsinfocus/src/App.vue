@@ -1,15 +1,29 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <HeaderComponent />
+    <router-view v-slot="{ Component }">
+      <keep-alive :max="5">
+        <component :is="Component" :key="$route.fullPath" />
+      </keep-alive>
+    </router-view>
+    <FooterComponent />
+  </div>
 </template>
 
 <script>
+
 import HelloWorld from './components/HelloWorld.vue'
+import FooterComponent from "@/components/FooterComponent";
+import HeaderComponent from "@/components/HeaderComponent";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    HeaderComponent,
+    FooterComponent
   }
 }
 </script>
