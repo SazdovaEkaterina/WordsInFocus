@@ -10,7 +10,7 @@ letters = ['а', 'б', 'в', 'г', 'д', 'ѓ', 'е', 'ж', 'з', 'ѕ',
            'р', 'с', 'т', 'ќ', 'у', 'ф', 'х', 'ц', 'ч', 'џ', 'ш']
 
 def scrape_letter(browser, letter):
-    fp = open('bukvi/' + letter + '.json', 'w')
+    fp = open("..\\WordsInFocusAPI\\src\\main\\resources\\wordsInJson\\" + letter + '.json', 'w')
     ranges = Select(browser.find_element(By.XPATH, "//select[@name='ranges']"))
     
     for index in range(len(ranges.options)):
@@ -42,7 +42,7 @@ def meanings(browser, letter, word, lexemsLen, index):
     raw_html = browser.page_source
     html = BeautifulSoup(raw_html, "html.parser")
     name = html.select_one(".lexem").text.strip()
-    fp = open('bukvi/' + letter + '.json', 'a', encoding="utf-8")
+    fp = open("..\\WordsInFocusAPI\\src\\main\\resources\\wordsInJson\\" + letter + '.json', 'a', encoding="utf-8")
     fp.write('\n\t{')
     fp.write('\n\t\t\"word\": \"'+word+'\",')
     fp.write('\n\t\t\"name\": \"'+name+'\",')
@@ -85,7 +85,7 @@ def main():
         browser = webdriver.Chrome()
         browser.get('http://drmj.eu/letter/' + letter)
 
-        fp = open("..\WordsInFocus\\WordsInFocusAPI\\src\\main\\resources\\wordsInJson\\" + letter + '.json', 'w')
+        fp = open("..\\WordsInFocusAPI\\src\\main\\resources\\wordsInJson\\" + letter + '.json', 'w')
         fp.write("[")
         scrape_letter(browser, letter)
               
