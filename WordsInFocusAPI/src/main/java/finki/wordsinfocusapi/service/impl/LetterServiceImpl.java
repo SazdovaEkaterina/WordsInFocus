@@ -6,6 +6,7 @@ import finki.wordsinfocusapi.service.LetterService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class LetterServiceImpl implements LetterService {
@@ -17,8 +18,8 @@ public class LetterServiceImpl implements LetterService {
     }
 
     @Override
-    public Letter findById(Long id) {
-        return this.letterRepository.findById(id).get();
+    public Optional<Letter> findById(Long id) {
+        return this.letterRepository.findById(id);
     }
 
     @Override
