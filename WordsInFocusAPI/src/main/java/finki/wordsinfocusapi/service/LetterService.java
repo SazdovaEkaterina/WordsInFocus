@@ -3,10 +3,11 @@ package finki.wordsinfocusapi.service;
 import finki.wordsinfocusapi.model.Letter;
 
 import java.util.List;
+import java.util.Optional;
 
 public interface LetterService {
 
-    Letter findById(Long id);
+    Optional<Letter> findById(Long id);
     List<Letter> findAll();
 
 }
