@@ -36,13 +36,15 @@ public class LetterServiceImpl implements LetterService {
     }
 
     @Override
-    public Letter save(Letter letter) {
+    public void save(Letter letter) {
+        letterRepository.save(letter);
         for (Word word: letter.getWords()) {
+            word.setLetter(letter);
+            wordRepository.save(word);
             for (Definition definition: word.getDefinitions()) {
+                definition.setWord(word);
                 definitionRepository.save(definition);
             }
-            wordRepository.save(word);
         }
-        return letterRepository.save(letter);
     }
 }

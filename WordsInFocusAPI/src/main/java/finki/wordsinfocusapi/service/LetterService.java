@@ -9,6 +9,6 @@ public interface LetterService {
 
     Optional<Letter> findById(Long id);
     List<Letter> findAll();
-    Letter save(Letter letter);
+    void save(Letter letter);
 
 }

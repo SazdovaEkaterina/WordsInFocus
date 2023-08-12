@@ -9,6 +9,8 @@ import jakarta.persistence.PostUpdate;
 import org.springframework.stereotype.Component;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 @Component
 public class DataInitializer {
@@ -23,11 +25,18 @@ public class DataInitializer {
     public void InitializeData() throws Exception {
 
         ObjectMapper objectMapper = new ObjectMapper();
-        Letter letter = objectMapper
-                .readValue(new File("src/main/resources/wordsInJson/а.json"), Letter.class);
-        System.out.println(letter);
+        List<String> letters = new ArrayList<>();
+        letters.add("а");
+        letters.add("б");
 
-        letterService.save(letter);
+        for (String letterValue:letters) {
+            Letter letter = objectMapper
+                    .readValue(new File("src/main/resources/wordsInJson/"+letterValue+".json"), Letter.class);
+            System.out.println(letter);
+
+            letterService.save(letter);
+        }
+
     }
 
 }
