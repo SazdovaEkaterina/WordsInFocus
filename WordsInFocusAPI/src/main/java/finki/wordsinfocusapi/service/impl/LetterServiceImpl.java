@@ -1,7 +1,11 @@
 package finki.wordsinfocusapi.service.impl;
 
+import finki.wordsinfocusapi.model.Definition;
 import finki.wordsinfocusapi.model.Letter;
+import finki.wordsinfocusapi.model.Word;
+import finki.wordsinfocusapi.repository.DefinitionRepository;
 import finki.wordsinfocusapi.repository.LetterRepository;
+import finki.wordsinfocusapi.repository.WordRepository;
 import finki.wordsinfocusapi.service.LetterService;
 import org.springframework.stereotype.Service;
 
@@ -12,9 +16,13 @@ import java.util.Optional;
 public class LetterServiceImpl implements LetterService {
 
     private final LetterRepository letterRepository;
+    private final WordRepository wordRepository;
+    private final DefinitionRepository definitionRepository;
 
-    public LetterServiceImpl(LetterRepository letterRepository) {
+    public LetterServiceImpl(LetterRepository letterRepository, WordRepository wordRepository, DefinitionRepository definitionRepository) {
         this.letterRepository = letterRepository;
+        this.wordRepository = wordRepository;
+        this.definitionRepository = definitionRepository;
     }
 
     @Override
@@ -25,5 +33,16 @@ public class LetterServiceImpl implements LetterService {
     @Override
     public List<Letter> findAll() {
         return this.letterRepository.findAll();
+    }
+
+    @Override
+    public Letter save(Letter letter) {
+        for (Word word: letter.getWords()) {
+            for (Definition definition: word.getDefinitions()) {
+                definitionRepository.save(definition);
+            }
+            wordRepository.save(word);
+        }
+        return letterRepository.save(letter);
     }
 }

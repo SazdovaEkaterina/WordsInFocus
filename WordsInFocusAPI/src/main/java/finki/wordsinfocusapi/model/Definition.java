@@ -13,9 +13,9 @@ public class Definition {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String name;
+    private String definition_name;
 
-    private String example;
+    private String definition_example;
 
     @ManyToOne
     private Word word;
