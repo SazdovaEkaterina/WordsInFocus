@@ -22,10 +22,10 @@ public class WordRestController {
         return this.wordService.findAll();
     }
 
-    @GetMapping
-    public List<Word> getAllByLetterId(@RequestParam Long letterId){
-        return this.wordService.findAllByLetter(letterId);
-    }
+//    @GetMapping
+//    public List<Word> getAllByLetterId(@RequestParam Long letterId){
+//        return this.wordService.findAllByLetter(letterId);
+//    }
 
     @GetMapping("/{id}")
     public ResponseEntity<Word> getById(@PathVariable Long id){

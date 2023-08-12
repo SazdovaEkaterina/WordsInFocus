@@ -22,10 +22,10 @@ public class DefinitionRestController {
         return this.definitionService.findAll();
     }
 
-    @GetMapping
-    public List<Definition> getAllByWordId(@RequestParam Long wordId){
-        return this.definitionService.findAllByWord(wordId);
-    }
+//    @GetMapping("/{wordId}")
+//    public List<Definition> getAllByWordId(@PathVariable Long wordId){
+//        return this.definitionService.findAllByWord(wordId);
+//    }
 
     @GetMapping("/{id}")
     public ResponseEntity<Definition> getById(@PathVariable Long id){
