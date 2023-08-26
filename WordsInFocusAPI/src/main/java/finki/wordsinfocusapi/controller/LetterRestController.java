@@ -1,8 +1,7 @@
 package finki.wordsinfocusapi.controller;
 
-import finki.wordsinfocusapi.model.Letter;
+import finki.wordsinfocusapi.model.dto.LetterDto;
 import finki.wordsinfocusapi.service.LetterService;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -21,15 +20,13 @@ public class LetterRestController {
     }
 
     @GetMapping
-    public List<Letter> getAll(){
+    public List<LetterDto> getAll(){
         return this.letterService.findAll();
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Letter> getById(@PathVariable Long id){
-        return this.letterService.findById(id)
-                .map(letter -> ResponseEntity.ok().body(letter))
-                .orElseGet(() -> ResponseEntity.notFound().build());
+    public LetterDto getById(@PathVariable Long id){
+        return this.letterService.findById(id);
     }
 
 }
