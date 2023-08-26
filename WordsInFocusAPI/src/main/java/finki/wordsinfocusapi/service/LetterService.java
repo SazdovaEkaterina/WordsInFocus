@@ -4,7 +4,6 @@ import finki.wordsinfocusapi.model.Letter;
 import finki.wordsinfocusapi.model.dto.LetterDto;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface LetterService {
 

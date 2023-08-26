@@ -1,17 +1,17 @@
 package finki.wordsinfocusapi.service.impl;
 
-import finki.wordsinfocusapi.model.Definition;
 import finki.wordsinfocusapi.model.Letter;
 import finki.wordsinfocusapi.model.Word;
-import finki.wordsinfocusapi.model.dto.DefinitionDto;
 import finki.wordsinfocusapi.model.dto.WordDto;
 import finki.wordsinfocusapi.repository.LetterRepository;
 import finki.wordsinfocusapi.repository.WordRepository;
+import finki.wordsinfocusapi.service.LetterService;
 import finki.wordsinfocusapi.service.WordService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.Optional;
 
 @Service
@@ -20,26 +20,26 @@ public class WordServiceImpl implements WordService {
     private final WordRepository wordRepository;
     private final LetterRepository letterRepository;
 
-    public WordServiceImpl(WordRepository wordRepository, LetterRepository letterRepository) {
+    public WordServiceImpl(WordRepository wordRepository,
+                           LetterRepository letterRepository, LetterService letterService) {
         this.wordRepository = wordRepository;
         this.letterRepository = letterRepository;
     }
 
     @Override
-    public WordDto findById(Long id) {
-        Optional<Word> wordOptional = this.wordRepository.findById(id);
+    public WordDto findById(Long letterId, Long id) {
 
-        if(!wordOptional.isPresent()){
+        List<WordDto> wordDtos = this.findAllByLetter(letterId);
+
+        Optional<WordDto> wordDtoOptional = wordDtos.stream()
+                .filter(w -> Objects.equals(w.getId(), id))
+                .findFirst();
+
+        if(!wordDtoOptional.isPresent()){
             return null;
         }
 
-        Word word = wordOptional.get();
-
-        return new WordDto(word.getId(),
-                word.getWord(),
-                word.getName(),
-                word.getType(),
-                word.getLetter().getId());
+        return wordDtoOptional.get();
     }
 
     @Override
