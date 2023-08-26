@@ -2,11 +2,13 @@ package finki.wordsinfocusapi.service.impl;
 
 import finki.wordsinfocusapi.model.Definition;
 import finki.wordsinfocusapi.model.Word;
+import finki.wordsinfocusapi.model.dto.DefinitionDto;
 import finki.wordsinfocusapi.repository.DefinitionRepository;
 import finki.wordsinfocusapi.repository.WordRepository;
 import finki.wordsinfocusapi.service.DefinitionService;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -22,18 +24,36 @@ public class DefinitionServiceImpl implements DefinitionService {
     }
 
     @Override
-    public Optional<Definition> findById(Long id) {
-        return this.definitionRepository.findById(id);
+    public DefinitionDto findById(Long id){
+
+        Optional<Definition> definitionOptional = this.definitionRepository.findById(id);
+
+        if(!definitionOptional.isPresent()){
+            return null;
+        }
+
+        Definition definition = definitionOptional.get();
+
+        return new DefinitionDto(definition.getId(),
+                definition.getDefinition_name(),
+                definition.getDefinition_example(),
+                definition.getWord().getId());
     }
 
     @Override
-    public List<Definition> findAll() {
-        return this.definitionRepository.findAll();
-    }
+    public List<DefinitionDto> findAllByWord(Long wordId) {
 
-    @Override
-    public List<Definition> findAllByWord(Long wordId) {
         Word word = this.wordRepository.findById(wordId).get();
-        return this.definitionRepository.findAllByWord(word);
+        List<Definition> definitions = this.definitionRepository.findAllByWord(word);
+        List<DefinitionDto> definitionDtos = new ArrayList<>();
+
+        for (var definition:definitions) {
+            definitionDtos.add(new DefinitionDto(definition.getId(),
+                    definition.getDefinition_name(),
+                    definition.getDefinition_example(),
+                    definition.getWord().getId()));
+        }
+
+        return definitionDtos;
     }
 }

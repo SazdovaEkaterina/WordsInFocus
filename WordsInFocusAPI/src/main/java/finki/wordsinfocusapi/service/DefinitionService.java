@@ -1,13 +1,12 @@
 package finki.wordsinfocusapi.service;
 
-import finki.wordsinfocusapi.model.Definition;
+import finki.wordsinfocusapi.model.dto.DefinitionDto;
 
 import java.util.List;
 import java.util.Optional;
 
 public interface DefinitionService {
 
-    Optional<Definition> findById(Long id);
-    List<Definition> findAll();
-    List<Definition> findAllByWord(Long wordId);
+    DefinitionDto findById(Long id);
+    List<DefinitionDto> findAllByWord(Long wordId);
 }

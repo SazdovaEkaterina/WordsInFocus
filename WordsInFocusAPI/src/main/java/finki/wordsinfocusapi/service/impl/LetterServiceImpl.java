@@ -3,12 +3,14 @@ package finki.wordsinfocusapi.service.impl;
 import finki.wordsinfocusapi.model.Definition;
 import finki.wordsinfocusapi.model.Letter;
 import finki.wordsinfocusapi.model.Word;
+import finki.wordsinfocusapi.model.dto.LetterDto;
 import finki.wordsinfocusapi.repository.DefinitionRepository;
 import finki.wordsinfocusapi.repository.LetterRepository;
 import finki.wordsinfocusapi.repository.WordRepository;
 import finki.wordsinfocusapi.service.LetterService;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -26,13 +28,31 @@ public class LetterServiceImpl implements LetterService {
     }
 
     @Override
-    public Optional<Letter> findById(Long id) {
-        return this.letterRepository.findById(id);
+    public LetterDto findById(Long id) {
+
+        Optional<Letter> letterOptional = this.letterRepository.findById(id);
+
+        if(!letterOptional.isPresent()){
+            return null;
+        }
+
+        Letter letter = letterOptional.get();
+
+        return new LetterDto(letter.getId(), letter.getName());
     }
 
+
     @Override
-    public List<Letter> findAll() {
-        return this.letterRepository.findAll();
+    public List<LetterDto> findAll() {
+
+        List<Letter> letters = this.letterRepository.findAll();
+        List<LetterDto> letterDtos = new ArrayList<>();
+
+        for (var letter:letters) {
+            letterDtos.add(new LetterDto(letter.getId(), letter.getName()));
+        }
+
+        return letterDtos;
     }
 
     @Override

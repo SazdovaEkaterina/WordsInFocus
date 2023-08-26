@@ -7,24 +7,24 @@ import java.util.List;
 @Data
 public class WordDto {
 
+    private Long id;
+
     private String word;
 
     private String name;
 
     private String type;
 
-    private List<DefinitionDto> definitions;
-
     private Long letterId;
 
     public WordDto() {
     }
 
-    public WordDto(String word, String name, String type, List<DefinitionDto> definitions, Long letterId) {
+    public WordDto(Long id, String word, String name, String type, Long letterId) {
+        this.id = id;
         this.word = word;
         this.name = name;
         this.type = type;
-        this.definitions = definitions;
         this.letterId = letterId;
     }
 }

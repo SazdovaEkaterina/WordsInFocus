@@ -9,15 +9,15 @@ import java.util.List;
 @Data
 public class LetterDto {
 
-    private String name;
+    private Long id;
 
-    private List<WordDto> words;
+    private String name;
 
     public LetterDto() {
     }
 
-    public LetterDto(String name, List<WordDto> words) {
+    public LetterDto(Long id, String name) {
+        this.id = id;
         this.name = name;
-        this.words = words;
     }
 }
