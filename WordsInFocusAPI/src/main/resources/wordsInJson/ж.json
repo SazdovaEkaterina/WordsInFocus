@@ -1,0 +1,5612 @@
+[
+	{
+		"word": "жаба ж.",
+		"name": "жаба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Водоземно животно со долги задни нозе приспособени за скокање на суво и за пливање во вода",
+				"definition_example": "Не се спиеше од жаби и од нивното крекање"
+			},
+			{
+				"definition_name": "Погрдно, иронично обраќање кон некое лице",
+				"definition_example": "Уште тебе те чекаат тука, жабо крастава"
+			},
+			{
+				"definition_name": "Густ пивтиест талог во сад во кој се чува киселина, оцет",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабар м.",
+		"name": "жабар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што лови, фаќа жаби",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Погрден назив за Италијанците поради обичајот да јадат жаби",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "жабок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабарник м.",
+		"name": "жабарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабурнак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабец м.",
+		"name": "жабец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабечки прид.",
+		"name": "жабечки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жабешки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабешки прид.",
+		"name": "жабешки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жаба",
+				"definition_example": "жабешки копани"
+			}
+		]
+	},
+
+	{
+		"word": "жабица ж.",
+		"name": "жабица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жаба",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид болест кај говедата",
+				"definition_example": "Говедата беа заразени од жабица"
+			},
+			{
+				"definition_name": "Вид набор на женска или детска облека",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Држач за чорапи, панталони и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабјак м.",
+		"name": "жабјак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабурнак",
+				"definition_example": "Водата што стои по дворовите се претвора во жабјак"
+			}
+		]
+	},
+
+	{
+		"word": "жабјар м.",
+		"name": "жабјар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабјарник м.",
+		"name": "жабјарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабурнак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабји прид.",
+		"name": "жабји",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува, што ѝ припаѓа на жаба",
+				"definition_example": "Од барите крај реката се слушаше жабјо крекање"
+			}
+		]
+	},
+
+	{
+		"word": "жабо ср.",
+		"name": "жабо",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Пластрон од тантела, најчесто на женска облека, кошула или фустан што се носи под гушата, на градите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабок м.",
+		"name": "жабок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "мажјак на жаба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабор м.",
+		"name": "жабор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жаборок м.",
+		"name": "жаборок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабра ж.",
+		"name": "жабра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(обично во мн) Органи за дишење кај рибите и кај некои други видови водни животни",
+				"definition_example": "Рибите дишат на жабри"
+			}
+		]
+	},
+
+	{
+		"word": "жабри несв.",
+		"name": "жабри",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) мазни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабуњак м.",
+		"name": "жабуњак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жабурнак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабуњоса св.",
+		"name": "жабуњоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Стане жабурлив, се покрие со жабурнак",
+				"definition_example": "Водата ги жабуњоса камењата"
+			}
+		]
+	},
+
+	{
+		"word": "жабурина ж.",
+		"name": "жабурина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жабурнак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабурка несв.",
+		"name": "жабурка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави гаргара, ја плакне устата или грлото",
+				"definition_example": "Тој ја жабуркаше водата во устата"
+			}
+		]
+	},
+
+	{
+		"word": "жабурка ж.",
+		"name": "жабурка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Меур што се јавува на површината на водата",
+				"definition_example": "Локвата испушташе жабурки"
+			},
+			{
+				"definition_name": "жабра",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жабурлив прид.",
+		"name": "жабурлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е покриен со жабурнак",
+				"definition_example": "Местото беше жабурливо"
+			}
+		]
+	},
+
+	{
+		"word": "жабурнак м.",
+		"name": "жабурнак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што живеат многу жаби",
+				"definition_example": "Во жабурнакот имаше многу жаби"
+			},
+			{
+				"definition_name": "Зелен слој од алги што се создава на површината на неистечна вода",
+				"definition_example": "Езерцето беше покриено со трска и жабурнак"
+			}
+		]
+	},
+
+	{
+		"word": "жагор м.",
+		"name": "жагор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "џагор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жагорење ср.",
+		"name": "жагорење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џагорење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жагори несв.",
+		"name": "жагори",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џагори",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жад ж.",
+		"name": "жад",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жед",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Минерал со зеленикава боја од кој се изработуваат украсни предмети",
+				"definition_example": "ѓердан од жад"
+			}
+		]
+	},
+
+	{
+		"word": "жаден прид.",
+		"name": "жаден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жед",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жаднее несв.",
+		"name": "жаднее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "жеднее",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жакард м.",
+		"name": "жакард",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Техника на плетење или ткаење во повеќе бои, со карактеристичен преплет",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жакет м.",
+		"name": "жакет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Кусо машко или женско палто",
+				"definition_example": "Тој ја вовлече раката во внатрешниот џеб од својот жакет"
+			}
+		]
+	},
+
+	{
+		"word": "жал м.",
+		"name": "жал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тага, мака, душевна болка",
+				"definition_example": "Само една тешка жал ме налегнала"
+			},
+			{
+				"definition_name": "сочувство, сожалување",
+				"definition_example": "Жал ми е за тебе"
+			}
+		]
+	},
+
+	{
+		"word": "жала несв.",
+		"name": "жала",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) жали",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалба ж.",
+		"name": "жалба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Изразување (обично писмено) незадоволство од некоја неправилност со молба да се отстрани",
+				"definition_example": "Тој поднесе жалба до судот"
+			},
+			{
+				"definition_name": "жал, тага, мака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалбен прид.",
+		"name": "жалбен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жалба",
+				"definition_example": "жалбена постапка"
+			}
+		]
+	},
+
+	{
+		"word": "жалеачка ж.",
+		"name": "жалеачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жалење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалевит прид.",
+		"name": "жалевит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жаловит",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жален прид.",
+		"name": "жален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што изразува жал",
+				"definition_example": "жален поглед"
+			},
+			{
+				"definition_name": "Што чувствува жал, што е обземен од жал",
+				"definition_example": "жална мајка"
+			},
+			{
+				"definition_name": "Што е за жалење",
+				"definition_example": "жална судбина"
+			}
+		]
+	},
+
+	{
+		"word": "жали несв.",
+		"name": "жали",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Чувствува жал за нешто изгубено, поминато, неостварено",
+				"definition_example": "Жалеше за изгубената младост"
+			},
+			{
+				"definition_name": "Е во жалост по починат",
+				"definition_example": "Старата жалеше по загинатиот син"
+			},
+			{
+				"definition_name": "Сожалува некого, сочувствува со некого",
+				"definition_example": "Го жали што останал сам"
+			},
+			{
+				"definition_name": "Штеди (обично негирано)",
+				"definition_example": "Кога е за здравјето, не жали ни пари ни труд"
+			},
+			{
+				"definition_name": "(се жали) Се плаче, се поплакува некому",
+				"definition_example": "Не сакам да ти се жалам, но ова летување е едно од најтажните што сме ги поминале"
+			},
+			{
+				"definition_name": "(се жали) Поднесува жалба до некој државен орган",
+				"definition_example": "И двајцата се жалеа против пресудата до Врховниот суд"
+			},
+			{
+				"definition_name": "(се жали) Се сожалува себеси",
+				"definition_example": "Тој се жали прво себеси, па после другите"
+			}
+		]
+	},
+
+	{
+		"word": "жалит прид.",
+		"name": "жали",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Чувствува жал за нешто изгубено, поминато, неостварено",
+				"definition_example": "Жалеше за изгубената младост"
+			},
+			{
+				"definition_name": "Е во жалост по починат",
+				"definition_example": "Старата жалеше по загинатиот син"
+			},
+			{
+				"definition_name": "Сожалува некого, сочувствува со некого",
+				"definition_example": "Го жали што останал сам"
+			},
+			{
+				"definition_name": "Штеди (обично негирано)",
+				"definition_example": "Кога е за здравјето, не жали ни пари ни труд"
+			},
+			{
+				"definition_name": "(се жали) Се плаче, се поплакува некому",
+				"definition_example": "Не сакам да ти се жалам, но ова летување е едно од најтажните што сме ги поминале"
+			},
+			{
+				"definition_name": "(се жали) Поднесува жалба до некој државен орган",
+				"definition_example": "И двајцата се жалеа против пресудата до Врховниот суд"
+			},
+			{
+				"definition_name": "(се жали) Се сожалува себеси",
+				"definition_example": "Тој се жали прво себеси, па после другите"
+			}
+		]
+	},
+
+	{
+		"word": "жалител м.",
+		"name": "жалит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "Однадвор допира жалита песна"
+			}
+		]
+	},
+
+	{
+		"word": "жалник м.",
+		"name": "жалит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "Однадвор допира жалита песна"
+			}
+		]
+	},
+
+	{
+		"word": "жаловен прид.",
+		"name": "жалник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што е жалосно, несреќно, бедно",
+				"definition_example": "Жалникот мој! Поарно да умреше со другарите"
+			}
+		]
+	},
+
+	{
+		"word": "жаловит прид.",
+		"name": "жаловен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалопојка ж.",
+		"name": "жаловит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "жаловит глас"
+			}
+		]
+	},
+
+	{
+		"word": "жалосен прид.",
+		"name": "жаловит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "жаловит глас"
+			}
+		]
+	},
+
+	{
+		"word": "жалослив прид.",
+		"name": "жаловит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жален",
+				"definition_example": "жаловит глас"
+			}
+		]
+	},
+
+	{
+		"word": "жалосник м.",
+		"name": "жалосник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жалник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалост ж.",
+		"name": "жалост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Душевна болка, тага, жал",
+				"definition_example": "Неговата постапка ми причинува жалост"
+			},
+			{
+				"definition_name": "Жалење за покојник",
+				"definition_example": "Тие се во жалост"
+			}
+		]
+	},
+
+	{
+		"word": "жалости несв.",
+		"name": "жалости",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави некого жалосен, нанесува некому жал",
+				"definition_example": "Тој не сакаше да ги жалости срцата на своите родители"
+			},
+			{
+				"definition_name": "(се жалости) Се растажува, станува тажен",
+				"definition_example": "Не жалости се, мила сестро"
+			}
+		]
+	},
+
+	{
+		"word": "жалостив прид.",
+		"name": "жалостив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жалослив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жалузии само мн.",
+		"name": "жалузии",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Ролетни, капаци на прозорец или врата за регулирање на светлината и воздухот",
+				"definition_example": "хоризонтални жалузии"
+			}
+		]
+	},
+
+	{
+		"word": "жалфија ж.",
+		"name": "жалфија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лековита билка со пријатен ароматичен мирис",
+				"definition_example": "Во ливадата се ширеше мирисот на жалфијата"
+			}
+		]
+	},
+
+	{
+		"word": "жандар м.",
+		"name": "жандар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жандарм",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "џандар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жандарм м.",
+		"name": "жандарм",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на жандармерија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жандармерија ж.",
+		"name": "жандармерија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Посебни полициски единици, организирани и делумно вооружени како војска",
+				"definition_example": "Останаа само одредите на жандармеријата"
+			},
+			{
+				"definition_name": "Управна зграда на жандармерија",
+				"definition_example": "Тој беше приведен во жандармеријата"
+			}
+		]
+	},
+
+	{
+		"word": "жанр м.",
+		"name": "жанр",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Определена форма на литературно или на друго уметничко дело што се изделува со сижетните, стилските и други особености",
+				"definition_example": "епски жанр"
+			}
+		]
+	},
+
+	{
+		"word": "жапка ж.",
+		"name": "жапка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жаба",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Метално лежиште на кое стои и се врти вратата",
+				"definition_example": "Малечката врата ја ставаше на жапка"
+			}
+		]
+	},
+
+	{
+		"word": "жапче ср.",
+		"name": "жапче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "жаба",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(само во мн) Игра во која плоснати камчиња се фрлаат така што отскокнуваат по површината на водата по неколку пати",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жар ж.",
+		"name": "жар",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вжештени остатоци од согорување на дрво, јаглен, без пламен и чад",
+				"definition_example": "пастрмка на жар"
+			},
+			{
+				"definition_name": "страст, занес",
+				"definition_example": "Во неа тлее љубовната жар"
+			}
+		]
+	},
+
+	{
+		"word": "жаргон м.",
+		"name": "жаргон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Говор на луѓе од иста професија, сталеж или социјална група кој содржи посебно карактеристични зборови, изрази и условни, изместени значења на зборови надвор од општоусвоената терминологија и од нормите на стандардниот јазик",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жаргонизам м.",
+		"name": "жаргонизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Збор или реченица својствени на некој жаргон",
+				"definition_example": "Жаргонизмот завладеа со литературата"
+			}
+		]
+	},
+
+	{
+		"word": "жардиниера ж.",
+		"name": "жардиниера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Голем сад за цвеќиња и за други украсни растенија (обично во градина, парк или во голема просторија)",
+				"definition_example": "Ќе се изградат жардиниери и на градските булевари"
+			}
+		]
+	},
+
+	{
+		"word": "жари несв.",
+		"name": "жари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Гори, пече, доведува нешто во состојба на жар",
+				"definition_example": "Ковачот ја жареше косата за да ја клепа"
+			},
+			{
+				"definition_name": "Ја надразнува кожата предизвикувајќи црвенило и јадеж",
+				"definition_example": "Копривата жари"
+			},
+			{
+				"definition_name": "Опфатен е од силно чувство",
+				"definition_example": "Во нас жарат силни желби"
+			},
+			{
+				"definition_name": "(се жари) Се претвора во жар, е во состојба на жар",
+				"definition_example": "Јаглењето во огништето се жареа"
+			},
+			{
+				"definition_name": "(се жари) се црвенее, се руменее",
+				"definition_example": "Од праведниот гнев лицето ми се жареше"
+			}
+		]
+	},
+
+	{
+		"word": "жариште ср.",
+		"name": "жариште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што се наоѓа жарот",
+				"definition_example": "Во жариштето имаше многу жар"
+			},
+			{
+				"definition_name": "Главно, централно место на нешто; центар на нешто",
+				"definition_example": "Охрид е жариште и расадник на словенската писменост"
+			}
+		]
+	},
+
+	{
+		"word": "жарка несв.",
+		"name": "жарка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "жари",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жаровит прид.",
+		"name": "жаровит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жар, што е како жар",
+				"definition_example": "Езерото беше облеано со жаровито црвенило"
+			}
+		]
+	},
+
+	{
+		"word": "жарок прид.",
+		"name": "жарок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Полн со жар",
+				"definition_example": "Сонцето светло над мене грее и фрла жарок поглед свој"
+			}
+		]
+	},
+
+	{
+		"word": "жароса св.",
+		"name": "жароса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Претвори во жар, изгори",
+				"definition_example": "Огнот ги жароса дрвјата"
+			}
+		]
+	},
+
+	{
+		"word": "жартиер м.",
+		"name": "жартиер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(обично во мн) Појас за придржување на чорапите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жарулка ж.",
+		"name": "жарулка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид пеперуга чиишто крилја имаат црвеникави шари",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жбара несв.",
+		"name": "жбара",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џбара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жбитак м.",
+		"name": "жбитак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "џбитак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жбура несв.",
+		"name": "жбура",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џбитак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жвака несв.",
+		"name": "жвака",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џвака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жвакне св.",
+		"name": "жвакне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "џвакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жган м.",
+		"name": "жган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "џган",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жграмоти несв.",
+		"name": "жграмоти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвикува силни испрекинати звуци, ѕвекоти",
+				"definition_example": "Коњот жграмотеше"
+			}
+		]
+	},
+
+	{
+		"word": "жгура несв.",
+		"name": "жгура",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џгура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждере несв.",
+		"name": "ждере",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Јаде како животно",
+				"definition_example": "Лавот ждере живо месо"
+			}
+		]
+	},
+
+	{
+		"word": "ждрака несв.",
+		"name": "ждрака",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "штрака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждракне св.",
+		"name": "ждракне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "штракне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждранга несв.",
+		"name": "ждранга",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Тропа, предизвикува силни испрекинати звуци",
+				"definition_example": "По нив ждрангаше стара кола"
+			}
+		]
+	},
+
+	{
+		"word": "ждрапа несв.",
+		"name": "ждрапа",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "штрапа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждрапне св.",
+		"name": "ждрапне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "штрапне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждреб м.",
+		"name": "ждреб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Извлекување на еден предмет (обично парче хартија) од повеќе такви предмети заради донесување на некоја одлука",
+				"definition_example": "Ќе ве задржам до часот на ждребот што треба да го извлечете"
+			}
+		]
+	},
+
+	{
+		"word": "ждреба несв.",
+		"name": "ждреба",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Одлучува, донесува некоја одлука со помош на ждреб; фрла коцка",
+				"definition_example": "Сега јас ќе ждребам"
+			}
+		]
+	},
+
+	{
+		"word": "ждребе ср.",
+		"name": "ждребе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "младо од коњ",
+				"definition_example": "Ждребето беше немирно и палаво"
+			}
+		]
+	},
+
+	{
+		"word": "ждребец м.",
+		"name": "ждребец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "машко ждребе",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Расен коњ за приплод",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Млад коњ за јавање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждреби несв.",
+		"name": "ждреби",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Донесува на свет ждребе",
+				"definition_example": "Кобилата се ждреби секоја година"
+			}
+		]
+	},
+
+	{
+		"word": "ждребица ж.",
+		"name": "ждребица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женско ждребе",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид смок долг околу два метра",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждребна прид.",
+		"name": "ждребна",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За кобила што ќе се ождреби",
+				"definition_example": "Ждребната кобила не ја товараме"
+			}
+		]
+	},
+
+	{
+		"word": "ждребува несв.",
+		"name": "ждребува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Фрла коцка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждрело ср.",
+		"name": "ждрело",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Просторот меѓу гркланот и хранопроводот, зад носната и усната празнина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Уста, грло кај крволочните животни, мечка, змија и сл",
+				"definition_example": "Птицата исчезна во ждрелото на змијата"
+			},
+			{
+				"definition_name": "Отвор, шуплина во земјата, влез во јама, пештера и сл",
+				"definition_example": "Ждрелото на пештерата беше тесно"
+			}
+		]
+	},
+
+	{
+		"word": "ждрепка ж.",
+		"name": "ждрепка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ждреб",
+				"definition_example": "„Убава ждрепка за нас“, беше првата реакција на спортскиот директор"
+			},
+			{
+				"definition_name": "неотровна змија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждригав прид.",
+		"name": "ждригав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што ждрига, што подждригнува",
+				"definition_example": "По јадењето беше многу ждригав"
+			}
+		]
+	},
+
+	{
+		"word": "ждригавица ж.",
+		"name": "ждригавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Испуштање воздух од желудникот преку устата (обично придружено со карактеристичен звук)",
+				"definition_example": "Кога си ја потпрев главата на неговите гради, чув ждригавица на вулкан"
+			}
+		]
+	},
+
+	{
+		"word": "ждригне св.",
+		"name": "ждригне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Испуштање воздух од желудникот преку устата (обично придружено со карактеристичен звук)",
+				"definition_example": "Кога си ја потпрев главата на неговите гради, чув ждригавица на вулкан"
+			}
+		]
+	},
+
+	{
+		"word": "ждриговина ж.",
+		"name": "ждриговина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ждригавица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждринга несв.",
+		"name": "ждринга",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "ждринготи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждрингот м.",
+		"name": "ждрингот",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Звук што се слуша кога нешто ѕвечи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ждринготи несв.",
+		"name": "ждринготи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Испушта силни и испрекинати звуци",
+				"definition_example": "Тие ги трескаат вратите и ждринготат со котлите"
+			}
+		]
+	},
+
+	{
+		"word": "жебрав прид.",
+		"name": "жебрав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е со набрана, збрчкана кожа (обично за човек)",
+				"definition_example": "Остана само твоето голо жебраво тело"
+			}
+		]
+	},
+
+	{
+		"word": "жебурав прид.",
+		"name": "жебурав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жебрав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жебурка ж.",
+		"name": "жебурка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "подочници",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жебуркоса св.",
+		"name": "жебуркоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Се збрчка, се набра во кожата",
+				"definition_example": "Тој беше стар и жебуркосан"
+			}
+		]
+	},
+
+	{
+		"word": "жеволи несв.",
+		"name": "жеволи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прежива, ја преџвакува храната",
+				"definition_example": "Воловите жеволеа во шталата"
+			},
+			{
+				"definition_name": "Преживува, живурка, живее тешко",
+				"definition_example": "Црно, бело, ама мора да се жеволи, да се турка напред"
+			}
+		]
+	},
+
+	{
+		"word": "жеволка несв.",
+		"name": "жеволка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прежива полека, по малку, ја преџвакува храната",
+				"definition_example": "Кравата жеволкаше"
+			},
+			{
+				"definition_name": "живурка, преживува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жег м.",
+		"name": "жег",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Знак што се удира на дрвја или на животни",
+				"definition_example": "Селаните им ставија жегови на овците"
+			}
+		]
+	},
+
+	{
+		"word": "жега несв.",
+		"name": "жега",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(само  л) За болка - прободува, силно пече",
+				"definition_example": "Ме жега во слабините"
+			}
+		]
+	},
+
+	{
+		"word": "жега ж.",
+		"name": "жега",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Голема жештина предизвикана од сонцето",
+				"definition_example": "Го фати пладневната жега"
+			}
+		]
+	},
+
+	{
+		"word": "жегавица ж.",
+		"name": "жегавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Бодеж, остар убод од нешто",
+				"definition_example": "Во телото сети остра жегавица"
+			},
+			{
+				"definition_name": "Инсект што каса, сличен на мравката",
+				"definition_example": "По ѕидот се качуваа стоногалки, жегавици и пајаци"
+			}
+		]
+	},
+
+	{
+		"word": "жегалец м.",
+		"name": "жегалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инсект што испушта остри звуци",
+				"definition_example": "Во воздухот се слушаше шум на летни жегалци"
+			}
+		]
+	},
+
+	{
+		"word": "жегарец м.",
+		"name": "жегарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жегалец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жегла ж.",
+		"name": "жегла",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жегол",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жеглив прид.",
+		"name": "жеглив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е остар, силен; што предизвикува болка",
+				"definition_example": "Потоа нешто жегливо го жегна во градите"
+			}
+		]
+	},
+
+	{
+		"word": "жегнат прид.",
+		"name": "жегнат",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жеглив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жегне св.",
+		"name": "жегне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "жега",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "боцне, касне",
+				"definition_example": "Штркелот го жегнал волот"
+			},
+			{
+				"definition_name": "Засегне, гибне, боцне некого",
+				"definition_example": "Тоа ме жегна в срце"
+			}
+		]
+	},
+
+	{
+		"word": "жегол м.",
+		"name": "жегол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Железна или дрвена прачка што се става на јарем при впрегање",
+				"definition_example": "Таа откако веќе замесила, го зела жеголот и го префрлила пред куќата"
+			}
+		]
+	},
+
+	{
+		"word": "жеден прид.",
+		"name": "жеден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што чувствува потреба за пиење",
+				"definition_example": "Тој беше лут, измрзнат и жеден за голтка вода"
+			},
+			{
+				"definition_name": "Што има голема желба за нешто",
+				"definition_example": "Тој беше жеден за знаење"
+			}
+		]
+	},
+
+	{
+		"word": "жеднее несв.",
+		"name": "жеднее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува жеден, чувствува жед",
+				"definition_example": "Болниот жеднееше за вода"
+			},
+			{
+				"definition_name": "Копнее за некого или нешто",
+				"definition_example": "Многумина жеднееја за поубав живот"
+			}
+		]
+	},
+
+	{
+		"word": "жедник м.",
+		"name": "жедник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Станува жеден, чувствува жед",
+				"definition_example": "Болниот жеднееше за вода"
+			},
+			{
+				"definition_name": "Копнее за некого или нешто",
+				"definition_example": "Многумина жеднееја за поубав живот"
+			}
+		]
+	},
+
+	{
+		"word": "жедност ж.",
+		"name": "жедност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лице што е жедно, што чувствува жед",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жедува несв.",
+		"name": "жедува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Чувствува жед, е жеден",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жеже несв.",
+		"name": "жеже",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвикува силна топлина",
+				"definition_example": "Песокта под нозете сѐ уште жежеше"
+			},
+			{
+				"definition_name": "Предизвикува болка или некое друго непријатно чувство",
+				"definition_example": "Очите му жежеа, а главата страшно го болеше"
+			}
+		]
+	},
+
+	{
+		"word": "жеже-пече сло.",
+		"name": "жеже",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвикува силна топлина",
+				"definition_example": "Песокта под нозете сѐ уште жежеше"
+			},
+			{
+				"definition_name": "Предизвикува болка или некое друго непријатно чувство",
+				"definition_example": "Очите му жежеа, а главата страшно го болеше"
+			}
+		]
+	},
+
+	{
+		"word": "жежне св.",
+		"name": "жеже-пече",
+		"type": "Сложенка",
+		"definitions": [
+			{
+				"definition_name": "Инсект што создава нежни звуци слични на чрчорење; полски штурец",
+				"definition_example": "Во летните месеци почнува песната на жеже-печето"
+			}
+		]
+	},
+
+	{
+		"word": "жежок прид.",
+		"name": "жежок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е многу топол, врел",
+				"definition_example": "Жешкиот ветер дуваше од југ"
+			},
+			{
+				"definition_name": "Што е страстен, пламенен",
+				"definition_example": "жешка љубов"
+			}
+		]
+	},
+
+	{
+		"word": "жезол м.",
+		"name": "жезол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјално изработен и украсен стап како симбол на владетелско или некое друго достоинство",
+				"definition_example": "Царски жезол"
+			}
+		]
+	},
+
+	{
+		"word": "желад м.",
+		"name": "жезол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјално изработен и украсен стап како симбол на владетелско или некое друго достоинство",
+				"definition_example": "Царски жезол"
+			}
+		]
+	},
+
+	{
+		"word": "желадар м.",
+		"name": "желад",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Плод од даб или бука",
+				"definition_example": "Со желадот можеш да го нараниш прасето"
+			}
+		]
+	},
+
+	{
+		"word": "желание ср.",
+		"name": "желание",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "желба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желатин м.",
+		"name": "желатин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Смеса што се добива со варење на одредени делови од животинско потекло (коски, кожа) и којашто служи за лепење",
+				"definition_example": "Безбојниот туткал се нарекува желатин"
+			},
+			{
+				"definition_name": "Проѕирна материја, обично во тенки ливчиња што се употребува во кулинарството, фотографијата и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желатинест прид.",
+		"name": "желатинест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што содржи желатин, што е како желатин",
+				"definition_example": "Медузите се желатинести и проѕирни животинчиња"
+			}
+		]
+	},
+
+	{
+		"word": "желба ж.",
+		"name": "желба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стремеж кон нешто, мечта, копнеж за некого или нешто",
+				"definition_example": "Тие имаа страсна желба за читање и за пеење"
+			},
+			{
+				"definition_name": "барање, посакување, наредба",
+				"definition_example": "По желба на родителите, студирал медицина"
+			}
+		]
+	},
+
+	{
+		"word": "желбен прид.",
+		"name": "желбен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што содржи, што чувствува некаква желба, потреба и сл",
+				"definition_example": "желбен список"
+			},
+			{
+				"definition_name": "Што означува неизвршено дејство, коешто е во согласност со желбите на говорното лице",
+				"definition_example": "желбени реченици"
+			}
+		]
+	},
+
+	{
+		"word": "желботека ж.",
+		"name": "желботека",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Библиотека на желби, неологизам созададен од зборовите желба и библиотека",
+				"definition_example": "Дали сите документирани студии, стратегии, правилници и законици станаа условна желботека?"
+			}
+		]
+	},
+
+	{
+		"word": "желе ср.",
+		"name": "желе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Овошен сок сварен со шеќер којшто се претвора во пивтија; вид бонбони",
+				"definition_example": "Желе од дуња"
+			},
+			{
+				"definition_name": "Каша од разварено месо, пивтија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Желево име.",
+		"name": "Желево",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Антартикон, село во Леринска околија,  (º' x º'), Грција",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желевце ср.",
+		"name": "желевце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "железо",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долгнавеста железна плочка на чевлите",
+				"definition_example": "Чевларот ми стави желевца на чевлите"
+			}
+		]
+	},
+
+	{
+		"word": "железар м.",
+		"name": "железар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што обработува железо",
+				"definition_example": "Железарите штрајкуваат во кругот на железарницата"
+			},
+			{
+				"definition_name": "Трговец со железна стока, со железарија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "железара ж.",
+		"name": "железара",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "железарница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "железарија ж.",
+		"name": "железарија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Предмети од железо",
+				"definition_example": "Дуќан со железарија"
+			}
+		]
+	},
+
+	{
+		"word": "железарница ж.",
+		"name": "железарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Топилница и леарница на железо",
+				"definition_example": "Железарницата работеше со намален капацитет"
+			},
+			{
+				"definition_name": "Продавница, дуќан каде што се продаваат железни предмети",
+				"definition_example": "Во селската железарница имаше мотики, копачи и други алатки за селаните"
+			}
+		]
+	},
+
+	{
+		"word": "железарство ср.",
+		"name": "железарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Занает на железар",
+				"definition_example": "Од сите занаети најмногу го сака железарството"
+			}
+		]
+	},
+
+	{
+		"word": "железен прид.",
+		"name": "железен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од железо",
+				"definition_example": "железен кревет"
+			},
+			{
+				"definition_name": "Што содржи железо",
+				"definition_example": "железна руда"
+			},
+			{
+				"definition_name": "Што е силен, јак како железо",
+				"definition_example": "Навистина ли има железни раце?"
+			}
+		]
+	},
+
+	{
+		"word": "железница ж.",
+		"name": "железница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сообраќајно средство за превоз на стока и патници со единствен заеднички пат, пруга, шини и сите постројки на пругата; железнички возни средства и техничко-комерцијална организација што ги организира и регулира сите дејности во врска со тоа",
+				"definition_example": "Работи на железница"
+			},
+			{
+				"definition_name": "воз",
+				"definition_example": "Подобро ми е патувањето со железница"
+			},
+			{
+				"definition_name": "железничка линија",
+				"definition_example": "Таму патот се вкрстува со железницата"
+			}
+		]
+	},
+
+	{
+		"word": "железничар м.",
+		"name": "железничар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сообраќајно средство за превоз на стока и патници со единствен заеднички пат, пруга, шини и сите постројки на пругата; железнички возни средства и техничко-комерцијална организација што ги организира и регулира сите дејности во врска со тоа",
+				"definition_example": "Работи на железница"
+			}
+		]
+	},
+
+	{
+		"word": "железнички прид.",
+		"name": "железнички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на железница",
+				"definition_example": "Железничка станица"
+			}
+		]
+	},
+
+	{
+		"word": "железо ср.",
+		"name": "железо",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(само едн) Хемиски елемент, метал со сребрено-белузлава боја",
+				"definition_example": "Железото е единствен апсолутно неопходен елемент за растенијата"
+			},
+			{
+				"definition_name": "Предмет или парче од тој метал",
+				"definition_example": "Острото железо удри в земја"
+			},
+			{
+				"definition_name": "Секое метално парче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желен прид.",
+		"name": "желен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што чувствува желба, што сака некого или нешто",
+				"definition_example": "Желна бев за тебе"
+			},
+			{
+				"definition_name": "страден",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желка ж.",
+		"name": "желка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Копнено и водно животно покриено со цврст оклоп што се движи бавно на четири нозе, кои заедно со главата може да ги вовлече во оклопот",
+				"definition_example": "Во капиновите грмушки шушкаа желки"
+			}
+		]
+	},
+
+	{
+		"word": "желкин прид.",
+		"name": "желкин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа на желка или што е од желка",
+				"definition_example": "Желкина корупка"
+			}
+		]
+	},
+
+	{
+		"word": "желник м.",
+		"name": "желник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што посакува нешто; копнее, страда за нешто",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желница ж.",
+		"name": "желница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жена што пожелува или копнее за нешто",
+				"definition_example": "Сирота желница не доживеа да си ги види внучињата"
+			},
+			{
+				"definition_name": "Летва што ги држи ќерамидите на куќата",
+				"definition_example": "Желниците на куќата беа накривени од тежината на снегот"
+			}
+		]
+	},
+
+	{
+		"word": "желуд м.",
+		"name": "желуд",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "желудник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "желудник м.",
+		"name": "желудник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Орган за варење на храната, сместен во горниот дел на стомачната празнина кај човекот и кај животните цицачи",
+				"definition_example": "Се разбудив со болки во желудникот"
+			}
+		]
+	},
+
+	{
+		"word": "желудочен прид.",
+		"name": "желудочен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на желудник",
+				"definition_example": "Желудочен сок"
+			}
+		]
+	},
+
+	{
+		"word": "желурок м.",
+		"name": "желурок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "мажјак од желка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жена ж.",
+		"name": "жена",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лице според полот спротивно на мажот; женско лице во зрела возраст",
+				"definition_example": "Мажите и жените се еднакви пред законот"
+			},
+			{
+				"definition_name": "Брачен другар од женски пол",
+				"definition_example": "Животот си го минувам со мојата жена и со моите деца"
+			},
+			{
+				"definition_name": "Лице што за плата, награда работи во туѓа куќа; куќна помошничка",
+				"definition_example": "Имаме жена што ни го чува детето додека сме на работа"
+			}
+		]
+	},
+
+	{
+		"word": "женачка ж.",
+		"name": "женачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женидба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "женет прид.",
+		"name": "женет",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За лице од машки пол што е во брак",
+				"definition_example": "Сите три сина ми се женети"
+			}
+		]
+	},
+
+	{
+		"word": "женетина ж.",
+		"name": "женетина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена, жениште",
+				"definition_example": "Таа е женетина"
+			}
+		]
+	},
+
+	{
+		"word": "жени несв.",
+		"name": "жени",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Подготвува машко лице да стапи во брак",
+				"definition_example": "В недела имам свадба, син женам"
+			},
+			{
+				"definition_name": "(се жени) За машко лице - стапува во брак",
+				"definition_example": "Уште не мислам да се женам"
+			}
+		]
+	},
+
+	{
+		"word": "женидба ж.",
+		"name": "женидба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стапување на машко лице во брак",
+				"definition_example": "Има време за женидба"
+			}
+		]
+	},
+
+	{
+		"word": "женидбен прид.",
+		"name": "женидбен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на женидба",
+				"definition_example": "женидбен договор"
+			}
+		]
+	},
+
+	{
+		"word": "женин прид.",
+		"name": "женин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што ѝ припаѓа на сопругата, што се однесува на сопругата",
+				"definition_example": "Женините препирки се постојано прокиснување"
+			}
+		]
+	},
+
+	{
+		"word": "женира несв.",
+		"name": "женира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пречи некому, создава непријатност",
+				"definition_example": "Таквиот настап ме женираше"
+			},
+			{
+				"definition_name": "(се женира) Се срами, се воздржува во друштво, се стеснува",
+				"definition_example": "Повели, немој да се женираш"
+			}
+		]
+	},
+
+	{
+		"word": "женкар м.",
+		"name": "женкар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што претерано им се додворува на жените, што трча по жени",
+				"definition_example": "Тие биле големи женкари и од нив пиштеле и момите и жените"
+			}
+		]
+	},
+
+	{
+		"word": "женкарство ср.",
+		"name": "женкарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Особина на тој што е женкар, претерано додворување на жените",
+				"definition_example": "Според некои, женкарството е психичко заболување"
+			}
+		]
+	},
+
+	{
+		"word": "женољубец м.",
+		"name": "женољубец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Особина на тој што е женкар, претерано додворување на жените",
+				"definition_example": "Според некои, женкарството е психичко заболување"
+			}
+		]
+	},
+
+	{
+		"word": "женомразец м.",
+		"name": "женомразец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што ги сака жените",
+				"definition_example": "Тој е голем женољубец"
+			}
+		]
+	},
+
+	{
+		"word": "женомразие ср.",
+		"name": "женомразие",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Омраза кон лица од женскиот пол",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "женска ж.",
+		"name": "женска",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Општо, лице од женски пол",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "љубовница, девојка за забава",
+				"definition_example": "Треба да си најдеш некоја пристојна женска"
+			},
+			{
+				"definition_name": "јавна жена, проститутка",
+				"definition_example": "Тогаш тој беше принуден да ја гасне својата тага кај други женски и по кабареата"
+			}
+		]
+	},
+
+	{
+		"word": "женскар м.",
+		"name": "женскар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "женкар",
+				"definition_example": "За секој женскар си постои девојка којашто кога-тогаш ќе го смири"
+			}
+		]
+	},
+
+	{
+		"word": "женскаст прид.",
+		"name": "женскаст",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За машко со нагласени женски особини",
+				"definition_example": "многу женскаст тип"
+			}
+		]
+	},
+
+	{
+		"word": "женски прид.",
+		"name": "женски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од спротивен пол на машкиот",
+				"definition_example": "женско дете"
+			},
+			{
+				"definition_name": "Што припаѓа, што е наменето, што се однесува на жена",
+				"definition_example": "женска облека"
+			}
+		]
+	},
+
+	{
+		"word": "женско ср.",
+		"name": "женско",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Жена како пол",
+				"definition_example": "Женското ми учи во гимназија"
+			},
+			{
+				"definition_name": "Женско новороденче",
+				"definition_example": "Ми се роди женско"
+			}
+		]
+	},
+
+	{
+		"word": "женсковина ж.",
+		"name": "женсковина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женскост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "женскост ж.",
+		"name": "женскост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Множеството особини што го прават полот и природата на жената (привлечност, нежност, чувствителност, женственост)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "женскотија ж.",
+		"name": "женскотија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Множество женски лица во семејството или во некоја друга средина",
+				"definition_example": "Неговата невеста му ја наполни куќата со женскотија"
+			}
+		]
+	},
+
+	{
+		"word": "женствен прид.",
+		"name": "женствен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е својствено за жените, што е како кај жените, што има типични женски карактеристики",
+				"definition_example": "Женствена фигура"
+			}
+		]
+	},
+
+	{
+		"word": "женшен м.",
+		"name": "женшен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Билка со здебелен корен што се употребува како стимулативно средство",
+				"definition_example": "азиски женшен"
+			}
+		]
+	},
+
+	{
+		"word": "женштија ж.",
+		"name": "женштија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женскост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "женштина ж.",
+		"name": "женштина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женскост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жерав м.",
+		"name": "жерав",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Птица преселница со светлосиви пердуви, населена покрај бари и мочуришта",
+				"definition_example": "Есента замина со жеравите"
+			}
+		]
+	},
+
+	{
+		"word": "жерави несв.",
+		"name": "жерави",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се метка, се вртка, се наоѓа во немирна состојба, се движи во сите правци",
+				"definition_example": "Говедата се жеравеа, заразени од жабица"
+			}
+		]
+	},
+
+	{
+		"word": "жерсе ср.",
+		"name": "жерсе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Вид ткаенина што служи за изработка на облека",
+				"definition_example": "Таа носеше елегантен костум од најквалитетно жерсе"
+			}
+		]
+	},
+
+	{
+		"word": "жертва ж.",
+		"name": "жертва",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жртва",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жести несв.",
+		"name": "жести",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Губи присебност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жестина ж.",
+		"name": "жестина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "силина, јачина",
+				"definition_example": "Жестината на ветрот не се намалува"
+			},
+			{
+				"definition_name": "Лутина или силна возбуда",
+				"definition_example": "Прашањата се дискутираа со голема жестина"
+			}
+		]
+	},
+
+	{
+		"word": "жесток прид.",
+		"name": "жесток",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е суров, безмилосен, бездушен, нечовечен",
+				"definition_example": "Тој е жесток човек"
+			},
+			{
+				"definition_name": "Што е многу силен, што се пројавува со некое силно изразено својство",
+				"definition_example": "Жестока постапка"
+			}
+		]
+	},
+
+	{
+		"word": "жетвар м.",
+		"name": "жетвар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што жние жито, што ја извршува жетвата",
+				"definition_example": "Со жетварите ќе влеземе в село"
+			},
+			{
+				"definition_name": "Народен назив за седмиот месец во годината",
+				"definition_example": "Жетвар течеше и печеше жетварското сонце"
+			}
+		]
+	},
+
+	{
+		"word": "жетварски прид.",
+		"name": "жетварски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со жетвар",
+				"definition_example": "жетварска песна"
+			}
+		]
+	},
+
+	{
+		"word": "жетварче ср.",
+		"name": "жетварски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со жетвар",
+				"definition_example": "жетварска песна"
+			}
+		]
+	},
+
+	{
+		"word": "жетвен прид.",
+		"name": "жетвен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жетвар",
+				"definition_example": "Се собираат дечишта за да чукаат јаболчиња - жетварчиња"
+			}
+		]
+	},
+
+	{
+		"word": "жетон м.",
+		"name": "жетон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Метална или пластична тркалезна плочка што заменува пари (во некои хазардни игри или автомати)",
+				"definition_example": "Некои момчиња фрлаа жетони во автоматите што светкаа"
+			}
+		]
+	},
+
+	{
+		"word": "жешко прил.",
+		"name": "жешко",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "жежок",
+				"definition_example": "Жешко ми е"
+			}
+		]
+	},
+
+	{
+		"word": "жешти несв.",
+		"name": "жешти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се загрева, се усвитува",
+				"definition_example": "Песокта се жештеше од сонцето"
+			},
+			{
+				"definition_name": "Се пали, се возбудува",
+				"definition_example": "Тој почна по малку да се жешти и да зборува секакви грубости"
+			}
+		]
+	},
+
+	{
+		"word": "жештина ж.",
+		"name": "жештина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Висока топлина на воздухот",
+				"definition_example": "Беше скоро Петровден, сезоната на жештини"
+			}
+		]
+	},
+
+	{
+		"word": "жив прид.",
+		"name": "жештина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Висока топлина на воздухот",
+				"definition_example": "Беше скоро Петровден, сезоната на жештини"
+			}
+		]
+	},
+
+	{
+		"word": "жива ж.",
+		"name": "жива",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Хемиски елемент, метал во течна состојба, со сребреникава боја",
+				"definition_example": "Живата во термометарот се спушти под нулата"
+			}
+		]
+	},
+
+	{
+		"word": "живалец м.",
+		"name": "живалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "доенче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живе прил.",
+		"name": "живе",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Само во составите: на живе, при живе - додека е, додека бил жив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живеалиште ср.",
+		"name": "живеалиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дом за живеење, куќа, зграда",
+				"definition_example": "Тој направи најубаво живеалиште на брегот"
+			},
+			{
+				"definition_name": "Место за живеење",
+				"definition_example": "Земјата е нашето живеалиште"
+			}
+		]
+	},
+
+	{
+		"word": "живее несв.",
+		"name": "живее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Постои, суштествува како жив организам, жив е",
+				"definition_example": "Нема повеќе волја да живее"
+			},
+			{
+				"definition_name": "Ги врши биолошките функции, е во живот во определени услови",
+				"definition_example": "Рибите живеат во вода"
+			},
+			{
+				"definition_name": "Го поминува животот некаде, на некое место",
+				"definition_example": "Ескимите живеат на Северниот Пол"
+			},
+			{
+				"definition_name": "Го поминува животот на некаков начин, под некакви услови",
+				"definition_example": "Тој живее без жена"
+			},
+			{
+				"definition_name": "Го поминува животот заедно, во заедница со некого",
+				"definition_example": "Тој живее со баба му"
+			},
+			{
+				"definition_name": "Живее за некого, за нешто; за некоја цел",
+				"definition_example": "Тие живеат само за своите деца"
+			},
+			{
+				"definition_name": "Се издржува од нешто",
+				"definition_example": "Живее од тутун"
+			},
+			{
+				"definition_name": "Се согласува, е во добри односи со некого",
+				"definition_example": "Тие си живееја убаво еден со друг"
+			}
+		]
+	},
+
+	{
+		"word": "живејачка ж.",
+		"name": "живејачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "живот, живеење",
+				"definition_example": "Го прашав како е со живејачката и со здравјето"
+			}
+		]
+	},
+
+	{
+		"word": "живец м.",
+		"name": "живец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "нерв",
+				"definition_example": "(разг) Никогаш немам вадено живец на заб"
+			},
+			{
+				"definition_name": "Енергично, нескротливо лице",
+				"definition_example": "Сиот е живец"
+			},
+			{
+				"definition_name": "Кожичка околу коренот на ноктот",
+				"definition_example": "Имам голем проблем со живецот на показалецот на левата рака"
+			},
+			{
+				"definition_name": "Врвка врзана за двата краја на основата за да не падне при ткаење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(обично во мн) Спојници кои ги врзуваат наплатите на колите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живин прид.",
+		"name": "живин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жива, што е од жива",
+				"definition_example": "живин термометар"
+			}
+		]
+	},
+
+	{
+		"word": "живина ж.",
+		"name": "живина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(само едн) Домашни птици, пердувести животни",
+				"definition_example": "Објектите во кои се сместува живината се нарекуваат живинарници"
+			},
+			{
+				"definition_name": "животно",
+				"definition_example": "Луѓе со луѓе, живини со живини"
+			},
+			{
+				"definition_name": "вошки",
+				"definition_example": "Тој има живина"
+			}
+		]
+	},
+
+	{
+		"word": "живинарник м.",
+		"name": "живинарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место, заграден простор или кафез каде што се чува живина",
+				"definition_example": "Живинарникот е поголема ѕидана зградичка со полно простории и прегради за секаква живина"
+			}
+		]
+	},
+
+	{
+		"word": "живинарски прид.",
+		"name": "живинарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со живинарство",
+				"definition_example": "живинарска фарма"
+			}
+		]
+	},
+
+	{
+		"word": "живинарство ср.",
+		"name": "живинарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Одгледување живина како стопанска гранка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живинка ж.",
+		"name": "живинка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "живина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живица ж.",
+		"name": "живица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Растресит, плоден, почвен слој земјиште, богат со хумус и минерали",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живка несв.",
+		"name": "живка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "живурка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живне св.",
+		"name": "живне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Закрепне, поврати животна сила, добие живост; стане пожив",
+				"definition_example": "По обилните дождови живнаа растенијата"
+			}
+		]
+	},
+
+	{
+		"word": "живо прил.",
+		"name": "живне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Закрепне, поврати животна сила, добие живост; стане пожив",
+				"definition_example": "По обилните дождови живнаа растенијата"
+			}
+		]
+	},
+
+	{
+		"word": "живодер м.",
+		"name": "живодер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што дере болни или пцовисани животни",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "суров, жесток, безмилосен",
+				"definition_example": "Тој е вистински живодер"
+			}
+		]
+	},
+
+	{
+		"word": "живодерец м.",
+		"name": "живодерец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "живодер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живодерник м.",
+		"name": "живодерник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Черга од коноп што служи за покривање",
+				"definition_example": "Се покри со живодерникот"
+			}
+		]
+	},
+
+	{
+		"word": "живодерство ср.",
+		"name": "живодерство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Особина на тој што е живодер",
+				"definition_example": "Тоа е живодерство"
+			}
+		]
+	},
+
+	{
+		"word": "живожален прид.",
+		"name": "живожален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е за жалење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живожарица ж.",
+		"name": "живожарица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жив оган, оган што гори",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Жешка пепел измешана со жар, жар што не е истлеан",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живоздраво прил.",
+		"name": "живоздраво",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "здраво-живо",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живоланче ср.",
+		"name": "живоланче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "рулче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живопис м.",
+		"name": "живопис",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ликовна уметност во која се слика со бои",
+				"definition_example": "Света Гора била најпозната школа каде што мајсторите ги изучувале тајните на живописот"
+			},
+			{
+				"definition_name": "Дела на таа уметност",
+				"definition_example": "Во Бигорскиот манастир заврши реставрацијата на живописот"
+			},
+			{
+				"definition_name": "Сликарство на фрески и икони во православните цркви",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живописен прид.",
+		"name": "живописен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на живопис",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Што се одликува со живост, со разновидност, со убавина на боите; што е како насликан",
+				"definition_example": "живописни предели, живописно гратче"
+			}
+		]
+	},
+
+	{
+		"word": "живописец м.",
+		"name": "живописец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Уметник што се занимава со живопис",
+				"definition_example": "Фреските од црквата се направени од искусен живописец"
+			}
+		]
+	},
+
+	{
+		"word": "живороден прид.",
+		"name": "живороден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е роден жив",
+				"definition_example": "Бројот на живородените деца во  година, во споредба со минатата година, е намален за  деца или за , отсто"
+			}
+		]
+	},
+
+	{
+		"word": "живот м.",
+		"name": "живот",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(едн) Биолошки облик на постоење и движење на материјата, настанат на определена етапа од нејзиниот развој",
+				"definition_example": "Појава на животот на Земјата"
+			},
+			{
+				"definition_name": "(едн) Физиолошка состојба на живите организми од раѓањето до смртта (често во затврдени изрази со глаголите: даде, положи, одземе, изгуби)",
+				"definition_example": "Тој го даде својот живот за слободата на Македонија"
+			},
+			{
+				"definition_name": "(едн) Израз на физичка и духовна сила, животност, живост",
+				"definition_example": "Тој беше полн со живот"
+			},
+			{
+				"definition_name": "(едн) Начин на живеење, постоење, врзан за определени услови, обичаи и сл",
+				"definition_example": "градски живот"
+			},
+			{
+				"definition_name": "(мн животи) живо суштество",
+				"definition_example": "Многу животи зеде на душа"
+			},
+			{
+				"definition_name": "Животен пат, тек, важни животни случки на некој човек",
+				"definition_example": "живот и дело"
+			},
+			{
+				"definition_name": "(едн) Организација, начин на постоење и дејствување на некој систем",
+				"definition_example": "животот на државата"
+			},
+			{
+				"definition_name": "(едн) Дејствување на човекот и на општествената заедница во некоја област",
+				"definition_example": "политички живот"
+			},
+			{
+				"definition_name": "(едн) Реалниот свет во којшто суштествува човекот",
+				"definition_example": "секојдневен живот"
+			}
+		]
+	},
+
+	{
+		"word": "животари несв.",
+		"name": "животари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Едвај преживува, вегетира",
+				"definition_example": "Животари хранејќи се од трошките на големите"
+			}
+		]
+	},
+
+	{
+		"word": "животворен прид.",
+		"name": "животворен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што дава живот, сила, енергија",
+				"definition_example": "животворни сончеви зраци"
+			}
+		]
+	},
+
+	{
+		"word": "животен прид.",
+		"name": "животен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на животот, што е во врска со животот, што е потребно за живот",
+				"definition_example": "животна способност"
+			},
+			{
+				"definition_name": "Што е важно, што е од големо значење за или во животот",
+				"definition_example": "Тоа е од животно значење"
+			},
+			{
+				"definition_name": "Што е полн живот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Што дава живот",
+				"definition_example": "животна сила"
+			}
+		]
+	},
+
+	{
+		"word": "животи прил.",
+		"name": "животи",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Во состави со предлог: на животи, до животи, при животи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "животина ж.",
+		"name": "животина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "животно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "животински прид.",
+		"name": "животински",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува, што е својствено на животно, што потекнува од животно",
+				"definition_example": "животински свет, животинско потекло"
+			}
+		]
+	},
+
+	{
+		"word": "животно ср.",
+		"name": "животно",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Живо суштество способно да се движи и да чувствува (наспроти растение), обично исклучувајќи го човекот",
+				"definition_example": "Дворот на селската куќа беше преполн со разни домашни животни"
+			},
+			{
+				"definition_name": "груб, некултурен човек",
+				"definition_example": "Подло животно беше тоа старче"
+			}
+		]
+	},
+
+	{
+		"word": "животност ж.",
+		"name": "животност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Својство на тоа што значи живот, што е полно со живот, со животна сила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "животодавен прид.",
+		"name": "животодавен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што дава, што внесува живот, што влијае поволно, што вдахновува",
+				"definition_example": "животодавна почва"
+			}
+		]
+	},
+
+	{
+		"word": "животопис м.",
+		"name": "животопис",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Опис на животот на некоја личност",
+				"definition_example": "животопис на писателот"
+			}
+		]
+	},
+
+	{
+		"word": "животописание ср.",
+		"name": "животописание",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "животопис",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "животописен прид.",
+		"name": "животописен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "животопис",
+				"definition_example": "Животописните податоци се црпени од неговите белешки"
+			}
+		]
+	},
+
+	{
+		"word": "животописец м.",
+		"name": "животописец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "автор на животопис",
+				"definition_example": "Неговиот животописец, монахот Даниил, за него вели: „Со телото се вознесе на Синајската Гора, а со духот на Гората Небесна“"
+			}
+		]
+	},
+
+	{
+		"word": "животоспособен прид.",
+		"name": "животоспособен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "способен за живот",
+				"definition_example": "Не сум сигурен дали тој е животоспособен"
+			}
+		]
+	},
+
+	{
+		"word": "живуланче ср.",
+		"name": "живуланче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "рулче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живуле ср.",
+		"name": "живуле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "рулче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "живурка несв.",
+		"name": "живурка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Живее скудно, одвај живее",
+				"definition_example": "Нивните родители живуркаа со помошта што им ја даваа тие"
+			}
+		]
+	},
+
+	{
+		"word": "живчан прид.",
+		"name": "живчан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "што лесно избувнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жиг м.",
+		"name": "жиг",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Направа со врежан натпис или знак којашто служи за ставање отпечаток врз некого или врз нешто заради обележување, распознавање, заверка и сл",
+				"definition_example": "Со вжештен железен жиг Римјаните ги обележувале своите робови"
+			},
+			{
+				"definition_name": "отпечаток",
+				"definition_example": "сув жиг"
+			},
+			{
+				"definition_name": "Обележје, одлика што трајно се остава врз нешто",
+				"definition_example": "Оставил личен жиг"
+			},
+			{
+				"definition_name": "Срам, лош белег врз името, врз личноста",
+				"definition_example": "Не може да се ослободи од тој срамен жиг"
+			},
+			{
+				"definition_name": "Вжештена железна шипка со која се буши дрво, кожа; зашилена железна шипка со која се шараат различни дрвени предмети",
+				"definition_example": "Тој го зеде жигот и направи неколку дупки на јагнешката кожа"
+			}
+		]
+	},
+
+	{
+		"word": "жига несв.",
+		"name": "жига",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "жега",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жиговина ж.",
+		"name": "жиговина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Непријатно чувство на киселост што се јавува во грлото предизвикано од стомачни киселини",
+				"definition_example": "Ме фати жиговина"
+			}
+		]
+	},
+
+	{
+		"word": "жиголо м.",
+		"name": "жиголо",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Маж што живее од љубовните врски со богати жени, машка проститутка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жигоса св.",
+		"name": "жигоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Стави жиг некому или на нешто",
+				"definition_example": "Работниците ги жигосуваа говедата"
+			},
+			{
+				"definition_name": "Осуди, обвини некого",
+				"definition_example": "Писателот ги казнува и ги жигосува престапите"
+			}
+		]
+	},
+
+	{
+		"word": "жигосан прид.",
+		"name": "жигосан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има жиг",
+				"definition_example": "Говедата се жигосани"
+			},
+			{
+				"definition_name": "Што е осуден, обвинет",
+				"definition_example": "Тој е жигосан како злосторник"
+			}
+		]
+	},
+
+	{
+		"word": "жижа ж.",
+		"name": "жижа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Центар на публицитет",
+				"definition_example": "Во жижата на вниманието"
+			}
+		]
+	},
+
+	{
+		"word": "жижне св.",
+		"name": "жижне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвика (со нешто жешко) болка, чувство на печење",
+				"definition_example": "Тој го жижна детето со машата по нога"
+			},
+			{
+				"definition_name": "(се жижне) Се изгоре, се опече",
+				"definition_example": "Кучето се жижна од печката и избега"
+			}
+		]
+	},
+
+	{
+		"word": "жизнен прид.",
+		"name": "жизнен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "животен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жизнерадосен прид.",
+		"name": "жизнерадосен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Полн со живот и радост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жила ж.",
+		"name": "жила",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "крвен сад",
+				"definition_example": "Ми смрзна крвта в жили"
+			},
+			{
+				"definition_name": "Ткиво што ги поврзува мускулите за коските",
+				"definition_example": "Ми се здрвија жилите"
+			},
+			{
+				"definition_name": "Оној дел од растението што избива од коренот во земјата и низ кој растението добива храна",
+				"definition_example": "Удирав со казма по коренот што пуштил жили на сите страни длабоко вземи"
+			},
+			{
+				"definition_name": "Тетива од говедо од која се правеле камшици - говедска жила",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Детска играчка слична на ластик со врзана кожинка на средината на која се става каменот кој се исфрла со вртење или оптегнување",
+				"definition_example": "Детето ја оптегна жилата и го фрли каменот за да погоди едно врапче"
+			}
+		]
+	},
+
+	{
+		"word": "жилав прид.",
+		"name": "жилав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има жили, што е со истакнати, нагласени жили",
+				"definition_example": "Грст земја од родниот крај во неговата жилава рака му ја враќа силата и надежта"
+			},
+			{
+				"definition_name": "Што е мускулест, што има развиени мускули",
+				"definition_example": "Таа разговараше со еден крупен и жилав русокос човек"
+			},
+			{
+				"definition_name": "Што е растеглив, што е отпорен на кинење",
+				"definition_example": "Газевме по густата и жилава планинска трева"
+			},
+			{
+				"definition_name": "Што е здрав, издржлив",
+				"definition_example": "Тој е жилав човек"
+			},
+			{
+				"definition_name": "Што е упорен, енергичен, силен",
+				"definition_example": "Непријателот даваше жилав отпор"
+			}
+		]
+	},
+
+	{
+		"word": "жилавина ж.",
+		"name": "жилавина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жилавост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жилавка ж.",
+		"name": "жилавка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сорта бело грозје",
+				"definition_example": "Жилавката е многу родна сорта"
+			},
+			{
+				"definition_name": "Вино од таа сорта грозје",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жилаво прил.",
+		"name": "жилаво",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "жилав",
+				"definition_example": "Се држиме жилаво"
+			}
+		]
+	},
+
+	{
+		"word": "жилест прид.",
+		"name": "жилест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има многу жили",
+				"definition_example": "Гледаше во своите жилести раце"
+			}
+		]
+	},
+
+	{
+		"word": "жилет м.",
+		"name": "жилет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ноже за бричење; машинка (направа) за бричење со ноже",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жилетка ж.",
+		"name": "жилетка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "капутче, елече",
+				"definition_example": "Во текот на зимата, жилетките се секогаш во мода"
+			}
+		]
+	},
+
+	{
+		"word": "жили несв.",
+		"name": "жили",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пушта жили, корен (за млади, едногодишни гранки што се оставаат да пуштат жили за садење)",
+				"definition_example": "Коренот жилеше"
+			},
+			{
+				"definition_name": "(ме, те, го жили) Стега, прави трага во вид на жила",
+				"definition_example": "Чорапите ме жилат"
+			}
+		]
+	},
+
+	{
+		"word": "жилиште ср.",
+		"name": "жилиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Место на живеење",
+				"definition_example": "Кнезот го препорачал Климента на тамошното население и му доделил три бојарски жилишта во градот Девол"
+			},
+			{
+				"definition_name": "жила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жилиштен прид.",
+		"name": "жилиштен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жилиште",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жило ср.",
+		"name": "жило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Орган во вид игличесто цевче поврзано со жлездата што лачи отров на задниот дел од телото на некои инсекти (пчела, оса, стршлен) од каде што истекува отров при убод",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жими изв.",
+		"name": "жими",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Извик при колнење",
+				"definition_example": "Жими мајка, се колнам дека е вистина!"
+			}
+		]
+	},
+
+	{
+		"word": "жир м.",
+		"name": "жир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "желад",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жирант м.",
+		"name": "жирант",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што ја гарантира исплатата на меницата",
+				"definition_example": "Јас ја потпишав меницата како прв жирант"
+			}
+		]
+	},
+
+	{
+		"word": "жирафа ж.",
+		"name": "жирафа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Африканско животно, преживар со бледожолта боја на кожата прошарена со темни дамки и со многу долг врат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жири ср.",
+		"name": "жири",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Комисија од стручни или од избрани лица што врши избор за рангирање или наградување на разни конкурси, изложби или натпревари",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жирит м.",
+		"name": "жирит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тенок стап",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жиро ср.",
+		"name": "жиро",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Писмен пренос на меница или на некое друго банкарско побарување од еден сопственик на друг",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жиро преф.",
+		"name": "жиро",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Прв дел од сложенки со значење: што се однесува на жиро, што е во врска со жиро",
+				"definition_example": "жиро-сметка, жиро-конто, жиро-налог"
+			}
+		]
+	},
+
+	{
+		"word": "жироскоп м.",
+		"name": "жироскоп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ротирачки инструмент за навигација",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "житар м.",
+		"name": "житар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Трговец со жито",
+				"definition_example": "Житарите евтино го купуваат житото, а го продаваат скапо"
+			},
+			{
+				"definition_name": "житарец",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Народен назив за месецот август",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "житарец м.",
+		"name": "житарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инсект тврдокрилец кој го напаѓа житото",
+				"definition_example": "Житарецот е еден од најопасните штетници на пченицата, јачменот и ржта"
+			}
+		]
+	},
+
+	{
+		"word": "житарица ж.",
+		"name": "житарица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Зрнести плодови што служат како храна",
+				"definition_example": "Јачменот е зимска житарица"
+			},
+			{
+				"definition_name": "Растенијата од кои се добиваат зрнести плодови",
+				"definition_example": "Нива засеана со житарица"
+			}
+		]
+	},
+
+	{
+		"word": "житарница ж.",
+		"name": "житарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Пазар на кој се продава жито",
+				"definition_example": "Имавме отворено пекарница, но откако видовме дека нема ќар, отворивме житарница"
+			}
+		]
+	},
+
+	{
+		"word": "житарски прид.",
+		"name": "житарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со жито",
+				"definition_example": "Житарски култури"
+			}
+		]
+	},
+
+	{
+		"word": "житарство ср.",
+		"name": "житарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Одгледување на житни култури, производство и продажба на жито",
+				"definition_example": "Житарството е многу слабо развиено"
+			}
+		]
+	},
+
+	{
+		"word": "жител м.",
+		"name": "жител",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што е постојано населено во некое населена место, во некоја земја, држава и сл",
+				"definition_example": "Селото има околу шестотини жители"
+			}
+		]
+	},
+
+	{
+		"word": "жителство ср.",
+		"name": "жителство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Население што живее во некое место",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Место на живеење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жити изв.",
+		"name": "жити",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Извик при молба - да ти е (се) жив (жива, живо, живи)",
+				"definition_example": "Жити мајка, стори го тоа за мој атер"
+			}
+		]
+	},
+
+	{
+		"word": "житие ср.",
+		"name": "житие",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "животопис на светец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "житница ж.",
+		"name": "житница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "животопис на светец",
+				"definition_example": "Под селото се гледаше богатата бескрајна житница"
+			}
+		]
+	},
+
+	{
+		"word": "жито ср.",
+		"name": "жито",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Заеднички назив за едногодишните растенија чијшто зрнест плод служи за исхрана (пченица, јачмен, 'рж, овес, ориз, пченка)",
+				"definition_example": "Житата почнале да растат"
+			},
+			{
+				"definition_name": "Плод од житно растение, обично од пченица",
+				"definition_example": "Извозот на жито, за разлика од минатата година, оваа година е послаб"
+			},
+			{
+				"definition_name": "(зб мн) Нива посеана со пченица или житни култури",
+				"definition_example": "По житјата веќе се гледаа жетвари"
+			},
+			{
+				"definition_name": "Друг назив за пченица, растение и плод",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Варена и засладена пченица што се раздава за душа, за покоен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "житовино ср.",
+		"name": "житовино",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Заеднички назив за едногодишните растенија чијшто зрнест плод служи за исхрана (пченица, јачмен, 'рж, овес, ориз, пченка)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "житороден прид.",
+		"name": "житороден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што дава многу жито, што раѓа жито",
+				"definition_example": "житороден крај, житородни полиња"
+			}
+		]
+	},
+
+	{
+		"word": "жица ж.",
+		"name": "жица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "усукана нишка",
+				"definition_example": "Конец од три жици"
+			},
+			{
+				"definition_name": "метална нишка",
+				"definition_example": "Железна жица"
+			},
+			{
+				"definition_name": "Струна на музички инструмент",
+				"definition_example": "виолинска жица"
+			},
+			{
+				"definition_name": "наследна особина",
+				"definition_example": "Детево има таткова жица"
+			},
+			{
+				"definition_name": "Слој на земја во кој се наоѓа некоја руда",
+				"definition_example": "рудна жица"
+			},
+			{
+				"definition_name": "Посебна дарба за нешто",
+				"definition_example": "Тој има поетска жица"
+			}
+		]
+	},
+
+	{
+		"word": "жичарница ж.",
+		"name": "жичарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жичница",
+				"definition_example": "Поради убавото време, за два часа го продолжи работењето на жичарницата"
+			}
+		]
+	},
+
+	{
+		"word": "жичен прид.",
+		"name": "жичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од жица",
+				"definition_example": "жичена ограда"
+			},
+			{
+				"definition_name": "Што оди преку жица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жичница ж.",
+		"name": "жичница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Превозно средство со кабини или со отворени седишта што се влечат со жица",
+				"definition_example": "Жичницата од Тетово до Попова Шапка повторно е пуштена"
+			}
+		]
+	},
+
+	{
+		"word": "жишка несв.",
+		"name": "жишка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "жижне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жишне св.",
+		"name": "жишне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "жижне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жлеб м.",
+		"name": "жлеб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Долга тесна вдлабнатина на некој предмет во којашто влегува испапчениот дел од друг предмет",
+				"definition_example": "Жлебовите на фиоката не лежеа добро"
+			},
+			{
+				"definition_name": "Голема бочва за превоз на грозје, сливи и сл",
+				"definition_example": "Жлебовите беа полни со грозје"
+			}
+		]
+	},
+
+	{
+		"word": "жлебен прид.",
+		"name": "жлебен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жлеб",
+				"definition_example": "За зацврстување се употребуваат чивии, а почесто жлебен состав"
+			}
+		]
+	},
+
+	{
+		"word": "жлеби несв.",
+		"name": "жлеби",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави жлеб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жлебина ж.",
+		"name": "жлебина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн) жлеб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жлезда ж.",
+		"name": "жлезда",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Орган во телото на човекот или на животните што создава и излачува секрет",
+				"definition_example": "Лимфна жлезда"
+			},
+			{
+				"definition_name": "Назив за разни заболувања кои се покажуваат со зголемување, отекување на жлездите",
+				"definition_example": "Има жлезди"
+			}
+		]
+	},
+
+	{
+		"word": "жлезден прид.",
+		"name": "жлезден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жлезда",
+				"definition_example": "жлездно ткиво"
+			}
+		]
+	},
+
+	{
+		"word": "жлездест прид.",
+		"name": "жлездест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има облик на жлезда, што има жлезди",
+				"definition_example": "Вимето е жлездест орган, кој кај овците и козите се состои од две млечни жлезди"
+			}
+		]
+	},
+
+	{
+		"word": "жмер м.",
+		"name": "жмер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Талог што се добива при топење сланина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жмерка несв.",
+		"name": "жмерка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Ги затвора и отвора очите брзо",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Ги држи очите полузатворени",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жмерка ж.",
+		"name": "жмерка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џимиринка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жмрка несв.",
+		"name": "жмрка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Потекува наеднаш во силна струја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жмурка ж.",
+		"name": "жмурка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "криенка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жмучка ж.",
+		"name": "жмучка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џумка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жнеалка ж.",
+		"name": "жмучка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џумка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жнеар м.",
+		"name": "жнеар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Жена што жнее",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жнеач м.",
+		"name": "жнеач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што жнее",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Машина за жнеење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жнее несв.",
+		"name": "жнее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Реже житни стебла, собира, сече жито со срп или со земјоделска машина",
+				"definition_example": "Жетварките жнееја јачмен"
+			},
+			{
+				"definition_name": "Собира, добива плод, резултат од работа",
+				"definition_example": "Жнее успеси"
+			}
+		]
+	},
+
+	{
+		"word": "жнејач м.",
+		"name": "жнејач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жетвар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жние несв.",
+		"name": "жние",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "жнее",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жовијален прид.",
+		"name": "жовијален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има ведар дух, што е весел",
+				"definition_example": "Звуците на музиката како да оживуваа преку неговата жовијална личност"
+			}
+		]
+	},
+
+	{
+		"word": "жожор м.",
+		"name": "жожор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Нејасен говор, врева, шум на вода, глас на инсект и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жожори несв.",
+		"name": "жожори",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави, шири жожор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жожорлив прид.",
+		"name": "жожорлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што издава, што прави жожор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолна ж.",
+		"name": "жолна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Птица сродна со клукајдрвецот, која гради гнездо во шуплините на дрвото и се храни со инсекти",
+				"definition_example": "Жолни се збираа на гранките"
+			}
+		]
+	},
+
+	{
+		"word": "жолт прид.",
+		"name": "жолт",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има боја на лимон, на жолчка, на злато",
+				"definition_example": "жолта дуња"
+			}
+		]
+	},
+
+	{
+		"word": "жолтавица ж.",
+		"name": "жолтавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вирусно заболување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтевина ж.",
+		"name": "жолтевина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жолта боја, жолтило",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтее несв.",
+		"name": "жолтее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува постепено жолт, добива жолта боја",
+				"definition_example": "Лисјето жолтеат"
+			},
+			{
+				"definition_name": "Станува блед, ја губи свежата боја",
+				"definition_example": "Неговата кожа жолтееше"
+			},
+			{
+				"definition_name": "(се жолтее) Се истакнува со жолтата боја",
+				"definition_example": "Нарцисите се жолтееја во тревата"
+			}
+		]
+	},
+
+	{
+		"word": "жолтеникав прид.",
+		"name": "жолтеникав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што преминува во жолт, што има нијанса на жолт",
+				"definition_example": "жолтеникава хартија"
+			}
+		]
+	},
+
+	{
+		"word": "жолтеница ж.",
+		"name": "жолтеница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Заразна болест",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтеничав прид.",
+		"name": "жолтеничав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтичав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолти несв.",
+		"name": "жолти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Бојосува со жолта боја",
+				"definition_example": "Ја жолтат нејзината соба"
+			}
+		]
+	},
+
+	{
+		"word": "жолтика ж.",
+		"name": "жолтика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Кисел трн, цветно растение од редот лутиковидни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтикав прид.",
+		"name": "жолтикав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтило ср.",
+		"name": "жолтило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Жолта боја, обоеност, жолта нијанса",
+				"definition_example": "жолтило на лицето"
+			},
+			{
+				"definition_name": "Жолта боја за боење",
+				"definition_example": "Го стави преденото во жолтилото"
+			},
+			{
+				"definition_name": "Тоа што при повраќање има жолта боја и горчлив вкус, желудочен сок",
+				"definition_example": "Поврати само жолтило"
+			}
+		]
+	},
+
+	{
+		"word": "жолтина ж.",
+		"name": "жолтина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жолтило",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтичав прид.",
+		"name": "жолтичав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е болен од жолтица",
+				"definition_example": "Тој беше жолтичав"
+			}
+		]
+	},
+
+	{
+		"word": "жолтка ж.",
+		"name": "жолтка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жолчка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолткав прид.",
+		"name": "жолткав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтне св.",
+		"name": "жолтне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Стане жолт, пожолти",
+				"definition_example": "Некои места од ливадата жолтнале"
+			},
+			{
+				"definition_name": "(се жолтне) Се покаже со жолтата боја",
+				"definition_example": "Урнатините на старата црква се жолтнаа"
+			}
+		]
+	},
+
+	{
+		"word": "жолтникав прид.",
+		"name": "жолтникав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Стане жолт, пожолти",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолто преф.",
+		"name": "жолто",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Како прв дел од сложенки со значење дека означеното со вториот дел од сложенката е жолто",
+				"definition_example": "жолобрад, жолтокос"
+			},
+			{
+				"definition_name": "Како прв дел од сложенки со значење дека бојата означена со вториот дел од сложениот збор има жолта нијанса",
+				"definition_example": "жолтозелен, жолтоцрвен, жолтозеленикав"
+			}
+		]
+	},
+
+	{
+		"word": "жолто ср.",
+		"name": "жолто",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "нешто со жолта боја",
+				"definition_example": "Жолтото преовладува"
+			}
+		]
+	},
+
+	{
+		"word": "жолтозлатен прид.",
+		"name": "жолтозлатен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(за боја) Што е меѓу жолта и златна",
+				"definition_example": "жолтозлатни лисја"
+			}
+		]
+	},
+
+	{
+		"word": "жолток м.",
+		"name": "жолток",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Жолточната материја што се наоѓа во средината на јајцето",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтокафеав прид.",
+		"name": "жолтокафеав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е меѓу жолта и кефеава боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтокос прид.",
+		"name": "жолтокос",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има жолта коса",
+				"definition_example": "Утре ќе има парада, рече жолтокосиот"
+			}
+		]
+	},
+
+	{
+		"word": "жолтолик прид.",
+		"name": "жолтолик",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има жолто лице",
+				"definition_example": "Тој е жолтолик"
+			}
+		]
+	},
+
+	{
+		"word": "жолтомешка ж.",
+		"name": "жолтомешка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Инсект што ги напаѓа овошките",
+				"definition_example": "Жолтомешката е штетник што причинува најголеми штети на крушата, јаболкото и сливата"
+			}
+		]
+	},
+
+	{
+		"word": "жолтоок прид.",
+		"name": "жолтоок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има жолтеникави очи",
+				"definition_example": "Тој беше жолтоок лисец"
+			}
+		]
+	},
+
+	{
+		"word": "жолтоса несв.",
+		"name": "жолтоса",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Направи нешто да стане жолто",
+				"definition_example": "Си ја жолтосал кошулата"
+			},
+			{
+				"definition_name": "Стане жолт, пожолти",
+				"definition_example": "Лисјето жолтосале"
+			},
+			{
+				"definition_name": "Стане блед (за човек)",
+				"definition_example": "Тој жолтосал и му се тресат рацете"
+			},
+			{
+				"definition_name": "(се жолтоса) Стане жолт",
+				"definition_example": "Се жолтосал како крпа"
+			}
+		]
+	},
+
+	{
+		"word": "жолточен прид.",
+		"name": "жолточен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жолток",
+				"definition_example": "Жолточната материја се наоѓа во средината на јајцето"
+			}
+		]
+	},
+
+	{
+		"word": "жолтулав прид.",
+		"name": "жолтулав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтунест прид.",
+		"name": "жолтунест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолтуњав прид.",
+		"name": "жолтуњав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолтеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолч ж.",
+		"name": "жолч",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жолчка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жолчен прид.",
+		"name": "жолчен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жолчка",
+				"definition_example": "Жолчни киселини"
+			},
+			{
+				"definition_name": "Што е пакосен, злобен, зајадлив",
+				"definition_example": "Жолчни напади"
+			}
+		]
+	},
+
+	{
+		"word": "жолчка ж.",
+		"name": "жолчка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Внатрешен орган кај човекот и кај некои животни во вид на меур во кој се слева сокот што го излачува црниот дроб",
+				"definition_example": "Болест на жолчката"
+			},
+			{
+				"definition_name": "Жолтозеленикава горчлива течност што ја излачува црниот дроб",
+				"definition_example": "жолчен сок"
+			},
+			{
+				"definition_name": "Густа жолта материја во внатрешниот дел од јајцето, опкружена со белка",
+				"definition_example": "Има кокошки што несат јајца со две жолчки"
+			}
+		]
+	},
+
+	{
+		"word": "жолчлив прид.",
+		"name": "жолчлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "жолчен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жонглер м.",
+		"name": "жонглер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Артист (обично во циркус) што се занимава со жонглирање",
+				"definition_example": "Жонглерот ги фрлаше топките во воздухот"
+			},
+			{
+				"definition_name": "Тој што вешто ги мести работите, ги извртува фактите и зборовите како што му одговара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жонглира несв.",
+		"name": "жонглира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Лесно и вешто изведува пред публика разни вештини (фрлање и фаќање неколку предмети едновремено)",
+				"definition_example": "Тој жонглираше со топките"
+			},
+			{
+				"definition_name": "Си игра или ги измамува своите клиенти",
+				"definition_example": "Жонглира со парите на муштериите"
+			}
+		]
+	},
+
+	{
+		"word": "жоржет м.",
+		"name": "жоржет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесна свилена или волнена ткаенина",
+				"definition_example": "Волнен жоржет"
+			}
+		]
+	},
+
+	{
+		"word": "жреб м.",
+		"name": "жреб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесна свилена или волнена ткаенина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жребе ср.",
+		"name": "жребе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ждребе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жрепка ж.",
+		"name": "жрепка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ждрепка",
+				"definition_example": "Комисијата вчера со жрепка го утврди редоследот на политичките партии на гласачкото ливче"
+			}
+		]
+	},
+
+	{
+		"word": "жрец м.",
+		"name": "жрец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "многубожечки, пагански свештеник",
+				"definition_example": "Неколкумина од нив беа жреци"
+			}
+		]
+	},
+
+	{
+		"word": "жртва ж.",
+		"name": "жртва",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тоа што се принесува како дар на некое божество во знак на благодарност или за придобивање милост",
+				"definition_example": "Новата жртва ја водат кон жртвеникот"
+			},
+			{
+				"definition_name": "Тој што е убиен, протеран, настрадан во војна, од насилство; тој што трпи страдања и неволји што му ги нанесуваат други",
+				"definition_example": "Тој трагично загинал како жртва на војната"
+			},
+			{
+				"definition_name": "Доброволно откажување, несебично давање, саможртвување",
+				"definition_example": "свесна жртва"
+			}
+		]
+	},
+
+	{
+		"word": "жртвен прид.",
+		"name": "жртвен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на жртва; што е определен за жртва",
+				"definition_example": "жртвен обред"
+			}
+		]
+	},
+
+	{
+		"word": "жртвеник м.",
+		"name": "жртвеник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во многубожечките религии, место (обично издигнато) за принесување жртви на божеството",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во христијанската црква, место во олтарот на коешто се врши проскомидија",
+				"definition_example": "Меѓу двата олтара се наоѓа жртвеникот"
+			}
+		]
+	},
+
+	{
+		"word": "жртвува несв.",
+		"name": "жртвува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Принесе, принесува жртва на божество",
+				"definition_example": "На празникот треба да жртвуваш едно јагне"
+			},
+			{
+				"definition_name": "Изложи, изложува нешто или некого на уништување, на пропаѓање заради или поради некого или нешто",
+				"definition_example": "Тој го жртвуваше семејството заради твојата љубов"
+			},
+			{
+				"definition_name": "Несебично дава, дарува, посветува",
+				"definition_example": "Жртвуваа огромен капитал за да ја спасат татковината"
+			},
+			{
+				"definition_name": "(се жртвува) Се лишува, се откажува од нешто",
+				"definition_example": "Родителите се жртвуваа за децата, а децата за идејата"
+			}
+		]
+	},
+
+	{
+		"word": "жртвуван прид.",
+		"name": "жртвуван",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(глаг прид) жртвува",
+				"definition_example": "жртвувана фигура"
+			}
+		]
+	},
+
+	{
+		"word": "жуберка несв.",
+		"name": "жуберка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Жубори по малку, во помала мера",
+				"definition_example": "Од лево одеше испресечен дол и по него жуберкаше бистро поточе"
+			},
+			{
+				"definition_name": "преџвакува, прежива",
+				"definition_example": "Кравата цело попладне жуберкаше"
+			},
+			{
+				"definition_name": "Работи полека, бавно",
+				"definition_example": "Тој не се брзаше во ништо, жуберкаше низ дворот"
+			}
+		]
+	},
+
+	{
+		"word": "жуберкав прид.",
+		"name": "жуберкав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што жуберка, што има својство да жуберка",
+				"definition_example": "Ги слушав ноќните жуберкави води"
+			}
+		]
+	},
+
+	{
+		"word": "жуберлив прид.",
+		"name": "жуберлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што жубори, што создава жубор",
+				"definition_example": "Седна покрај жуберливата река"
+			}
+		]
+	},
+
+	{
+		"word": "жубор м.",
+		"name": "жубор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Шум што го создава водата",
+				"definition_example": "Го слушам жуборот на изворите"
+			},
+			{
+				"definition_name": "Шум, џагор од човечки гласови",
+				"definition_example": "Каде и да се свртев, само жубор на туѓ јазик слушав"
+			},
+			{
+				"definition_name": "Шум што се создава од птиците или некои инсекти",
+				"definition_example": "Го слушам жуборот на птиците"
+			}
+		]
+	},
+
+	{
+		"word": "жубори несв.",
+		"name": "жубори",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Произведува жубор (за вода и други течности; за човечки гласови, за птици)",
+				"definition_example": "Пролетните води жубореа"
+			}
+		]
+	},
+
+	{
+		"word": "жуборка несв.",
+		"name": "жуборка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Жубори по малку, во помала мера",
+				"definition_example": "Чешмичкава жуборка тивко, заглушено и еднолично"
+			}
+		]
+	},
+
+	{
+		"word": "жуборлив прид.",
+		"name": "жуборлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што жубори, што создава жубор",
+				"definition_example": "Од сите страни навеваше жуборлива музика"
+			}
+		]
+	},
+
+	{
+		"word": "жуга несв.",
+		"name": "жуга",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Тера посилно во својот развој",
+				"definition_example": "Зародиш на смев почна да жуга во мене"
+			}
+		]
+	},
+
+	{
+		"word": "жугне св.",
+		"name": "жугне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Живне, потера посилно во својот развој",
+				"definition_example": "Пченицата жугна"
+			},
+			{
+				"definition_name": "порасне, зајакне",
+				"definition_example": "Жугна детето"
+			},
+			{
+				"definition_name": "Закрепне по прележана болест",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "шепне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жудлив прид.",
+		"name": "жудлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има горчливо-киселкав вкус што ја собира устата",
+				"definition_example": "Испив голтка вино од жудливо грозје"
+			}
+		]
+	},
+
+	{
+		"word": "жудливост ж.",
+		"name": "жудливост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Својство на тоа што е жудливо",
+				"definition_example": "А, кој не знае дека жудливоста е тежина, не леснина?!"
+			}
+		]
+	},
+
+	{
+		"word": "жужален м.",
+		"name": "жужален",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жужалец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жужалец м.",
+		"name": "жужалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инсект што испушта остри звуци",
+				"definition_example": "Однекаде зацрца жужалец"
+			}
+		]
+	},
+
+	{
+		"word": "жужел м.",
+		"name": "жужел",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид бумбар, тврдокрилец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жулавица ж.",
+		"name": "жулавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид габа, печурка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жули несв.",
+		"name": "жули",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвикува телесна болка со притисок, триење, стегање и сл",
+				"definition_example": "Ременот на десната нога ме жулеше до плачење"
+			}
+		]
+	},
+
+	{
+		"word": "жулне св.",
+		"name": "жулне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвикува телесна болка со притисок, триење, стегање и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жунжуле ср.",
+		"name": "жунжуле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џунџуле",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жупа ж.",
+		"name": "жупа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Административна единица кај јужнословенските народи",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Најмала административна единица на католичката црква",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Предел со блага клима, засолнет од ладни ветрови или посилно изложен на сонце, погоден за населување и за земјоделство",
+				"definition_example": "Присој или жупа е место спроти сонце што има блага клима"
+			}
+		]
+	},
+
+	{
+		"word": "жупан м.",
+		"name": "жупан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Административен управител на жупа",
+				"definition_example": "Жупанот претседава со извршната власт на жупанијата и е претставник на таа жупанија во нејзините надворешни работи"
+			}
+		]
+	},
+
+	{
+		"word": "жупанија ж.",
+		"name": "жупанија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Облик на управа на чело со жупан; седиште на таквата управа и областа што ја опфаќа",
+				"definition_example": "Секоја жупанија има свое собрание кое се состои од пратеници избрани од народот по партија, и служат по четири години"
+			}
+		]
+	},
+
+	{
+		"word": "жупанство ср.",
+		"name": "жупанство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "жупа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жупник м.",
+		"name": "жупник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Католички свештеник што управува со жупа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "жупников прид.",
+		"name": "жупников",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа на жупник",
+				"definition_example": "Во жупниковиот дом гори свеќа"
+			}
+		]
+	},
+
+	{
+		"word": "жур м.",
+		"name": "жур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "глужд",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "оток, плускавец",
+				"definition_example": "Реумата предизвикува журови на прстите"
+			},
+			{
+				"definition_name": "Попладневна или вечерна приватна седенка и забава",
+				"definition_example": "Идната сабота другарите ме поканија на жур"
+			}
+		]
+	},
+
+	{
+		"word": "жури несв.",
+		"name": "жури",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Надразнува, предизвикува црвенило на кожата (за коприва)",
+				"definition_example": "Војниците го жураа со копривата беспомошното животно и се кикотеа"
+			},
+			{
+				"definition_name": "(се жури) Се надразнува, предизвикувајќи си црвенило на кожата",
+				"definition_example": "Детето се журеше поминувајќи низ копривите"
+			}
+		]
+	},
+
+	{
+		"word": "журка ж.",
+		"name": "журка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жур",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Птица што е слична на патка, живее покрај реки, езера и мочуришта",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "коприва",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "журка несв.",
+		"name": "журка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Жури помалку, во помала мера",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "журлив прид.",
+		"name": "журлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "глуждлив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "журнал м.",
+		"name": "журнал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дневен весник или периодично списание",
+				"definition_example": "Тој објавуваше разни новости во секојдневните журнали"
+			},
+			{
+				"definition_name": "Краток информативен филм за современите светски случувања",
+				"definition_example": "Пред филмот, го проследивме журналот за најновите настани кај нас и во светот"
+			}
+		]
+	},
+
+	{
+		"word": "журнализам м.",
+		"name": "журнализам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "новинарство",
+				"definition_example": "Поклоници на неговиот извонреден журнализам"
+			}
+		]
+	},
+
+	{
+		"word": "журналист м.",
+		"name": "журналист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "новинар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "журналистика ж.",
+		"name": "журналистика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "новинарство",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "журналистички прид.",
+		"name": "журналистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа, што се однесува на журналист и на журналистика",
+				"definition_example": "No example"
+			}
+		]
+	},

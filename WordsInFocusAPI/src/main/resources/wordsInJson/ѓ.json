@@ -1,0 +1,1164 @@
+[
+	{
+		"word": "ѓавол м.",
+		"name": "ѓавол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Натприродно суштество кое обично живее во пеколот, замислено како олицетворение на зло; зол дух",
+				"definition_example": "На секоја лејка живееше по еден ѓавол"
+			},
+			{
+				"definition_name": "Злобен, лош човек",
+				"definition_example": "Не фаќај работа со тој ѓавол"
+			},
+			{
+				"definition_name": "Итар, немирен, палав човек",
+				"definition_example": "ѓавол жена"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволест прид.",
+		"name": "ѓаволест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "немирен, палав",
+				"definition_example": "Ѓаволеста девојка"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволи несв.",
+		"name": "ѓаволи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави ѓаволски работи, прави зло",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Се однесува ѓаволесто, немирно, палаво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволит прид.",
+		"name": "ѓаволит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "немирен, палав",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "итар, препреден",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволица ж.",
+		"name": "ѓаволица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Немирна, палава млада жена",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволка ж.",
+		"name": "ѓаволка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ѓаволица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволов прид.",
+		"name": "ѓаволов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на ѓавол",
+				"definition_example": "ѓаволов ученик"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволски прид.",
+		"name": "ѓаволски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на ѓавол, што е како кај ѓавол",
+				"definition_example": "Ѓаволска работа"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволува несв.",
+		"name": "ѓаволува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "ѓаволи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволштилак м.",
+		"name": "ѓаволштилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓаволштина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаволштина ж.",
+		"name": "ѓаволштина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Ѓаволеста, шеговита постапка",
+				"definition_example": "Нејзините ѓаволштини беа непресушливи"
+			},
+			{
+				"definition_name": "итрина, лукавост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓак м.",
+		"name": "ѓак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што се подготвува да се замонаши во манастир",
+				"definition_example": "Тој е манастирски ѓак"
+			}
+		]
+	},
+
+	{
+		"word": "ѓакон м.",
+		"name": "ѓакон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Свештено лице што му помага на свештеникот (или епископот) при богослужба Припадник на најнискиот од трите чина во црковната хиерархија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаконик м.",
+		"name": "ѓаконик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Просторија покрај олтарот или вдлабнатина во олтарот што служи за чување црковни предмети за кои обично се грижи ѓаконот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаконство ср.",
+		"name": "ѓаконство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Ѓаконска должност, служба",
+				"definition_example": "Неговото Високопреосвештенство Митрополитот Преспанско-пелагониски, г Петар, заедно со свештенството, ѓаконството и верниот народ од Битола, по Божествената Литургија чествувањето на празникот го продолжија со торжествена литија со моштите на св Агатангел Битолски по улиците во централното градско подрачје"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаконува несв.",
+		"name": "ѓаконува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Врши должност на ѓакон",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаур м.",
+		"name": "ѓаур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "неверник, христијанин, немуслиман",
+				"definition_example": "Таму имало луѓе-ѓаури што не признавале ни цара ни везира"
+			}
+		]
+	},
+
+	{
+		"word": "ѓаче ср.",
+		"name": "ѓаче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дете што му помага на свештеникот за време на големите празници при богослужбата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓебре ср.",
+		"name": "ѓебре",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Крпа од грубо платно со која се тимари, трие коњот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Крпа за триење при капење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓебри несв.",
+		"name": "ѓебри",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Тимари, трие со ѓебре",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Трие по капење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дотерува",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се ѓебри) Се тимари, се трие со ѓебре",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се ѓебри) Се трие по капење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се ѓебри) се дотерува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓевгир м.",
+		"name": "ѓевгир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сад со решеткаво, шупливо дно, што служи за цедење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "свод",
+				"definition_example": "Во дворецот имаше високи врати со чудесни аркади и ѓевгири"
+			}
+		]
+	},
+
+	{
+		"word": "ѓеврек м.",
+		"name": "ѓеврек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид печиво со прстенеста форма, посипано со сусам",
+				"definition_example": "Во десната рака носеше кошница со гурабии, симиди и ѓевреци"
+			}
+		]
+	},
+
+	{
+		"word": "ѓеврекчија м.",
+		"name": "ѓеврекчија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "продавач на ѓевреци",
+				"definition_example": "Ѓеврекчијата ја турка количката полна со вкусни ѓевреци"
+			}
+		]
+	},
+
+	{
+		"word": "ѓезве ср.",
+		"name": "ѓезве",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Сад со долга рачка во кој се вари кафе",
+				"definition_example": "Шета од еден до друг со ѓезвето и им дотура кафе"
+			}
+		]
+	},
+
+	{
+		"word": "ѓеран м.",
+		"name": "ѓеран",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Направа, лост за вадење вода од бунар",
+				"definition_example": "Ѓераните на бунарите се издигаа високо во просторот"
+			},
+			{
+				"definition_name": "Бунар со таква направа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓердан м.",
+		"name": "ѓердан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ниска од бисер, злато, скапоцени камења, што обично се носи околу вратот, како украс, накит",
+				"definition_example": "бисерен ѓердан"
+			}
+		]
+	},
+
+	{
+		"word": "ѓерданест прид.",
+		"name": "ѓерданест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Ниска од бисер, злато, скапоцени камења, што обично се носи околу вратот, како украс, накит",
+				"definition_example": "бисерен ѓердан"
+			}
+		]
+	},
+
+	{
+		"word": "ѓерданлија прид.",
+		"name": "ѓерданлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(немен по род) со голема гуша",
+				"definition_example": "вол ѓерданлија"
+			}
+		]
+	},
+
+	{
+		"word": "ѓердек м.",
+		"name": "ѓердек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "брачна постела",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓерѓеф м.",
+		"name": "ѓерѓеф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тркалезна или четвртеста рамка на која се распнува платното што се везе",
+				"definition_example": "Пердиња на ѓерѓеф везени и колосани"
+			}
+		]
+	},
+
+	{
+		"word": "ѓерест прид.",
+		"name": "ѓерест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Обично за домашни птици - крупен и убав",
+				"definition_example": "ѓерест петел"
+			}
+		]
+	},
+
+	{
+		"word": "ѓериз м.",
+		"name": "ѓериз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Одводен канал за истекување на нечистотија",
+				"definition_example": "Одеа по калдрмата, измиена со запрежни цистерни што служат и за празнење ѓеризи"
+			},
+			{
+				"definition_name": "Канализирано поточе по кое истекува нечистотијта",
+				"definition_example": "Падна во геризот"
+			},
+			{
+				"definition_name": "септичка јама",
+				"definition_example": "Не фрлај камен во ѓеризот"
+			}
+		]
+	},
+
+	{
+		"word": "ѓиди изв.",
+		"name": "ѓиди",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "За потсилување при обраќање",
+				"definition_example": "Еј, ѓиди, добро мајкино!"
+			}
+		]
+	},
+
+	{
+		"word": "ѓоа прил.",
+		"name": "ѓоа",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "како да, божем",
+				"definition_example": "Појде во кералот, ѓоа по некоја работа и набрзина испи голема голтка ракија"
+			}
+		]
+	},
+
+	{
+		"word": "ѓоамити прил.",
+		"name": "ѓоамити",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "божем, како да",
+				"definition_example": "Ѓоамити јас сум ја завршил таа работа"
+			}
+		]
+	},
+
+	{
+		"word": "ѓок м.",
+		"name": "ѓок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "бел коњ",
+				"definition_example": "Јаваше на ѓок"
+			}
+		]
+	},
+
+	{
+		"word": "ѓокат м.",
+		"name": "ѓокат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "бел, белузлав коњ",
+				"definition_example": "Се друскаше на тенконог ѓокат"
+			}
+		]
+	},
+
+	{
+		"word": "ѓол м.",
+		"name": "ѓол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Бара, мочуриште, езеро",
+				"definition_example": "Светот влезе во ѓол и препка како полноглавците"
+			}
+		]
+	},
+
+	{
+		"word": "ѓомити прил.",
+		"name": "ѓомити",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "ѓоамити",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓомлезе ср.",
+		"name": "ѓомлезе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ѓомлезец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓомлезец м.",
+		"name": "ѓомлезец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид ориентално јадење; кори од пченкарно или пченично брашно потпечени под сач",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓон м.",
+		"name": "ѓон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Штавена цврста говедска или коњска кожа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долен дел од чевелот обично изработен од кожа, гума и сл",
+				"definition_example": "Ѓонот се излижа и се скина"
+			},
+			{
+				"definition_name": "Утка, птица слична на бувот, но помала",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓотлук м.",
+		"name": "ѓотлук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Заден дел на панталони",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубралник м.",
+		"name": "ѓотлук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Заден дел на панталони",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубрар м.",
+		"name": "ѓубралник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓубрарник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубрарник м.",
+		"name": "ѓубрарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сад за ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубрарски прид.",
+		"name": "ѓубрарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што го чисти и го носи ѓубрето",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубрач м.",
+		"name": "ѓубрарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е наменет за ѓубре, што се однесува на ѓубре",
+				"definition_example": "Ѓубрарска кола"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубрелив прид.",
+		"name": "ѓубрелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За земја, нива - наѓубрен, што содржи ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубретарина ж.",
+		"name": "ѓубрелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За земја, нива - наѓубрен, што содржи ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубреџија м.",
+		"name": "ѓубрелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За земја, нива - наѓубрен, што содржи ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубри несв.",
+		"name": "ѓубрелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За земја, нива - наѓубрен, што содржи ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубриво ср.",
+		"name": "ѓубрелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За земја, нива - наѓубрен, што содржи ѓубре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓубриште ср.",
+		"name": "ѓубриште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Лице што го чисти и го собира ѓубрето",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Нечисто место",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувез прид.",
+		"name": "ѓувез",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "темноцрвен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувезен прид.",
+		"name": "ѓувезен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "темноцрвен",
+				"definition_example": "ѓувезни гајтани"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувезија ж.",
+		"name": "ѓувезија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "темноцрвен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувезлија прид.",
+		"name": "ѓувезлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(немен по род) ѓувезен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувезно ср.",
+		"name": "ѓувезно",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Предено, каделка со темноцрвена боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувендија ж.",
+		"name": "ѓувендија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "танчарка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "расипана жена, блудница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓувеч м.",
+		"name": "ѓувеч",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид јадење со разновиден зеленчук, обично со месо, што се пече во земјен сад",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Подлабок земјен сад, земјена тава за ѓувеч и слични јадења",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид мангал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓузел прид.",
+		"name": "ѓузел",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "убав, прекрасен",
+				"definition_example": "ѓузел девојче"
+			}
+		]
+	},
+
+	{
+		"word": "ѓул м.",
+		"name": "ѓул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид цвеќе, роза, ружа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓуле ср.",
+		"name": "ѓуле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Граната, топовско зрно",
+				"definition_example": "Само топовско ѓуле може да ја отвори оваа врата"
+			},
+			{
+				"definition_name": "Кугла, топка, обично железна, за спортски натпревар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓулест прид.",
+		"name": "ѓулест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на ѓуле, на топка",
+				"definition_example": "ѓулести конструктивни елементи"
+			}
+		]
+	},
+
+	{
+		"word": "ѓулов прид.",
+		"name": "ѓулов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на ѓул, што е од ѓул",
+				"definition_example": "ѓулово масло"
+			}
+		]
+	},
+
+	{
+		"word": "ѓум м.",
+		"name": "ѓум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Голем бакарен сад за вода, ракија, вино, млеко",
+				"definition_example": "Го наполни ѓумот со вода"
+			}
+		]
+	},
+
+	{
+		"word": "ѓумбир м.",
+		"name": "ѓумбир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тропска култура чиј корен содржи етерични масла со лут вкус",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Коренот на оваа тропска култура што се користи како зачин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓуме ср.",
+		"name": "ѓуме",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Скривница покрај мочуриште, бара, река и др што им служи на ловците за лов на диви гуски и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓумрук м.",
+		"name": "ѓумрук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "царинарница",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "трошарина, царина",
+				"definition_example": "Тој не подлежи на царски давачки, ни на ѓумрук"
+			}
+		]
+	},
+
+	{
+		"word": "ѓумрукана ж.",
+		"name": "ѓумрукана",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "трошаринска станица, царинарница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓумрукчија м.",
+		"name": "ѓумрукчија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цариник",
+				"definition_example": "Ѓумрукчијата стоеше пред ѓумрукот"
+			}
+		]
+	},
+
+	{
+		"word": "ѓунлук м.",
+		"name": "ѓунлук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓунделак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупкин прид.",
+		"name": "ѓунлук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓунделак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупски прид.",
+		"name": "ѓупкин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа на ѓуптин",
+				"definition_example": "Ѓупкини шалвари"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупскомаалец м.",
+		"name": "ѓупскомаалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Што живее во ѓупско маало",
+				"definition_example": "На  ширинката пред црквата, општинските метачи, ѓупскомаалци, ја метеа калдрмата"
+			}
+		]
+	},
+
+	{
+		"word": "Ѓуптин м.",
+		"name": "Ѓуптин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Што живее во ѓупско маало",
+				"definition_example": "На ширинката пред црквата, општинските метачи, ѓупскомаалци, ја метеа калдрмата"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупчи несв.",
+		"name": "ѓупчи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува Ѓуптин",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Се однесува како Ѓуптин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупчилак м.",
+		"name": "ѓупчилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓупштилак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓупштилак м.",
+		"name": "ѓупштилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лошо, недолично однесување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурѓевка ж.",
+		"name": "ѓурѓевка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид печурка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурѓина ж.",
+		"name": "ѓурѓина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "георгина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Ѓурѓовден м.",
+		"name": "Ѓурѓовден",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(само едн) Христијански и народен празник посветен на св Ѓорѓи, кој паѓа на  мај ( април по стариот календар), за кој се врзани многу народни обичаи",
+				"definition_example": "Му го зеде детето за момоче до Ѓурѓовден за лира и половина"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурѓовденче ср.",
+		"name": "ѓурѓовденче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Повеќегодишно растение со бели мирисливи цветови наредени во грозд; момина солза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурултаџија м.",
+		"name": "ѓурултаџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што крева голема врева",
+				"definition_example": "Со „право “ или без, ѓурултаџијата се најде меѓу нас"
+			},
+			{
+				"definition_name": "Прекршител, учесник во безредие, нарушител на редот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурултија ж.",
+		"name": "ѓурултија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "врева, викотница",
+				"definition_example": "Тој досега не беше спал ни една ноќ во таква ѓурултија и викотница како ноќеска"
+			},
+			{
+				"definition_name": "голелма кавга, неред",
+				"definition_example": "Јас и самиот бев мирен човек и се држев настрана од секоја ѓурултија"
+			}
+		]
+	},
+
+	{
+		"word": "ѓурултилак м.",
+		"name": "ѓурултилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓурултија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ѓутуре прил.",
+		"name": "ѓутуре",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Сѐ заедно, без одделно мерење, броење или делење",
+				"definition_example": "Му плаќаат ѓутуре"
+			}
+		]
+	},

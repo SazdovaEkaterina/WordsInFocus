@@ -1,0 +1,24 @@
+[
+	{
+		"word": "њоки само мн.",
+		"name": "њоки",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "италијански тестенини",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Њујорк име.",
+		"name": "Њујорк",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Град и сојузна држава во САД",
+				"definition_example": "Седиштето на Обединетите нации во Њујорк"
+			}
+		]
+	},

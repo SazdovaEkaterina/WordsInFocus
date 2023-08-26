@@ -1,0 +1,5092 @@
+[
+	{
+		"word": "ја зам.",
+		"name": "ја",
+		"type": "Заменка",
+		"definitions": [
+			{
+				"definition_name": "Кратка форма за директен објект од личната заменка таа, онаа; се употребува сама или заедно со долгата форма неа ја",
+				"definition_example": "Ја праша ли? Неа да ја прашаш"
+			}
+		]
+	},
+
+	{
+		"word": "ја изв.",
+		"name": "ја",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "За поттикнување кон некое дејство, повик да се направи нешто",
+				"definition_example": "Ја, земи ти да видам што ќе направиш"
+			},
+			{
+				"definition_name": "За изразување, негодување, несогласување",
+				"definition_example": "Ја, ти ќе ми кажеш!"
+			}
+		]
+	},
+
+	{
+		"word": "ја чест.",
+		"name": "ја",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "За посочување кон нешто",
+				"definition_example": "Ја го детето"
+			},
+			{
+				"definition_name": "При потврдување; да",
+				"definition_example": "Дали ти се вино омилело? -Ја, ами што"
+			}
+		]
+	},
+
+	{
+		"word": "ја сврз.",
+		"name": "ја",
+		"type": "Сврзник",
+		"definitions": [
+			{
+				"definition_name": "Разделен, повторен, за поврзување зборови или реченици приредени меѓу себе; аа; деде",
+				"definition_example": "Ја ќе стане, ја ќе седне"
+			}
+		]
+	},
+
+	{
+		"word": "јабана ж.",
+		"name": "јабана",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "туѓина, странство",
+				"definition_example": "Замина на јабана"
+			}
+		]
+	},
+
+	{
+		"word": "јабанец м.",
+		"name": "јабанец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јабанџија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јабанџија м.",
+		"name": "јабанџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Непознат човек",
+				"definition_example": "Тие се јабанџии, не се од овде"
+			},
+			{
+				"definition_name": "Лице што не е во роднински односи со друго лице",
+				"definition_example": "Свои сме, не сме јабанџии"
+			}
+		]
+	},
+
+	{
+		"word": "јаблан м.",
+		"name": "јаблан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дрво од фамилијата тополи, со висока тесна круна што се сади во паркови и во дрвореди",
+				"definition_example": "Разлистени јаблани"
+			}
+		]
+	},
+
+	{
+		"word": "јаболкар м.",
+		"name": "јаболкар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што бере или што продава јаболка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Љубител на јаболка",
+				"definition_example": "Тој е јаболкар, јаде многу јаболка"
+			}
+		]
+	},
+
+	{
+		"word": "јаболкница ж.",
+		"name": "јаболкница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Овошно дрво со тркалезни или јајчести назабени листови, бели цветови и со тркалезни, месести и сочни плодови, црвени или жолти, поретко и зелени, со благ или киселкав вкус",
+				"definition_example": "Расцветана јаболкница"
+			}
+		]
+	},
+
+	{
+		"word": "јаболко ср.",
+		"name": "јаболко",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Плод од јаболкница",
+				"definition_example": "сочно јаболко"
+			},
+			{
+				"definition_name": "Поиздадена 'рскавица од гркланот на предниот дел од вратот кај маж",
+				"definition_example": "Адамово јаболко"
+			},
+			{
+				"definition_name": "Поиздаден дел од лицето, под очите",
+				"definition_example": "Девојка со вцрвени јаболка на образите"
+			},
+			{
+				"definition_name": "Тоа што по своја форма личи на јаболко",
+				"definition_example": "железно јаболко"
+			}
+		]
+	},
+
+	{
+		"word": "јаболкобер м.",
+		"name": "јаболкобер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Собирање, берба на јаболка",
+				"definition_example": "Преспански јаболкобер"
+			}
+		]
+	},
+
+	{
+		"word": "јаболков прид.",
+		"name": "јаболков",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од јаболкница или од јаболко",
+				"definition_example": "Јаболков цвет"
+			}
+		]
+	},
+
+	{
+		"word": "јаболкце ср.",
+		"name": "јаболкце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јаболко",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јаболчица",
+				"definition_example": "Имаше испакнати јаболкца на образите"
+			},
+			{
+				"definition_name": "Врвовите на прстите на рацете",
+				"definition_example": "Почувствува болка на јаболкцата од прстите"
+			},
+			{
+				"definition_name": "Адамово јаболко",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаболчарник м.",
+		"name": "јаболчарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место насадено со јаболкници",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаболчен прид.",
+		"name": "јаболчен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јаболчица",
+				"definition_example": "јаболчна коска"
+			}
+		]
+	},
+
+	{
+		"word": "јаболчест прид.",
+		"name": "јаболчест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што личи, што има форма на јаболко",
+				"definition_example": "јаболчесто лице"
+			}
+		]
+	},
+
+	{
+		"word": "јаболчица ж.",
+		"name": "јаболчица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Поиздаден дел од лицето, под очите",
+				"definition_example": "Бледи јаболчици"
+			},
+			{
+				"definition_name": "Дел од автомобил, зглоб што учествува во поврзувањето на предното тркало со воланот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаболчиште ср.",
+		"name": "јаболчиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јаболко",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Место засадено со јаболкници",
+				"definition_example": "Низ јаболчиштето се искачија на ритчето"
+			}
+		]
+	},
+
+	{
+		"word": "јава ж.",
+		"name": "јава",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стварност, реалност, будност; состојба спротивна на сон",
+				"definition_example": "Го парна мислата дека она што тукушто исчезна не е јава туку сон, толку наметлив и привлечен сон"
+			}
+		]
+	},
+
+	{
+		"word": "јава несв.",
+		"name": "јава",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се движи качен на животно (коњ, магаре и сл)",
+				"definition_example": "Продолжија да јаваат понатаму"
+			},
+			{
+				"definition_name": "Угнетува, искористува, држи некого во потчинета положба",
+				"definition_example": "Не давам да ме јаваат"
+			}
+		]
+	},
+
+	{
+		"word": "јаваница ж.",
+		"name": "јаваница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јавање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Коњ на кој кираџијата го товари својот багаж и самиот го јава",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јавање ср.",
+		"name": "јавање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(само едн) коњички спорт",
+				"definition_example": "Тој многу ги сака стрелањето и јавањето"
+			}
+		]
+	},
+
+	{
+		"word": "јавач м.",
+		"name": "јавач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што јава",
+				"definition_example": "Коњот го почувствува бесот на својот јавач"
+			}
+		]
+	},
+
+	{
+		"word": "јаваш прид.",
+		"name": "јаваш",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За тутун - мек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаваш прид.",
+		"name": "јаваш",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За тутун - мек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаваш прил.",
+		"name": "јаваш",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За тутун - мек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јавашлак м.",
+		"name": "јавашлак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "мрзливост, неуредност, немарност",
+				"definition_example": "Беше лут поради јавашлакот или намерното изоставање"
+			}
+		]
+	},
+
+	{
+		"word": "јавашлив прид.",
+		"name": "јавашлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "мрзливост, неуредност, немарност",
+				"definition_example": "Беше лут поради јавашлакот или намерното изоставање"
+			}
+		]
+	},
+
+	{
+		"word": "јавашлија прид.",
+		"name": "јавашлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "тромав, мрзлив, немарен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаве ср.",
+		"name": "јаве",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јава",
+				"definition_example": "Па после, не знаеш што си видела на јаве, а што на сон"
+			}
+		]
+	},
+
+	{
+		"word": "јавен прид.",
+		"name": "јавен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што не е таен; отворен за сите што се заинтересирани",
+				"definition_example": "јавна расправа"
+			},
+			{
+				"definition_name": "Што се однесува, што и припаѓа на целата општествена заедница",
+				"definition_example": "јавен објект"
+			}
+		]
+	},
+
+	{
+		"word": "јави св.",
+		"name": "јави",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Соопшти, извести, објави вест",
+				"definition_example": "Утрово ми јавија за тоа"
+			},
+			{
+				"definition_name": "Пријави некого или нешто",
+				"definition_example": "Селаните јавиле во полиција дека го виделе човекот од потерницата"
+			},
+			{
+				"definition_name": "(се јави) се појави",
+				"definition_example": "Се јавила болест кај домашните животни"
+			},
+			{
+				"definition_name": "(се јави) се огласи, се слушне",
+				"definition_example": "Низ селото се јавија пукотници"
+			},
+			{
+				"definition_name": "(се јави) се пријави",
+				"definition_example": "Се јавив на конкурсот"
+			},
+			{
+				"definition_name": "(се јави) излезе, се покаже",
+				"definition_example": "Не јавувај се пред мене"
+			},
+			{
+				"definition_name": "(се јави) претставува",
+				"definition_example": "Џинот ќе се јави како еден од првите македонски стихотворци"
+			}
+		]
+	},
+
+	{
+		"word": "јавка ж.",
+		"name": "јавка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Договорен таен збор или реченица што се употребува во стражарската служба или во конспиративни активности, лозинка, знак за препознавање",
+				"definition_example": "Не јавувај се на ништо освен на јавката"
+			},
+			{
+				"definition_name": "Тој што поврзува илегалци, лице за таен контакт",
+				"definition_example": "Поминаа долг пат за да стигнат до јавката"
+			}
+		]
+	},
+
+	{
+		"word": "јавне св.",
+		"name": "јавне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Се качи, седне на грбот на животно",
+				"definition_example": "Го јавна магарето"
+			},
+			{
+				"definition_name": "Се качи, седне, застане на нешто друго",
+				"definition_example": "Уште не го јавнал тронот"
+			},
+			{
+				"definition_name": "Притисне, предизвика мака",
+				"definition_example": "Ме јавнала треска"
+			},
+			{
+				"definition_name": "Потчини некого",
+				"definition_example": "Меки бевме, затоа нѐ јавнаа"
+			}
+		]
+	},
+
+	{
+		"word": "јавно прил.",
+		"name": "јавно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "јавен",
+				"definition_example": "Јавно му се извини"
+			}
+		]
+	},
+
+	{
+		"word": "јавност ж.",
+		"name": "јавност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Множество информирани и упатени граѓани што учествуваат во општествениот и политичкиот живот, а со својот активен однос го формираат и го изразуваат јавното мислење",
+				"definition_example": "Македонската книжевна и културна јавност"
+			},
+			{
+				"definition_name": "Својство на тоа што е јавно, отвореност",
+				"definition_example": "Јавност во работата на органите на власта"
+			},
+			{
+				"definition_name": "Сфера на општествениот живот, различна од приватната",
+				"definition_example": "Тој изнесе важни информации за случајот во јавноста"
+			}
+		]
+	},
+
+	{
+		"word": "јавор м.",
+		"name": "јавор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид листопадно шумско дрво",
+				"definition_example": "црвен јавор"
+			}
+		]
+	},
+
+	{
+		"word": "јаворина ж.",
+		"name": "јаворина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "дрво од јавор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаврија ж.",
+		"name": "јаврија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Кокошка (или друг вид птица) што сѐ уште не почнала да несе јајца",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагарец м.",
+		"name": "јагарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн) Жлезди на вратот во вид на грутчиња",
+				"definition_example": "Му се јавија јагарци под ушите"
+			}
+		]
+	},
+
+	{
+		"word": "јаглак м.",
+		"name": "јаглак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Везено шамивче што се подарува на девојка или на момче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаглен м.",
+		"name": "јаглен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Согорлива материја од растително потекло, во цврста состојба што се ископува од земјата; камен јаглен",
+				"definition_example": "Наоѓалиште на јаглен"
+			},
+			{
+				"definition_name": "Несогорени парчиња дрво, добиени при согорување без доволно присуство на воздух; дрвен јаглен",
+				"definition_example": "Донесов јаглен за скарата"
+			}
+		]
+	},
+
+	{
+		"word": "јагленар м.",
+		"name": "јагленар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што прави и што продава јаглен",
+				"definition_example": "Јагленарите работеа до доцна"
+			}
+		]
+	},
+
+	{
+		"word": "јагленарка ж.",
+		"name": "јагленарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена на јагленар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лисица со боја на јаглен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагленарник м.",
+		"name": "јагленарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена на јагленар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лисица со боја на јаглен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагленен прид.",
+		"name": "јагленарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена на јагленар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лисица со боја на јаглен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаглениса св.",
+		"name": "јагленарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена на јагленар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лисица со боја на јаглен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагленов прид.",
+		"name": "јагленарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што се ископува или се прави јаглен",
+				"definition_example": "Јагленарникот не е далеку од селото"
+			}
+		]
+	},
+
+	{
+		"word": "јагленокоп м.",
+		"name": "јагленов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од јаглен",
+				"definition_example": "Јагленов прав"
+			}
+		]
+	},
+
+	{
+		"word": "јаглерод м.",
+		"name": "јаглерод",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хемиски елемент важен составен дел на сите органски материи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаглероден прид.",
+		"name": "јаглероден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што содржи јаглерод, што се однесува на јаглерод",
+				"definition_example": "јаглеродна киселина"
+			}
+		]
+	},
+
+	{
+		"word": "јаглехидрат м.",
+		"name": "јаглехидрат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн) Органски соединенија што содржат јаглерод, кислород и водород",
+				"definition_example": "Јаглехидратите се извор на енергија за организмот"
+			}
+		]
+	},
+
+	{
+		"word": "јаглика ж.",
+		"name": "јаглика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Рано пролетно цвеќе со жолти и поретко розови цветови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаглица ж.",
+		"name": "јаглица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Марама околу појасот за бришење раце",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагма ж.",
+		"name": "јагма",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Натпреварување кој прв ќе добие, ќе грабне нешто",
+				"definition_example": "Ќе има повторно јагма и мешаница, завист и измами"
+			},
+			{
+				"definition_name": "Заедничка нива или ливада, сечие земјиште што го обработува тој што прв ќе дојде до него",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагми несв.",
+		"name": "јагми",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "брза, трча, настојува",
+				"definition_example": "Има луѓе што јагмат по славата"
+			},
+			{
+				"definition_name": "(се јагми) Се граба, се труди, се бори за нешто",
+				"definition_example": "Ќе се јагмат да ви сплетат достојни венци"
+			}
+		]
+	},
+
+	{
+		"word": "јагне ср.",
+		"name": "јагне",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "младо од овца",
+				"definition_example": "На ливадата трчкаа јагниња"
+			},
+			{
+				"definition_name": "кротко, мирно лице",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагнешки прид.",
+		"name": "јагнешки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што потекнува од јагне",
+				"definition_example": "јагнешко месо"
+			}
+		]
+	},
+
+	{
+		"word": "јагнешко ср.",
+		"name": "јагнешко",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Месо од јагне",
+				"definition_example": "Таа готвеше манџа со јагнешко"
+			}
+		]
+	},
+
+	{
+		"word": "јагни несв.",
+		"name": "јагни",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Раѓа јагне",
+				"definition_example": "Некои овци јагнат понекогаш по две јагниња"
+			},
+			{
+				"definition_name": "(се јагни) се раѓа јагне",
+				"definition_example": "Овците се јагнат, а кравите се телат"
+			}
+		]
+	},
+
+	{
+		"word": "јагнило ср.",
+		"name": "јагнило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Период кога се јагнат овците",
+				"definition_example": "За време на јагнилото се ангажираат повеќе работници"
+			},
+			{
+				"definition_name": "јагнење",
+				"definition_example": "Тој се подготвуваше за јагнилото"
+			}
+		]
+	},
+
+	{
+		"word": "јагода ж.",
+		"name": "јагода",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Повеќегодишно овошно растение со ситни, бели цветови и мали црвени мирисливи и сочни, месести плодови со тркалезна или овална форма",
+				"definition_example": "Јагодите веќе цветаа"
+			},
+			{
+				"definition_name": "Плод од тоа растение",
+				"definition_example": "Јагодите беа крупни и слатки"
+			},
+			{
+				"definition_name": "(обично мн) Испакнат дел од лицето под очите, на горниот дел од образот",
+				"definition_example": "Издолжено лице со испупчени јаготки"
+			},
+			{
+				"definition_name": "(обично во мн) Заоблениот дел на прстите од внатрешната страна, врвот на прстите",
+				"definition_example": "Тој ги чувствуваше влажните јаготки од нејзините прсти"
+			}
+		]
+	},
+
+	{
+		"word": "јагодарник м.",
+		"name": "јагодарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место насадено со јагоди",
+				"definition_example": "Зад куќата имаше јагодарник"
+			}
+		]
+	},
+
+	{
+		"word": "јагодест прид.",
+		"name": "јагодест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што личи, што има форма на јагода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагодин прид.",
+		"name": "јагодин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа, што се однесува на јагода",
+				"definition_example": "јагодин цутојад"
+			}
+		]
+	},
+
+	{
+		"word": "јагодов прид.",
+		"name": "јагодов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од јагоди",
+				"definition_example": "јагодов цвет, јагодов сок"
+			}
+		]
+	},
+
+	{
+		"word": "јаготка ж.",
+		"name": "јаготка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јагода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагуар м.",
+		"name": "јагуар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид див ѕвер од родот мачки, живее во прашумите во Јужна Америка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Марка луксузен автомобил",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагула ж.",
+		"name": "јагула",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид риба што личи на змија",
+				"definition_example": "Охридска јагула"
+			}
+		]
+	},
+
+	{
+		"word": "јагулест прид.",
+		"name": "јагулест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што личи на јагула, што има особини на јагула; слаб, лизгав, долгнавест",
+				"definition_example": "Јагулеста, шушкава свила"
+			}
+		]
+	},
+
+	{
+		"word": "јагулник м.",
+		"name": "јагулник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Рибник со јагули",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јагурида ж.",
+		"name": "јагурида",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Зелено грозје од крајот на сезоната што не созрева",
+				"definition_example": "Тој касна јагурида што го штипе јазикот"
+			}
+		]
+	},
+
+	{
+		"word": "јагурида прид.",
+		"name": "јагурида",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "незрел, недораснат, зелен",
+				"definition_example": "Уште е јагурида детето"
+			}
+		]
+	},
+
+	{
+		"word": "јад м.",
+		"name": "јад",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Грижа, мака, душевна тежина",
+				"definition_example": "Ја при тиснале маки и јадови"
+			},
+			{
+				"definition_name": "гнев, бес, лутина",
+				"definition_example": "Шикна бесот и јадот во него"
+			},
+			{
+				"definition_name": "отров, горчина",
+				"definition_example": "Од нејзините зборови извираше јад и пелин"
+			}
+		]
+	},
+
+	{
+		"word": "јадало ср.",
+		"name": "јадало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јадење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадар прид.",
+		"name": "јадар",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "крупен, голем",
+				"definition_example": "јадри зрна"
+			}
+		]
+	},
+
+	{
+		"word": "јадач м.",
+		"name": "јадач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што многу јаде, лаком, стрвен човек",
+				"definition_example": "Тој не беше некој голем јадач"
+			},
+			{
+				"definition_name": "Мачител, тој што живее од туѓа мака",
+				"definition_example": "Јадачите се јадачи и да се крстат и да се клањаат"
+			}
+		]
+	},
+
+	{
+		"word": "јадачка ж.",
+		"name": "јадачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "храна, јадење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јадење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јад",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Зајадлива жена, жена што предизвикува јадови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаде несв.",
+		"name": "јадачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "храна, јадење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јадење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јад",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Зајадлива жена, жена што предизвикува јадови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадеж м.",
+		"name": "јадеж",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Чувство на чешање",
+				"definition_example": "Правот причинува јадеж и воспаление на кожата"
+			}
+		]
+	},
+
+	{
+		"word": "јадежен прид.",
+		"name": "јадежен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што предизвикува јадеж",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаден прид.",
+		"name": "јаден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кутар, тажен, жален",
+				"definition_example": "Ја бараше болната вистина за овој трошен и јаден човечки век"
+			},
+			{
+				"definition_name": "Што е во лоша состојба",
+				"definition_example": "Повторно се најде во она јадно лозјенце"
+			},
+			{
+				"definition_name": "Исполнет со јад",
+				"definition_example": "Му назборувала тешки, јадни зборови"
+			}
+		]
+	},
+
+	{
+		"word": "јадење ср.",
+		"name": "јадење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(глаг им, едн) јаде",
+				"definition_example": "Немаше време ни за јадење"
+			},
+			{
+				"definition_name": "Тоа што се употребува како храна, тоа што е приготвено да се јаде",
+				"definition_example": "На масата имаше различни јадења"
+			},
+			{
+				"definition_name": "јадеж, чешање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадец изв.",
+		"name": "јадец",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Извик при кршење на јадецот",
+				"definition_example": "Викаше колку што го држи гласот : јадец!"
+			}
+		]
+	},
+
+	{
+		"word": "јадец м.",
+		"name": "јадец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Чепореста коска кај птиците, под гушата, настаната од двете сраснати клучни коски",
+				"definition_example": "Тој секогаш го бараше јадецот од печената кокошка"
+			},
+			{
+				"definition_name": "Вид игра при која се крши јадецот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "празно, шупливо, безвредно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадица ж.",
+		"name": "јадица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од риболовна опрема, метална жичка свиткана како кука, со остар врв",
+				"definition_example": "Црвчето висеше на јадицата"
+			},
+			{
+				"definition_name": "Дел од риболовна опрема, дрвен или пластичен стап на кој се врзува конец со јадица",
+				"definition_example": "Отидов да ги видам јадиците"
+			}
+		]
+	},
+
+	{
+		"word": "јадичар м.",
+		"name": "јадичар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Риболовец што лови на јадица",
+				"definition_example": "Тој е јадичар, лови само на јадица"
+			}
+		]
+	},
+
+	{
+		"word": "јадлив прид.",
+		"name": "јадлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Добар за јадење, што може да се јаде",
+				"definition_example": "Јадливиот вргањ, лисичарката, боровата рујница и масларката се меѓу највкусните печурки во светот"
+			},
+			{
+				"definition_name": "Исполнет со јад, со горчина",
+				"definition_example": "Тој имаше јадлива насмевка на лицето"
+			}
+		]
+	},
+
+	{
+		"word": "јадливо прил.",
+		"name": "јадливо",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "На јадлив, на горчлив начин",
+				"definition_example": "Плачеше јадливо"
+			}
+		]
+	},
+
+	{
+		"word": "јадник м.",
+		"name": "јадник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јаден човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадно прил.",
+		"name": "јадно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "тажно, жално",
+				"definition_example": "Таа јадно гледаше во него"
+			},
+			{
+				"definition_name": "лошо, неугледно",
+				"definition_example": "Тој изгледаше јадно"
+			}
+		]
+	},
+
+	{
+		"word": "јадовен прид.",
+		"name": "јадовен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "јаден",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадовит прид.",
+		"name": "јадовит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Исполнет со јад",
+				"definition_example": "Неговата забелешка беше јадовита"
+			}
+		]
+	},
+
+	{
+		"word": "јадоса св.",
+		"name": "јадоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Создаде некому јад, исполни некого со јад",
+				"definition_example": "Таа го јадоса со своето заминување"
+			},
+			{
+				"definition_name": "(се јадоса) Се исполни со јад",
+				"definition_example": "Тој се јадоса од неправдата"
+			}
+		]
+	},
+
+	{
+		"word": "јадосан прид.",
+		"name": "јадосан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(глаг прид) Исполнет со јад",
+				"definition_example": "Тој е јадосан од неправдата што му ја нанесоа"
+			},
+			{
+				"definition_name": "Исполнет со јад",
+				"definition_example": "Неговото јадосано срце чукаше силно"
+			}
+		]
+	},
+
+	{
+		"word": "јадост ж.",
+		"name": "јадост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јад",
+				"definition_example": "Тој ќе ни ја сфати јадоста"
+			}
+		]
+	},
+
+	{
+		"word": "јадосувачка ж.",
+		"name": "јадосувачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јадосување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Јадран име.",
+		"name": "Јадран",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Јадранско море",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадро ср.",
+		"name": "јадро",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Средиштен, внатрешен дел од нешто, од некоја целина",
+				"definition_example": "Земјино јадро"
+			},
+			{
+				"definition_name": "Дел од клетката каде што е сместен генетскиот материјал",
+				"definition_example": "клеточно јадро"
+			},
+			{
+				"definition_name": "Суштина, најважен, основен дел од нешто",
+				"definition_example": "градско јадро"
+			}
+		]
+	},
+
+	{
+		"word": "јадровит прид.",
+		"name": "јадровит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Суштински, што го содржи најважното",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јадрозрнест прид.",
+		"name": "јадрозрнест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има крупни, јадри зрна",
+				"definition_example": "јадрозрнесто жито"
+			}
+		]
+	},
+
+	{
+		"word": "јадроплоден прид.",
+		"name": "јадроплоден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Сорта што има крупни, јадри плодови",
+				"definition_example": "Јадроплодни долги пиперки"
+			}
+		]
+	},
+
+	{
+		"word": "јадува несв.",
+		"name": "јадува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Чувствува јад",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јажар м.",
+		"name": "јажар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што изработува јажиња",
+				"definition_example": "Тие заедно работеа како јажари"
+			}
+		]
+	},
+
+	{
+		"word": "јажарница ж.",
+		"name": "јажарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Работилница во која се изработуваат јажиња",
+				"definition_example": "Работеше во јажарницата"
+			}
+		]
+	},
+
+	{
+		"word": "јажарство ср.",
+		"name": "јажарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Јажарски занает, занимање на јажарот",
+				"definition_example": "Тој долго време се занимаваше со јажарство"
+			}
+		]
+	},
+
+	{
+		"word": "јаже ср.",
+		"name": "јаже",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Производ од усукани или плетени влакна од коноп или од друг материјал што може да се усукува, со голема должина, со различна дебелина, релативно еластичен",
+				"definition_example": "бродски јажиња"
+			}
+		]
+	},
+
+	{
+		"word": "јаженица ж.",
+		"name": "јаженица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Низа од некаков зеленчук нанижан на јаже",
+				"definition_example": "Под стреата висеше јаженица лук"
+			}
+		]
+	},
+
+	{
+		"word": "јажица ж.",
+		"name": "јажица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Јаже од усукана 'ржена слама што служи за врзување снопови",
+				"definition_example": "Им ги кинел јажиците и им ги истурал снопјето"
+			}
+		]
+	},
+
+	{
+		"word": "јажичка ж.",
+		"name": "јажичка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јажица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јажица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаз м.",
+		"name": "јаз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Бразда, жлеб, доводен или одводен канал за вода",
+				"definition_example": "Ја крадеа водата кришум едни од други со длабоки јазови"
+			},
+			{
+				"definition_name": "Препрека, нешто што ја попречува комуникацијата меѓу две страни",
+				"definition_example": "Инцидентот го продлабочи јазот меѓу двете страни"
+			}
+		]
+	},
+
+	{
+		"word": "јазак прил.",
+		"name": "јазак",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "срамно, жално",
+				"definition_example": "Јазак, страшливци!"
+			}
+		]
+	},
+
+	{
+		"word": "јазач м.",
+		"name": "јазач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што се јази",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазачица ж.",
+		"name": "јазачица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Растение што се јази",
+				"definition_example": "Таа ја искорна ружата јазачица"
+			}
+		]
+	},
+
+	{
+		"word": "јазди несв.",
+		"name": "јазди",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "јава",
+				"definition_example": "Пред една чета тој јаздеше на бел коњ"
+			}
+		]
+	},
+
+	{
+		"word": "јазе зам.",
+		"name": "јазе",
+		"type": "Заменка",
+		"definitions": [
+			{
+				"definition_name": "јас",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазел м.",
+		"name": "јазел",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јазол",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јази несв.",
+		"name": "јази",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се качува на високи дрвја, на стрмни места, помагајќи си и со рацете и со нозете",
+				"definition_example": "Се јазеше по гранките со голема леснотија"
+			},
+			{
+				"definition_name": "За растение - се качува по нешто ползејќи или свивајќи се околу него",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазик м.",
+		"name": "јазик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Подвижен мускулест орган во усната празнина кај човекот и кај животните, орган за вкусот што го помага земањето храна, а кај човекот учествува и во образувањето на гласовите во говорот",
+				"definition_example": "Го плази јазикот"
+			},
+			{
+				"definition_name": "Јадење од овој орган од некои животни",
+				"definition_example": "Говедски јазик во сос"
+			},
+			{
+				"definition_name": "Издолжен дел од нешто што има форма на јазик",
+				"definition_example": "пламени јазици"
+			},
+			{
+				"definition_name": "Систем од гласовни, речнички и граматички средства и правила што им служи на луѓето за изразување на своите мисли и чувства во меѓусебното општење",
+				"definition_example": "Природен јазик - јазик на кој зборуваат луѓето и што е основа на сеопштата мисловна дејност на човекот"
+			},
+			{
+				"definition_name": "Секој таков систем, изделен од другите, како средство за општење на определена општествена заедница",
+				"definition_example": "македонски јазик"
+			},
+			{
+				"definition_name": "Севкупност од изразни средства и карактеристики на определена општествена група, професија, во определена епоха, литературен вид, во творештвото на определен писател и сл",
+				"definition_example": "разговорен јазик"
+			},
+			{
+				"definition_name": "Начин на изразување и однос во изборот на изразните средства",
+				"definition_example": "тежок јазик"
+			},
+			{
+				"definition_name": "Систем од договорени знаци (звуци, сигнали, гестови) што пренесуваат информација",
+				"definition_example": "Зборува со јазикот на алхемичарите"
+			}
+		]
+	},
+
+	{
+		"word": "јазикотворен прид.",
+		"name": "јазикотворен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Подвижен мускулест орган во усната празнина кај човекот и кај животните, орган за вкусот што го помага земањето храна, а кај човекот учествува и во образувањето на гласовите во говорот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазичар м.",
+		"name": "јазичар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што се занимава со науката за јазикот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазиче ср.",
+		"name": "јазиче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јазик",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Нешто што е во форма на мал јазик",
+				"definition_example": "јазиче на квака"
+			}
+		]
+	},
+
+	{
+		"word": "јазичест прид.",
+		"name": "јазичест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на јазик",
+				"definition_example": "јазичеста форма"
+			}
+		]
+	},
+
+	{
+		"word": "јазлест прид.",
+		"name": "јазлест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има многу јазли",
+				"definition_example": "јазлесто јаже"
+			}
+		]
+	},
+
+	{
+		"word": "јазовец м.",
+		"name": "јазовец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Што има многу јазли",
+				"definition_example": "јазлесто јаже"
+			}
+		]
+	},
+
+	{
+		"word": "јазовичар м.",
+		"name": "јазовичар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Диво животно, сештојад од фамилијата куни, слично на куче, со долги остри влакна, темни и бели по главата, што живее во подземни ходници и дупки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јазол м.",
+		"name": "јазол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тоа што се добива кога ќе се заврзе или ќе се сплетка јаже, конец, жица и сл",
+				"definition_example": "Конецот се врза во јазол"
+			},
+			{
+				"definition_name": "Место каде што се вкрстуваат повеќе сообраќајници или се преплетуваат разни линии, делови од сложени градби и системи",
+				"definition_example": "железнички јазол"
+			},
+			{
+				"definition_name": "Задебелување на некој орган формирано од натрупување на одреден тип клетки",
+				"definition_example": "лимфни јазли"
+			}
+		]
+	},
+
+	{
+		"word": "јазолен прид.",
+		"name": "јазолен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јазол",
+				"definition_example": "јазолна точка"
+			}
+		]
+	},
+
+	{
+		"word": "јајник м.",
+		"name": "јајник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јајчник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајце ср.",
+		"name": "јајник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јајчник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајцев прид.",
+		"name": "јајцев",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јајце",
+				"definition_example": "јајцева обвивка"
+			}
+		]
+	},
+
+	{
+		"word": "јајцевиден прид.",
+		"name": "јајцевиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на јајце",
+				"definition_example": "Јајцевидна глава"
+			}
+		]
+	},
+
+	{
+		"word": "јајцевод м.",
+		"name": "јајцевод",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дел од женските полови органи, канал низ кој минува јајце-клетката од јајчниците до матката",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајцест прид.",
+		"name": "јајцест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на јајце",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчалник м.",
+		"name": "јајчалник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид јадење, пита со јајца и млеко",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчар м.",
+		"name": "јајчар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што продава јајца",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Љубител на јајца",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчарка ж.",
+		"name": "јајчарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жена што продава јајца",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Љубителка на јајца",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид печурка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчарник м.",
+		"name": "јајчарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што се чуваат јајца",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Сандак за чување јајца",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчест прид.",
+		"name": "јајчест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на јајце",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јајчник м.",
+		"name": "јајчник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Женска парна полова жлезда во која се создаваат и созреваат јајце-клетките",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јак м.",
+		"name": "јак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Крупно говедо, диво или питомо, со изразена грпка и долги влакна, кое живее на Тибет и Памир",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јак прид.",
+		"name": "јак",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има голема сила и енергија, силен, добро развиен",
+				"definition_example": "Јаки и длабоки корени"
+			},
+			{
+				"definition_name": "Што е траен, издржлив, цврст",
+				"definition_example": "јако платно"
+			},
+			{
+				"definition_name": "Што е добро вооружен, тешко совладлив",
+				"definition_example": "јака армија"
+			},
+			{
+				"definition_name": "Што е духовно силен, цврст, непоколеблив",
+				"definition_example": "Јак е тој, ќе издржи"
+			},
+			{
+				"definition_name": "Што има голема моќ, власт, авторитет, што има влијание врз случувањата од разни сфери на животот",
+				"definition_example": "јака компанија"
+			},
+			{
+				"definition_name": "значаен, релевантен",
+				"definition_example": "јаки докази"
+			},
+			{
+				"definition_name": "Што има голема сила, јачина",
+				"definition_example": "јак мотор"
+			},
+			{
+				"definition_name": "Што содржи голем процент од нешто, што дејствува силно",
+				"definition_example": "јака ракија"
+			},
+			{
+				"definition_name": "Што е остар, продорен",
+				"definition_example": "јаки бои"
+			},
+			{
+				"definition_name": "Што е силен по начинот на кој се пројавува, по интензитетот",
+				"definition_example": "јака настинка"
+			}
+		]
+	},
+
+	{
+		"word": "јака ж.",
+		"name": "јака",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од облеката што е зашиен или прикачен за друг дел од облеката околу вратот",
+				"definition_example": "палто со крената јака"
+			}
+		]
+	},
+
+	{
+		"word": "јакија ж.",
+		"name": "јакија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Мевлем намачкан на парче платно за лекување рани",
+				"definition_example": "јакија за ревма"
+			}
+		]
+	},
+
+	{
+		"word": "јакна ж.",
+		"name": "јакна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Горен дел од облека, вид кусо палто",
+				"definition_example": "летна јакна"
+			}
+		]
+	},
+
+	{
+		"word": "јакне св.",
+		"name": "јакне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Офне, лелекне од болка или тага",
+				"definition_example": "Ја гризев перницата за да не јакнам"
+			},
+			{
+				"definition_name": "Одекне, се огласи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јакнее несв.",
+		"name": "јакнее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "јакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јако прил.",
+		"name": "јакнее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "јакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јакобинец м.",
+		"name": "јакобинец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Член на радикалното политичко крило од времето на Француската револуција",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Тој што има напредни, револуционерни идеи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јакобинство ср.",
+		"name": "јакобинство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Член на радикалното политичко крило од времето на Француската револуција",
+				"definition_example": "Тоа е јакобинство што подразбира дека теророт е средство што ја оправдува целта"
+			}
+		]
+	},
+
+	{
+		"word": "јакост ж.",
+		"name": "јакобинство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Радикално политичко движење од времето на Француската револуција",
+				"definition_example": "Тоа е јакобинство што подразбира дека теророт е средство што ја оправдува целта"
+			}
+		]
+	},
+
+	{
+		"word": "јакуцка ж.",
+		"name": "јакуцка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на тоа што е јако",
+				"definition_example": "Формула за пресметување јакост на материјал"
+			}
+		]
+	},
+
+	{
+		"word": "јалдаз м.",
+		"name": "јалдаз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "позлата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Златна монета",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид цвеќе, со крупни цветови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јалдазлив прид.",
+		"name": "јалдазлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е прекриен со позлата, позлатен",
+				"definition_example": "Пред неа е зелен ѓерѓеф јалдазлив"
+			}
+		]
+	},
+
+	{
+		"word": "јали сврз.",
+		"name": "јали",
+		"type": "Сврзник",
+		"definitions": [
+			{
+				"definition_name": "(и јали јали) или",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јалнаш прил.",
+		"name": "јалнаш",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "погрешно, неточно",
+				"definition_example": "Јалнаш ме разбра"
+			}
+		]
+	},
+
+	{
+		"word": "јалов прид.",
+		"name": "јалов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што не е плоден",
+				"definition_example": "Јалова овца"
+			},
+			{
+				"definition_name": "Што не дава резултати",
+				"definition_example": "Јалов обид"
+			}
+		]
+	},
+
+	{
+		"word": "јаловак м.",
+		"name": "јаловак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Зелени ластари кај виновата лоза што се неродни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаловар м.",
+		"name": "јаловар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Овчар што ги пасе јаловите овци, овните и шилежињата",
+				"definition_example": "Врне грме в планината, кај младите јаловари /- Нека грме, Недо ќерко, што те гајле тебе јаде"
+			}
+		]
+	},
+
+	{
+		"word": "јаловен прид.",
+		"name": "јаловен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "јалов",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јалови несв.",
+		"name": "јалови",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува безвреден, пропаѓа",
+				"definition_example": "Се јалови работава"
+			}
+		]
+	},
+
+	{
+		"word": "јаловина ж.",
+		"name": "јаловина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нешто што е неплодно",
+				"definition_example": "Секоја година ораше и по десетина бразди бигор и јаловина"
+			},
+			{
+				"definition_name": "Нешто што е безвредно",
+				"definition_example": "Низ сета таа јаловина се наоѓа и по нешто интересно"
+			},
+			{
+				"definition_name": "Материјал од кој е одвоена рудата",
+				"definition_example": "Јаловината истече во реката"
+			}
+		]
+	},
+
+	{
+		"word": "јаловит прид.",
+		"name": "јаловит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "јалов",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаловица ж.",
+		"name": "јаловица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јалова жена",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јалово животно",
+				"definition_example": "Ги пасе јаловиците"
+			},
+			{
+				"definition_name": "неплодна земја",
+				"definition_example": "Од предвидената јаловица се прекриени околу  ha почва"
+			}
+		]
+	},
+
+	{
+		"word": "јалук м.",
+		"name": "јалук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место на овенот каде што волната не е стрижена, туку е оставена како украс",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јама ж.",
+		"name": "јама",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Длабока дупка ископана во земја",
+				"definition_example": "Тој се криеше во јамата"
+			},
+			{
+				"definition_name": "рударско окно",
+				"definition_example": "Ги уништија рудничките постројки и јами"
+			}
+		]
+	},
+
+	{
+		"word": "Јамајка име.",
+		"name": "Јамајка",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "остров во Карибите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јамак м.",
+		"name": "јамак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид бакарен сад за вода, за ракија или за готвење",
+				"definition_example": "Помина млада жена со јамак за вода"
+			}
+		]
+	},
+
+	{
+		"word": "јамаче ср.",
+		"name": "јамаче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јамак",
+				"definition_example": ""
+			},
+			{
+				"definition_name": "Мал бакарен сад во кој се топи маст пред употреба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јамб м.",
+		"name": "јамб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Двосложна метричка стапка со акцент на вториот слог",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид игра со шест коцки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јамбичен прид.",
+		"name": "јамбичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е напишан во метричката стапка јамб",
+				"definition_example": "јамбична рима, јамбова стапка"
+			}
+		]
+	},
+
+	{
+		"word": "јамболлија ж.",
+		"name": "јамболлија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид дебела волнена покривка со реси од едната страна, рачно изработена",
+				"definition_example": "Се покри со јамболлијата, но сѐ уште му студеше"
+			}
+		]
+	},
+
+	{
+		"word": "јамка ж.",
+		"name": "јамка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Заврзан крај од јаже или жица со кој може нешто да се стегне",
+				"definition_example": "Му требаа јамки за коњите"
+			}
+		]
+	},
+
+	{
+		"word": "јан м.",
+		"name": "јан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "миндерлак",
+				"definition_example": "Седеа во собата со јан на двата ѕида"
+			},
+			{
+				"definition_name": "страна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаначе ср.",
+		"name": "јаначе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "миндерлак",
+				"definition_example": "Седеа во собата со јан на двата ѕида"
+			}
+		]
+	},
+
+	{
+		"word": "јанган м.",
+		"name": "јанган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "пожар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јанѕа ж.",
+		"name": "јанѕа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "треска, грозница",
+				"definition_example": "Го мачи јанѕа"
+			},
+			{
+				"definition_name": "Чувство на неспокојство, страв дека ќе се случи нешто; лошо претчувство",
+				"definition_example": "Му мина страв низ коските, го пролази јанѕа"
+			},
+			{
+				"definition_name": "Лош човек",
+				"definition_example": "Го јаде јанѕа - нешто го мачи"
+			}
+		]
+	},
+
+	{
+		"word": "јанѕоса св.",
+		"name": "јанѕоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Предизвика јанѕа кај некого",
+				"definition_example": "Го јанѕосаа неговите зборови"
+			}
+		]
+	},
+
+	{
+		"word": "јанија ж.",
+		"name": "јанија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид чорбесто јадење со месо и зеленчук",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаникара ж.",
+		"name": "јаникара",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид заразна болест, црн пришт",
+				"definition_example": "Го фатила јаникара"
+			}
+		]
+	},
+
+	{
+		"word": "јаничар м.",
+		"name": "јаничар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Војник во елитна трупа на османлиската војска што го чувале султанот и достигнувале највисоки државни функции",
+				"definition_example": "Мехмет Соколовиќ од јаничар станал голем везир и ја обновил патријаршијата во Пеќ"
+			}
+		]
+	},
+
+	{
+		"word": "јаничарски прид.",
+		"name": "јаничарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со јаничар",
+				"definition_example": "јаничарска војска"
+			}
+		]
+	},
+
+	{
+		"word": "јанлаш прил.",
+		"name": "јанлаш",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "јалнаш",
+				"definition_example": "јанлаш зборува"
+			}
+		]
+	},
+
+	{
+		"word": "јановденче ср.",
+		"name": "јановденче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Вид цветно растение со ситни бели цветчиња што цвета на Јановден (Иванден), во јули",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид ароматско и лековито растение",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јанта ж.",
+		"name": "јанта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Овчарска кожена торба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јантар м.",
+		"name": "јантар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Скаменета смола од прастари иглолисни дрва",
+				"definition_example": "прстен со јантар"
+			}
+		]
+	},
+
+	{
+		"word": "јанќесе ср.",
+		"name": "јанќесе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Кожено ќесе за чување пари што се носи на појасот од страна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јанќесеџија м.",
+		"name": "јанќесеџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "разбојник, арамија",
+				"definition_example": "Се здружија со јанќесеџии"
+			},
+			{
+				"definition_name": "измамник, распуштен човек",
+				"definition_example": "Се распиштолил како јанќесеџија"
+			}
+		]
+	},
+
+	{
+		"word": "јанќесеџилак м.",
+		"name": "јанќесеџилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "разбојништво, арамилак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јануари м.",
+		"name": "јануари",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Првиот месец од календарската година",
+				"definition_example": "Беше крајот на јануари и тој отсекогаш знаел дека то со волците морало да биде токму вакво"
+			}
+		]
+	},
+
+	{
+		"word": "јанџик м.",
+		"name": "јанџик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "кожена торба",
+				"definition_example": "Монополот бил познат по тутунарите кои со јанџици на рамо или на коњи и магариња го носеле „жолтото злато“"
+			}
+		]
+	},
+
+	{
+		"word": "јапанџак м.",
+		"name": "јапанџак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дел од облека за заштита од дожд",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јапи м.",
+		"name": "јапи",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Млад градски жител посветен исклучително на кариерата (young urban professional people)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јапија ж.",
+		"name": "јапија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дрвен градежен материјал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Јапонија име.",
+		"name": "Јапонија",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "далекоисточна азиска земја",
+				"definition_example": "Министерот за надворешни работи на Јапонија ја потпишуваше капитулацијата пред американскиот адмирал"
+			}
+		]
+	},
+
+	{
+		"word": "јапонски прид.",
+		"name": "јапонски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со Јапонците или Јапонија",
+				"definition_example": "јапонски автомобил"
+			}
+		]
+	},
+
+	{
+		"word": "јарбол м.",
+		"name": "јарбол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вертикална конструкција, метален или дрвен столб, на палубата на брод на кој се распнуваат едрата, се подига знаме, сигнални знаци и сл",
+				"definition_example": "Едрилица со пет јарболи"
+			},
+			{
+				"definition_name": "Вертикално поставен метален столб на кој се истакнува знаме",
+				"definition_example": "Знамињата се вееја на јарболите"
+			}
+		]
+	},
+
+	{
+		"word": "јард м.",
+		"name": "јард",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Англиска мерка за должина;  јард = , сантиметри",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаре ср.",
+		"name": "јаре",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "младо од коза",
+				"definition_example": "Јарињата дремеа под сенка"
+			}
+		]
+	},
+
+	{
+		"word": "јаребица ж.",
+		"name": "јаребица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "еребица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарем м.",
+		"name": "јарем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дрвена направа во која се впрегнуваат два вола за орање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "ропство",
+				"definition_example": "Народот се измолкна од долговековниот јарем"
+			}
+		]
+	},
+
+	{
+		"word": "јарец м.",
+		"name": "јарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "мажјак на козата",
+				"definition_example": "Тој го продаде јарецот"
+			},
+			{
+				"definition_name": "Јужно соѕвездие, зодијачки знак, од  декември до  јануари",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид гимнастичка направа за прескокнување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаречки прид.",
+		"name": "јаречки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "јарешки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарешки прид.",
+		"name": "јарешки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јаре, што потекнува од јаре",
+				"definition_example": "јарешка кожа"
+			}
+		]
+	},
+
+	{
+		"word": "јарешко ср.",
+		"name": "јарешко",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Месо од јаре",
+				"definition_example": "Таа готвеше варени компири со јарешко"
+			}
+		]
+	},
+
+	{
+		"word": "јари несв.",
+		"name": "јари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Роди јаре",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарина ж.",
+		"name": "јарина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Волна од јагне или од овца при повторното стрижење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарица ж.",
+		"name": "јарица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Млада кокошка која сѐ уште не почнала да несе јајца",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарк прид.",
+		"name": "јарк",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(обично во формите јарко, јарка) силен, светол, дречлив, интензивен",
+				"definition_example": "јарки бои"
+			}
+		]
+	},
+
+	{
+		"word": "јарка ж.",
+		"name": "јарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јарица, јаврија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јарма ж.",
+		"name": "јарма",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Брашно за добиток сомелено на јадро",
+				"definition_example": "За воловите донесоа слама и јарма"
+			}
+		]
+	},
+
+	{
+		"word": "јарост ж.",
+		"name": "јарост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на тој што е јаростен, лутина, бес, гнев",
+				"definition_example": "На неговото лице се читаше јарост"
+			}
+		]
+	},
+
+	{
+		"word": "јаростен прид.",
+		"name": "јаростен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "разбеснет, гневен",
+				"definition_example": "јаростен поглед"
+			}
+		]
+	},
+
+	{
+		"word": "јас зам.",
+		"name": "јас",
+		"type": "Заменка",
+		"definitions": [
+			{
+				"definition_name": "(мене, ме; мене, ми; себе, си; себе, се) Лична заменка за прво лице еднина; се употребува за да се означи говорното лице",
+				"definition_example": "Јас сум студент"
+			},
+			{
+				"definition_name": "(ср) индивидуа, личност, его",
+				"definition_example": "Моето второ „јас“"
+			}
+		]
+	},
+
+	{
+		"word": "јасен прид.",
+		"name": "јасен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "сјаен, светол",
+				"definition_example": "Јасно сонце"
+			},
+			{
+				"definition_name": "чист, ведар",
+				"definition_example": "Јасно небо"
+			},
+			{
+				"definition_name": "Разбирлив, точно определен, прецизен",
+				"definition_example": "Јас на мисла"
+			}
+		]
+	},
+
+	{
+		"word": "јасен м.",
+		"name": "јасен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Листопадно дрво со сивкаво-зеленикава кора и со издолжени лисје",
+				"definition_example": "бел јасен"
+			}
+		]
+	},
+
+	{
+		"word": "јасика ж.",
+		"name": "јасика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Листопадно дрво, вид топола, трепетлика",
+				"definition_example": "Масовно изумираат јасиките"
+			}
+		]
+	},
+
+	{
+		"word": "јаска зам.",
+		"name": "јаска",
+		"type": "Заменка",
+		"definitions": [
+			{
+				"definition_name": "јас",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јасли само мн.",
+		"name": "јасли",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Направа во форма на долго корито прицврстено до ѕид, во кое се става добиточна храна",
+				"definition_example": "Тој стави сено во јаслите"
+			},
+			{
+				"definition_name": "Воспитна установа слична на детска градинка, наменета за деца до три години",
+				"definition_example": "Пред да оди на работа, таа го носи детето во јасли"
+			}
+		]
+	},
+
+	{
+		"word": "јасмин м.",
+		"name": "јасмин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Грмушесто растение од фамилијата маслинки, со жолти или бели цветови, со многу силен пријатен мирис",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаснее несв.",
+		"name": "јаснее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) јасни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јасник м.",
+		"name": "јасник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Време во зима кога не паѓа снег, небото е јасно, а температурата на воздухот е многу ниска; сув студ",
+				"definition_example": "Беше јасник и немаше никого по улиците"
+			},
+			{
+				"definition_name": "Студен ветер, што ги гони облаците и носи јасно време",
+				"definition_example": "Го јаде јасникот - чувствува морници поради некоја непријатност"
+			}
+		]
+	},
+
+	{
+		"word": "јасников прид.",
+		"name": "јасников",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесувава на јасник",
+				"definition_example": "Полноќ јасникова"
+			}
+		]
+	},
+
+	{
+		"word": "јаснина ж.",
+		"name": "јаснина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јасно, ведро време, ведрина",
+				"definition_example": "Предвечерната јаснина најавуваше студена ноќ"
+			},
+			{
+				"definition_name": "јасност, сјајност",
+				"definition_example": "Чувствуваше јаснина во душата"
+			},
+			{
+				"definition_name": "Рано наутро",
+				"definition_example": "Од јаснина до пладнина"
+			}
+		]
+	},
+
+	{
+		"word": "јасно прил.",
+		"name": "јаснина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јасно, ведро време, ведрина",
+				"definition_example": "Предвечерната јаснина најавуваше студена ноќ"
+			},
+			{
+				"definition_name": "јасност, сјајност",
+				"definition_example": "Чувствуваше јаснина во душата"
+			},
+			{
+				"definition_name": "Рано наутро",
+				"definition_example": "Од јаснина до пладнина"
+			}
+		]
+	},
+
+	{
+		"word": "јасновиден прид.",
+		"name": "јасновиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "сјајно, светло",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јасновидец м.",
+		"name": "јасновидец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што има способност да гледа во иднината, што е видовит",
+				"definition_example": "Старецот е мудрец, јасновидец, тој знае сѐ"
+			}
+		]
+	},
+
+	{
+		"word": "јасновидство ср.",
+		"name": "јасновидство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Особеност на тој што е јасновидец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јаснота ж.",
+		"name": "јаснота",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Особеност на тоа што е јасно",
+				"definition_example": "Јаснота и единство по прашањето нема, а горе-долу кога нема јаснота, тогаш работата е плукни-залепи"
+			}
+		]
+	},
+
+	{
+		"word": "јаснотија ж.",
+		"name": "јаснотија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јаснота",
+				"definition_example": "Јаснотијата на книгите инспирирале многу патрони и други архитекти"
+			}
+		]
+	},
+
+	{
+		"word": "јаспис м.",
+		"name": "јаспис",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид минерал со темноцрвена до кафена боја, многу тврд украсен полудраг камен",
+				"definition_example": "Јасписот води потекло од фамилијата млечни камења и може да се појави во различни бои"
+			}
+		]
+	},
+
+	{
+		"word": "јастагач м.",
+		"name": "јастагач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид синија (за месење)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јастак м.",
+		"name": "јастак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "перница",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Душек наполнет со слама",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Леа обработена за расад",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јастелив прид.",
+		"name": "јастелив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Лице што многу јаде",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јастог м.",
+		"name": "јастог",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Голем морски рак со десет нозе и со крупни пипала, често приготвуван како скап специјалитет",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јастреб м.",
+		"name": "јастреб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Граблива птица со кус, малку подвиткан клун и со долги остри нокти; се храни со птици и со ситни цицачи со големина на зајак;",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Приврзаник на агресивна политика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јастребов прид.",
+		"name": "јастребов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на јастреб",
+				"definition_example": "јастребово гнездо"
+			}
+		]
+	},
+
+	{
+		"word": "јастрепче ср.",
+		"name": "јастрепче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Младо од јастреб",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јастреб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јат м.",
+		"name": "јат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Име на една старословенска буква што означувала глас близок до широко /е/, а во стандардниот современ македонски јазик има рефлекс /е/; знак е",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јатаган м.",
+		"name": "јатаган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид долг, тенок, малку закривен ориентален меч, карактеристичен за османлиската војска",
+				"definition_example": "остар јатаган"
+			}
+		]
+	},
+
+	{
+		"word": "јатак м.",
+		"name": "јатак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што ги заштитувал и им помагал на комитите и ајдуците во периодот на османлиското владеење на овие простори",
+				"definition_example": "Малку се само два-тројца јатаци во селото"
+			},
+			{
+				"definition_name": "заштитник на криминалци",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јатаклак м.",
+		"name": "јатаклак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дејност што ја врши јатак",
+				"definition_example": "Сака ортак да му биде во јатаклакот"
+			}
+		]
+	},
+
+	{
+		"word": "јатакува несв.",
+		"name": "јатакува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Врши дејност како јатак, заштитува, дава засолниште",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јатка ж.",
+		"name": "јатка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Внатрешен дел од коскесто овошје заштитен со тврда обвивка",
+				"definition_example": "јатка од орев"
+			},
+			{
+				"definition_name": "Суштински, најважен дел од нешто",
+				"definition_example": "Митот е јатка на културата"
+			}
+		]
+	},
+
+	{
+		"word": "јато ср.",
+		"name": "јато",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Група птици или риби од ист вид што живеат или се движат заедно",
+				"definition_example": "јато бели лебеди"
+			},
+			{
+				"definition_name": "Воопшто, група предмети",
+				"definition_example": "јато ѕвезди"
+			}
+		]
+	},
+
+	{
+		"word": "јатор м.",
+		"name": "јатор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Засек на дагите кај што влегува дното на бурето",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јатрва ж.",
+		"name": "јатрва",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сопруга на еден брат во меѓусебниот однос со сопруга на другиот брат (или со сопругите на другите браќа)",
+				"definition_example": "Двете другарки станаа јатрви, се омажија за двајца браќа"
+			},
+			{
+				"definition_name": "Декоративно зелјесто растение со цветови поставени грб со грб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јатрвин прид.",
+		"name": "јатрвин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Сопруга на еден брат во меѓусебниот однос со сопруга на другиот брат (или со сопругите на другите браќа)",
+				"definition_example": "Двете другарки станаа јатрви, се омажија за двајца браќа"
+			}
+		]
+	},
+
+	{
+		"word": "јахта ж.",
+		"name": "јахта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Помал луксузен брод, со едра или моторен, што служи за крстосување, за спортување и сл",
+				"definition_example": "Беа поканети на забава на јахтата"
+			}
+		]
+	},
+
+	{
+		"word": "јација ж.",
+		"name": "јација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Помал луксузен брод, со едра или моторен, што служи за крстосување, за спортување и сл",
+				"definition_example": "Беа поканети на забава на јахтата"
+			}
+		]
+	},
+
+	{
+		"word": "јачи несв.",
+		"name": "јачи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Лелека, офка, испушта гласови како израз на болка",
+				"definition_example": "Тој стенкаше и јачеше сѐ повеќе"
+			},
+			{
+				"definition_name": "одекнува",
+				"definition_example": "Јачеа камбаните на црквите"
+			}
+		]
+	},
+
+	{
+		"word": "јачина ж.",
+		"name": "јачина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "сила, моќ",
+				"definition_example": "Земјотресот беше со јачина од пет степени според Рихтеровата скала"
+			},
+			{
+				"definition_name": "цврстина, издржливост",
+				"definition_example": "Јачината на јажето не беше доволна за да го издржи товарот"
+			}
+		]
+	},
+
+	{
+		"word": "јачка несв.",
+		"name": "јачка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Лелекнува, офнува, одвреме-навреме испушта гласови како израз на болка",
+				"definition_example": "Јачкаше како немоќна, слаба животинка"
+			}
+		]
+	},
+
+	{
+		"word": "јачмен прид.",
+		"name": "јачмен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јачмен, што е од јачмен",
+				"definition_example": "јачмен леб, јачмена слама"
+			}
+		]
+	},
+
+	{
+		"word": "јачмен м.",
+		"name": "јачмен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Житно растение што се употребува како човечка и добиточна храна, како и за правење пиво",
+				"definition_example": "Да му дадеш јачмен на магарето"
+			}
+		]
+	},
+
+	{
+		"word": "јачменик м.",
+		"name": "јачменик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јачмен леб",
+				"definition_example": "Го изеде парчето јачменик и замина"
+			},
+			{
+				"definition_name": "јачменче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јачмениште ср.",
+		"name": "јачмениште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јачмен",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Нива посеана со јачмен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јачменов прид.",
+		"name": "јачменов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јачмен, што е од јачмен",
+				"definition_example": "јачменови клавчиња"
+			}
+		]
+	},
+
+	{
+		"word": "јачменче ср.",
+		"name": "јачменче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Акутно, гнојно воспаление на лојните жлезди на очниот капак; чирче на очниот капак",
+				"definition_example": "Му излезе јачменче"
+			}
+		]
+	},
+
+	{
+		"word": "јачменчок м.",
+		"name": "јачменчок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јачменче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јашмак м.",
+		"name": "јашмак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Парче платно што служи за покривање на лицето кај муслиманските жени",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Стреа над огниште, внатре во куќата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "језуит м.",
+		"name": "језуит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "езуит",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Јемен име.",
+		"name": "Јемен",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Држава на Арапскиот Полуостров",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јеменија ж.",
+		"name": "јеменија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн) Вид ниски чевли",
+				"definition_example": "Нивните излитени јемении се влечкаа по калдрмата"
+			}
+		]
+	},
+
+	{
+		"word": "Јенки м.",
+		"name": "Јенки",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Американец, жител на САД",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Федерален војник во Американската граѓанска војна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јер м.",
+		"name": "јер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Назив за едниот од редуцираните вокали во старословенскиот јазик, мал ер, кој во современиот јазик преминал во е",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јереј м.",
+		"name": "јереј",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Свештеник во православната црква",
+				"definition_example": "Служењето на литургијата без примање Света Причест за јерејот е незамисливо"
+			}
+		]
+	},
+
+	{
+		"word": "јери ср.",
+		"name": "јери",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Назив за една старословенска буква што го означувала гласот 'грлено /и/', кој во современиот јазик се изедначил со /и/; знак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јероѓакон м.",
+		"name": "јероѓакон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Посветен ѓакон, калуѓер-ѓакон во православната црква",
+				"definition_example": "Јероѓаконот од кичевскиот манастир бил монах и познат собирач на македонски народни умотворби"
+			}
+		]
+	},
+
+	{
+		"word": "јеромонах м.",
+		"name": "јеромонах",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Свештеник-калуѓер во православната црква, калуѓер што може да ги врши сите свештенички активности како световниот свештеник",
+				"definition_example": "Ракописот го напишал јеромонахот Михаил"
+			}
+		]
+	},
+
+	{
+		"word": "јеромонаштво ср.",
+		"name": "јеромонаштво",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дејност на јеромонах",
+				"definition_example": "На четвртата година од неговото јеро- монаштво го назначија на повисоки должности"
+			}
+		]
+	},
+
+	{
+		"word": "јог м.",
+		"name": "јог",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што живее според системот на јогата",
+				"definition_example": "индиски јог"
+			}
+		]
+	},
+
+	{
+		"word": "јога ж.",
+		"name": "јога",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Религиозно филозофско учење во индиската традиција според кое преку самосовладување и медитирање може да се дојде до соединување на човекот со природата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Систем од вежби за телесно и духовно прочистување и морално усовршување",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "јог",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јоги м.",
+		"name": "јоги",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Религиозно филозофско учење во индиската традиција според кое преку самосовладување и медитирање може да се дојде до соединување на човекот со природата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јогист м.",
+		"name": "јогист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што живее според системот на јогата",
+				"definition_example": "македонски јогист"
+			}
+		]
+	},
+
+	{
+		"word": "јогурт м.",
+		"name": "јогурт",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид течен млечен производ, добиен со поткиселување на млекото со помош на определен фермент",
+				"definition_example": "Појадуваше бурек со јогурт"
+			}
+		]
+	},
+
+	{
+		"word": "јод м.",
+		"name": "јод",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид течен млечен производ, добиен со поткиселување на млекото со помош на определен фермент",
+				"definition_example": "Појадуваше бурек со јогурт"
+			},
+			{
+				"definition_name": "Раствор од тој елемент во алкохол што се употребува во медицината за дезинфекција",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јоден прид.",
+		"name": "јоден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Раствор од тој елемент во алкохол што се употребува во медицината за дезинфекција",
+				"definition_example": "јодна тинктура"
+			}
+		]
+	},
+
+	{
+		"word": "јодла несв.",
+		"name": "јодла",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пее во стил на алпските горјани",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јодлање ср.",
+		"name": "јодлање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Пеење во стил на алпските горјани",
+				"definition_example": "Не можеше веќе да го трпи јодлањето"
+			}
+		]
+	},
+
+	{
+		"word": "јодоводород м.",
+		"name": "јодоводород",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Соединение на јодот и водородот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јодоформ м.",
+		"name": "јодоформ",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Соединение на јод, водород и јаглерод, жолт прав со остар мирис што се става на рани за дезинфекција",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јојо ср.",
+		"name": "јојо",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Детска играчка со врвца што може да се движи нагоре и надолу при што врвката се одмотува или замотува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јок чест.",
+		"name": "јок",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "Одречен одговор",
+				"definition_example": "Имаш лu некој денар? Јок, немам ништо"
+			}
+		]
+	},
+
+	{
+		"word": "јок сврз.",
+		"name": "јок",
+		"type": "Сврзник",
+		"definitions": [
+			{
+				"definition_name": "(јокјок) Ниту ниту",
+				"definition_example": "Јок сме му ја газеле тревата, јок сме му ја мателе водата"
+			}
+		]
+	},
+
+	{
+		"word": "јок прил.",
+		"name": "јок",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "За никаде, многу лошо",
+				"definition_example": "Јок си се сторил"
+			}
+		]
+	},
+
+	{
+		"word": "јола ж.",
+		"name": "јола",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Мала едрилица за едрење во плитки води",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јон м.",
+		"name": "јон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Атом или атомска група што има помалку (позитивен јон, катјон) или повеќе (негативен јон, анјон) електрони во однос на бројот на протоните во јадрото",
+				"definition_example": "слободни јони"
+			}
+		]
+	},
+
+	{
+		"word": "јонизација ж.",
+		"name": "јонизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Хемиски процес со кој неутралните честички се претвораат во јони",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јонизира св. и несв.",
+		"name": "јонизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Врши јонизација",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се јонизира) Се претвора во јон",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јоносфера ж.",
+		"name": "јоносфера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Најгорниот слој на Земјината атмосфера",
+				"definition_example": "Ерупциите на Сонцето, во времето кога е тоа активно, ми објаснува во опсерваторијата, вршат промени во јоносферата, прекини на радиобрановите"
+			}
+		]
+	},
+
+	{
+		"word": "јонџа ж.",
+		"name": "јонџа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид детелина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јорган м.",
+		"name": "јорган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прошиена дебела прекривка, наполнета со памук или со волна",
+				"definition_example": "Дишеше мирно под свилениот јорган"
+			}
+		]
+	},
+
+	{
+		"word": "јорганлак м.",
+		"name": "јорганлак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лицето, горниот дел од јорганот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јорганџија м.",
+		"name": "јорганџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што изработува јоргани",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јоргован м.",
+		"name": "јоргован",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид грмушесто растение со гроздести, виолетови, розови или бели мирисливи цветови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јоргованов прид.",
+		"name": "јоргованов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е од јоргован",
+				"definition_example": "јоргованови грмушки"
+			}
+		]
+	},
+
+	{
+		"word": "Јордан име.",
+		"name": "Јордан",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Што е од јоргован",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јота ж.",
+		"name": "јота",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Назив на грчката буква Ι, ι",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Мало количество, малку",
+				"definition_example": "Ни (за) една јота - ни најмалку, ништо"
+			}
+		]
+	},
+
+	{
+		"word": "јотација ж.",
+		"name": "јотација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Фонетско-фонолошки асимилативен процес при кој непалаталните консонанти во допир со сонантот /ј/ преминуваат во палатални; сп јотување",
+				"definition_example": "јотацијата во туѓите зборови"
+			}
+		]
+	},
+
+	{
+		"word": "јотира несв.",
+		"name": "јотира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) јотува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јотува несв.",
+		"name": "јотува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Преминува од непалателен во палатален консонант под дејство на сонантот /ј/",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јотување ср.",
+		"name": "јотување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "јотација",
+				"definition_example": "Старо (прасловенско) јотување"
+			}
+		]
+	},
+
+	{
+		"word": "јубилар м.",
+		"name": "јубилар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што слави јубилеј",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јубиларен прид.",
+		"name": "јубиларен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "јубилеен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јубилеен прид.",
+		"name": "јубилеен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јубилеј",
+				"definition_example": "јубилејна средба"
+			}
+		]
+	},
+
+	{
+		"word": "јубилеј м.",
+		"name": "јубилеј",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прослава на годишнина од постоењето на некоја установа, од раѓањето, смртта или дејствувањето на некоја личност или од некој друг настан, обично на заокружен број години",
+				"definition_example": "Тоа е значаен јубилеј"
+			}
+		]
+	},
+
+	{
+		"word": "јува ж.",
+		"name": "јува",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "расолница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јувелир м.",
+		"name": "јувелир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што изработува накит од злато, од сребро и од скапоцени или полускапоцени камчиња",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Продавач на накит",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "југ м.",
+		"name": "југ",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Една од страните на светот",
+				"definition_example": "Прозорците од мојата соба гледаат на југ"
+			},
+			{
+				"definition_name": "Област што се наоѓа во тој правец",
+				"definition_example": "Земјите на југот од Европа"
+			},
+			{
+				"definition_name": "Области со блага, пријатна клима; топли краишта",
+				"definition_example": "Птиците одлетаа на југ"
+			},
+			{
+				"definition_name": "јужен ветер",
+				"definition_example": "Дувнал југот"
+			}
+		]
+	},
+
+	{
+		"word": "југа несв.",
+		"name": "југа",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За птица - испушта глас",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "плаче, кука",
+				"definition_example": "Цел ден југа, сите ќе разберат"
+			}
+		]
+	},
+
+	{
+		"word": "југавица ж.",
+		"name": "југавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид инсект што најавува топли ветрови",
+				"definition_example": "Југавиците веќе не се јавуваа откај реката"
+			},
+			{
+				"definition_name": "Вид пеперутка што во зима може да се види во куќите кога дува југо",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "југо м.",
+		"name": "југо",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јужен, топол ветер",
+				"definition_example": "Од морето дуваше силен југо"
+			}
+		]
+	},
+
+	{
+		"word": "југовина ж.",
+		"name": "југовина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Јужен, топол ветер",
+				"definition_example": "Меѓу столетните буки шумеше југовината"
+			},
+			{
+				"definition_name": "Топло време што го носат јужните ветрови",
+				"definition_example": "Се чувствуваше мирис на свежа југовина"
+			}
+		]
+	},
+
+	{
+		"word": "југовица ж.",
+		"name": "југовица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид клукајдрвец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "југозапад м.",
+		"name": "југозапад",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Страна на светот меѓу југ и запад",
+				"definition_example": "Градовите на југозапад од државата растат побрзо од градовите на југоисток"
+			}
+		]
+	},
+
+	{
+		"word": "југозападен прид.",
+		"name": "југозападен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се наоѓа на југозапад, што доаѓа од југозапад",
+				"definition_example": "Југозападна Македонија"
+			}
+		]
+	},
+
+	{
+		"word": "југоисток м.",
+		"name": "југоисток",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Страна на светот меѓу југ и исток",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "југоисточен прид.",
+		"name": "југоисточен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се наоѓа на југоисток, што доаѓа од југоисток",
+				"definition_example": "југоисточна Европа"
+			}
+		]
+	},
+
+	{
+		"word": "југоносталгичар м.",
+		"name": "југоносталгичар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што сѐ уште чезнее за поранешната СФРЈ",
+				"definition_example": "Тој заговараше формирање регионална лига поради што го нарекуваа југоносталгичар"
+			}
+		]
+	},
+
+	{
+		"word": "Југославија име.",
+		"name": "Југославија",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Име на различни политички ентитети што постоеле на Балканскиот Полуостров",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јуда ж.",
+		"name": "јуда",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "самовила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Јуда м.",
+		"name": "јуда",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "самовила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јудаизам м.",
+		"name": "јудаизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "еврејски патријарх",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јудински прид.",
+		"name": "јудински",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јуда",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јудофопство ср.",
+		"name": "јудофопство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "антисемитизам",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јужен прид.",
+		"name": "јужен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се наоѓа на југ, што доаѓа од југ",
+				"definition_example": "Големи бранови ги заплиснуваа бреговите на јужните мориња"
+			},
+			{
+				"definition_name": "За време - топол, пријатен",
+				"definition_example": "јужно време"
+			}
+		]
+	},
+
+	{
+		"word": "јужи несв.",
+		"name": "јужи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За време - се затоплува, кога дува јужен ветер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јужноамерикански прид.",
+		"name": "јужноамерикански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Јужна Америка",
+				"definition_example": "јужноамерикански држави"
+			}
+		]
+	},
+
+	{
+		"word": "јужноафрикански прид.",
+		"name": "јужноафрикански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Јужна Африка",
+				"definition_example": "Јужноафриканска Република"
+			}
+		]
+	},
+
+	{
+		"word": "јужнословенски прид.",
+		"name": "јужнословенски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Јужните Словени",
+				"definition_example": "јужнословенски јазици, јужнословенски народи"
+			}
+		]
+	},
+
+	{
+		"word": "јужњак м.",
+		"name": "јужњак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице со потекло од југ",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јужовен прид.",
+		"name": "јужовен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За време - топол, пријатен",
+				"definition_example": "јужовно време"
+			}
+		]
+	},
+
+	{
+		"word": "јузбашиев прид.",
+		"name": "јузбашиев",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на јузбашија, што му припаѓа на јузбашија",
+				"definition_example": "јузбашиев извештај"
+			}
+		]
+	},
+
+	{
+		"word": "јузбашија м.",
+		"name": "јузбашија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Капетан во османлиската војска",
+				"definition_example": "Тие го известија јузбашијата"
+			}
+		]
+	},
+
+	{
+		"word": "јука ж.",
+		"name": "јука",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Род на повеќегодишни грмушки и дрва во вид на палма што потекнуваат од топлите и суви делови на Америка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јукстапозиција ж.",
+		"name": "јукстапозиција",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Поставување на две нешта едно врз друго, или едно до друго, за споредба или контраст, или резултатот добиен со такво поставување",
+				"definition_example": "Резултат на јукстапозиција од две бои"
+			},
+			{
+				"definition_name": "Спојување на два алгебарски изрази без оператор, најчесто при множење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јули м.",
+		"name": "јули",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Седмиот месец од календарската година",
+				"definition_example": "Илинденското востание е објавено на  јули  год по стариот стил, те на  август по ново"
+			}
+		]
+	},
+
+	{
+		"word": "јулијански прид.",
+		"name": "јулијански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Јулиј Цезар, кога во  година по новата ера е воведен календар",
+				"definition_example": "јулијански календар"
+			}
+		]
+	},
+
+	{
+		"word": "јунак м.",
+		"name": "јунак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што е храбар, смел",
+				"definition_example": "Јунаците загинаа за својот народ"
+			},
+			{
+				"definition_name": "Носител на дејството, лик во литературно дело",
+				"definition_example": "главен јунак"
+			},
+			{
+				"definition_name": "млад човек",
+				"definition_example": "Меѓу жените и мажите претрчуваа млади јунаци"
+			},
+			{
+				"definition_name": "син, внук",
+				"definition_example": "Како ти се јунаците?"
+			}
+		]
+	},
+
+	{
+		"word": "јунакиња ж.",
+		"name": "јунакиња",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Главна женска фигура во литературно, театарско или филмско дело",
+				"definition_example": "Јунакињата на романот „Ана Каренина“ извршува самоубиство"
+			}
+		]
+	},
+
+	{
+		"word": "јунаков прид.",
+		"name": "јунаков",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на јунак",
+				"definition_example": "јунакова свршеница, јунакова мајка"
+			}
+		]
+	},
+
+	{
+		"word": "јуначен прид.",
+		"name": "јуначен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има особини на јунак, храбар, смел",
+				"definition_example": "јуначна мајка"
+			}
+		]
+	},
+
+	{
+		"word": "јуначи несв.",
+		"name": "јуначи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се прави јунак",
+				"definition_example": "Тој многу се јуначи и се перчи"
+			}
+		]
+	},
+
+	{
+		"word": "јуначки прид.",
+		"name": "јуначки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со јунак",
+				"definition_example": "јуначки подвиг"
+			}
+		]
+	},
+
+	{
+		"word": "јуначки прил.",
+		"name": "јуначки",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "како јунак",
+				"definition_example": "Јуначки се бореше"
+			}
+		]
+	},
+
+	{
+		"word": "јунаштво ср.",
+		"name": "јунаштво",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Особина на тој што е јунак",
+				"definition_example": "Неговото јунаштво и неговата жртва ќе останат запаметени"
+			},
+			{
+				"definition_name": "Јуначко дело",
+				"definition_example": "Тоа што го направи е вистинско јунаштво"
+			}
+		]
+	},
+
+	{
+		"word": "јунгфер ж.",
+		"name": "јунгфер",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "невина девојка",
+				"definition_example": "јунфер на  години"
+			}
+		]
+	},
+
+	{
+		"word": "јунец м.",
+		"name": "јунец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Младо машко говедо, млад бик",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јунешко ср.",
+		"name": "јунешко",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Младо машко говедо, млад бик",
+				"definition_example": "За ручек готвеше јунешко"
+			}
+		]
+	},
+
+	{
+		"word": "јуни м.",
+		"name": "јуни",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Месо од јунец",
+				"definition_example": "За ручек готвеше јунешко"
+			}
+		]
+	},
+
+	{
+		"word": "јуниор м.",
+		"name": "јуниор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Шестиот месец од календарската година",
+				"definition_example": "На деветти јуни, претпоследниот училишен ден, наставничката Трпана, на часот по македонски, ни рече да напишеме состав на слободна тема"
+			},
+			{
+				"definition_name": "Помладиот од двајца со исто име или презиме",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јуница ж.",
+		"name": "јуница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Младо женско говедо што сѐ уште не се отелило",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јункер м.",
+		"name": "јункер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Питомец во јункерско училиште (воена академија)",
+				"definition_example": "Гоце Делчев тогаш бил јункер во софиското воено училиште"
+			}
+		]
+	},
+
+	{
+		"word": "Јупитер м.",
+		"name": "Јупитер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Најголемата планета во Сончевиот Систем",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "главен римски бог",
+				"definition_example": "Храмот на Јупитер"
+			}
+		]
+	},
+
+	{
+		"word": "јури несв.",
+		"name": "јури",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Многу брзо се движи, трча, бега",
+				"definition_example": "Возот јуреше во непознат правец"
+			}
+		]
+	},
+
+	{
+		"word": "јурија ж.",
+		"name": "јурија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ледина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јурисдикција ж.",
+		"name": "јурисдикција",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Судска надлежност, право на судот да решава определени прашања",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Област на дејствување, делокруг во кој владее определена световна или црковна институција",
+				"definition_example": "Словените тогаш биле под црковна и политичка јурисдикција на Цариград"
+			}
+		]
+	},
+
+	{
+		"word": "јурист м.",
+		"name": "јурист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист по право",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Студент по право",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јуриш м.",
+		"name": "јуриш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Брз, силен напад на позициите на непријателот",
+				"definition_example": "Ги одбиваа јуришите на непријателот"
+			}
+		]
+	},
+
+	{
+		"word": "јуриша несв.",
+		"name": "јуриша",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Оди во јуриш",
+				"definition_example": "Неколку пати јуришаа кон барикадите, но без успех"
+			},
+			{
+				"definition_name": "Се стреми да постигне нешто, да освои позиција",
+				"definition_example": "Сите ќе јуришаат за првото место"
+			}
+		]
+	},
+
+	{
+		"word": "јуришник м.",
+		"name": "јуришник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што е во првите редови на борбата (вооружена, политичка)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јурне св.",
+		"name": "јурне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Почне да јури",
+				"definition_example": "Учениците јурнаа надвор"
+			},
+			{
+				"definition_name": "Тргне во јуриш, нападне",
+				"definition_example": "Војската јурна кон непријателот"
+			}
+		]
+	},
+
+	{
+		"word": "јурнува несв.",
+		"name": "јурнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(повт) загнува",
+				"definition_example": "Крвта му јурнува в глава и тогаш не мисли што прави"
+			},
+			{
+				"definition_name": "(повт) напаѓа",
+				"definition_example": "Цела група луѓе јурнува кон нив"
+			}
+		]
+	},
+
+	{
+		"word": "јуродив прид.",
+		"name": "јуродив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Тој што е истовремено свет, со пророчка моќ и ментално ретардиран од раѓање",
+				"definition_example": "Таа ја доведе и својата јуродива сестра"
+			}
+		]
+	},
+
+	{
+		"word": "јурта ж.",
+		"name": "јурта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Преносно живеалиште во конусна форма кај некои номадски азиски народи, направено од дрвен скелет и покриено со филц или со кожа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јурук м.",
+		"name": "јурук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на помошната јаничарска војска од времето на османлиската власт",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Номад, човек без постојано живеалиште",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јус м.",
+		"name": "јус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Старословенски глас со носен изговор, носовка; голем јус, мал јус",
+				"definition_example": "мешање на јусовите"
+			}
+		]
+	},
+
+	{
+		"word": "јута ж.",
+		"name": "јута",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тропско растение од фамилијата липи од кое се добиваат влакна што се употребуваат за изработка на постилки, вреќи и јажиња",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид цврсто платно што се произведува од влакна добиени од тоа растение",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "јутен прид.",
+		"name": "јутен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е направен од јута",
+				"definition_example": "Јутени вреќи"
+			}
+		]
+	},
