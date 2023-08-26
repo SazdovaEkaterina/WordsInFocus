@@ -1,11 +1,12 @@
 <template>
   <div>
     <HeaderComponent />
-    <router-view v-slot="{ Component }">
+    <!-- <router-view v-slot="{ Component }">
       <keep-alive :max="5">
         <component :is="Component" :key="$route.fullPath" />
       </keep-alive>
-    </router-view>
+    </router-view> -->
+    <LettersComponent/>
     <FooterComponent />
   </div>
 </template>
@@ -14,6 +15,7 @@
 
 import FooterComponent from "@/components/FooterComponent";
 import HeaderComponent from "@/components/HeaderComponent";
+import LettersComponent from "@/components/LettersComponent.vue"
 
 
 
@@ -22,6 +24,7 @@ export default {
   components: {
     HeaderComponent,
     FooterComponent,
+    LettersComponent,
   }
 }
 </script>
@@ -33,6 +36,12 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 20px;
+  
 }
+
+html{
+  background-color: #d2bd91;
+}
+
 </style>

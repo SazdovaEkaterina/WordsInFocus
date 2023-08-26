@@ -9,5 +9,10 @@ export default {
 </script>
 
 <style scoped>
-
+  h1{
+    font-family: monospace;
+    font-style: italic;
+    color:#89621c;
+    font-size:45px;
+  }
 </style>
