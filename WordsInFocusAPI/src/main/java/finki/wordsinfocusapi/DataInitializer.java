@@ -2,10 +2,8 @@ package finki.wordsinfocusapi;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import finki.wordsinfocusapi.model.Letter;
-import finki.wordsinfocusapi.model.Word;
 import finki.wordsinfocusapi.service.LetterService;
 import jakarta.annotation.PostConstruct;
-import jakarta.persistence.PostUpdate;
 import org.springframework.stereotype.Component;
 
 import java.io.File;
