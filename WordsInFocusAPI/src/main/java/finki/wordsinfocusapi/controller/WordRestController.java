@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin("http://localhost:8080/")
 @RequestMapping("/api/letters/{letterId}/words")
 public class WordRestController {
 
