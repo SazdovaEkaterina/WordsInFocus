@@ -2,15 +2,8 @@ package finki.wordsinfocusapi.controller;
 
 import finki.wordsinfocusapi.model.dto.LetterDto;
 import finki.wordsinfocusapi.service.LetterService;
-<<<<<<< HEAD
 import org.springframework.web.bind.annotation.*;
-=======
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
->>>>>>> e0633b34171db87b7dec65aacbb6409163fb94c5
 
 import java.util.List;
 
