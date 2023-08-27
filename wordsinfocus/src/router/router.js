@@ -6,6 +6,17 @@ const routes = [
         name: "Page Not Found",
         component: () => import("../components/PageNotFoundComponent.vue"),
     },
+    {
+      path: "/",
+      name: "Letters",
+      component: () => import("../components/LettersComponent.vue"),
+    
+    },{
+      path: "/letter/:l",
+      name: "Letter",
+      component: () => import("../components/LetterWithWordsComponent.vue"),
+    }
+
 ]
 
 const router = createRouter({

@@ -1,12 +1,12 @@
 <template>
   <div>
     <HeaderComponent />
-    <!-- <router-view v-slot="{ Component }">
+    <router-view v-slot="{ Component }">
       <keep-alive :max="5">
         <component :is="Component" :key="$route.fullPath" />
       </keep-alive>
-    </router-view> -->
-    <LettersComponent/>
+    </router-view>
+    <!-- <LettersComponent/> -->
     <FooterComponent />
   </div>
 </template>
@@ -37,6 +37,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 20px;
+  height: 96vh;
   
 }
 

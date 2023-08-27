@@ -1,11 +1,13 @@
 <template>
     <div class="container">
         <div class="row" v-for="(group, i) in groupLetters" v-bind:key="i">
-            <a class="letter" v-for="letter in letters.slice(i * itemsPerRow, (i + 1) * itemsPerRow)" :key="letter" v-bind:href="url">
-     
-                    {{ letter }}
-                
-                </a>
+                <router-link  class="letter" v-for="letter in letters.slice(i * itemsPerRow, (i + 1) * itemsPerRow)" :key="letter"
+                    :to="{
+                    name: 'Letter',
+                    params: { l: letter },
+                }">
+                    {{letter}}
+                </router-link>
         </div>
     </div>
 </template>
@@ -20,26 +22,35 @@
                 "з", "ѕ", "и", "ј", "к", "л", "љ", "м", "н",
                 "њ", "о", "п", "р", "с", "т", "ќ", "у",
                 "ф", "х", "ц","ч", "џ","ш"],
-                url: "/"
+                url: "/",
+            
             }
 
+        },
+        methods:{
+            async getLetters(){
+               const lettersApi = await fetch('http://localhost:9090/api/letters')
+               console.log(lettersApi) 
+            }
         },
         computed: {
             groupLetters () {
                 return Array.from(Array(Math.ceil(this.letters.length / this.itemsPerRow)).keys())
-        }
-  },
+            },
+        },
+        beforeMount() {
+            this.getLetters()
+        },
     }
 </script>
 
-<style>
+<style scoped>
 .continer {
-    height: 100vh;
+    height: 90vh;
     margin-bottom: 100px;
 }
 .row {
     width: 100%;
-   
 }
 .letter {
     background-color: whitesmoke;
@@ -55,7 +66,5 @@
     border-bottom: 1px solid #bb8a36;
     border-radius: 30px;
     text-decoration: none;
-
-    
 } 
 </style>
