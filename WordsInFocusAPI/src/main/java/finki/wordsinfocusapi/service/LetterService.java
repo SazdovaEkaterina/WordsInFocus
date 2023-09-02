@@ -8,6 +8,7 @@ import java.util.List;
 public interface LetterService {
 
     LetterDto findById(Long id);
+    LetterDto findByName(String name);
     List<LetterDto> findAll();
     void save(Letter letter);
 

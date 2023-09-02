@@ -36,4 +36,17 @@ public class    LetterRestController {
         return ResponseEntity.ok().body(letterDto);
     }
 
+    @GetMapping("/byName/{name}")
+    public ResponseEntity<LetterDto> getByName(
+            @PathVariable String name){
+
+        LetterDto letterDto = this.letterService.findByName(name);
+
+        if(letterDto == null){
+            return ResponseEntity.notFound().build();
+        }
+
+        return ResponseEntity.ok().body(letterDto);
+    }
+
 }

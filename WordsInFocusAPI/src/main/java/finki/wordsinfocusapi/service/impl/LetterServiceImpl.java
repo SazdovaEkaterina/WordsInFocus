@@ -41,6 +41,19 @@ public class LetterServiceImpl implements LetterService {
         return new LetterDto(letter.getId(), letter.getName());
     }
 
+    @Override
+    public LetterDto findByName(String name) {
+        Optional<Letter> letterOptional = this.letterRepository.findByName(name);
+
+        if(!letterOptional.isPresent()){
+            return null;
+        }
+
+        Letter letter = letterOptional.get();
+
+        return new LetterDto(letter.getId(), letter.getName());
+    }
+
 
     @Override
     public List<LetterDto> findAll() {
