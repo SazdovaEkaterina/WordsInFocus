@@ -2,10 +2,10 @@
     <div class="container">
         <div class="split left">
             <div class="top">
-                <h1 class="letter">{{ letter }} </h1>
+                <h1 class="letter">{{ this.letter.name }}  </h1>
             </div>
             <div class="bottom">
-                
+               
             </div>
         </div>
         <div class="split right">
@@ -16,17 +16,30 @@
 
 <script>
     export default{
-        name: "LettersComponent",
+        name: "LetterWithWordsComponent",
         data() {
             return {
-                letter: this.$route.params.l,
-                words:  "ji"
+                name: this.$route.params.l,
+                letter: null,
+                words:  []
             }
         },
         methods: {
-            async getWords(){
+            async getLetter(){
+                const lettersApi = await fetch('http://localhost:9090/api/letters/byName/'+ this.name)
+                const result = await lettersApi.json();
+                this.letter = result;
                 
-            }
+            },
+            async getWords(){
+                const lettersApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words')
+                const result = await lettersApi.json();
+                this.words = result;
+            }     
+        },
+        beforeMount(){
+            this.getLetter();
+            this.getWords();
         }
     }
 </script>
@@ -60,7 +73,7 @@
 
 .right {
     display: block;
-  background-color: #22a30b;
+  /* background-color: #22a30b; */
   float: left;
   width: 70%;
   height: 100%;
@@ -74,7 +87,7 @@
 
 .bottom{
     height: 50%;
-    background-color: pink;
+    /* background-color: pink; */
 }
 
 </style>

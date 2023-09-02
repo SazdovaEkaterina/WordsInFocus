@@ -15,6 +15,7 @@ const routes = [
       path: "/letter/:l",
       name: "Letter",
       component: () => import("../components/LetterWithWordsComponent.vue"),
+      props: true,
     }
 
 ]

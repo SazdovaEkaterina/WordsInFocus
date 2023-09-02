@@ -1,12 +1,12 @@
 <template>
     <div class="container">
         <div class="row" v-for="(group, i) in groupLetters" v-bind:key="i">
-                <router-link  class="letter" v-for="letter in letters.slice(i * itemsPerRow, (i + 1) * itemsPerRow)" :key="letter"
+                <router-link  class="letter" v-for="letter in this.letters.slice(i * itemsPerRow, (i + 1) * itemsPerRow)" :key="letter.id"
                     :to="{
                     name: 'Letter',
-                    params: { l: letter },
+                    params: { l: letter.name}
                 }">
-                    {{letter}}
+                    {{letter.name}}
                 </router-link>
         </div>
     </div>
@@ -18,10 +18,7 @@
         data() {
             return {
                 itemsPerRow: 8,
-                letters : ["а", "б", "в", "г", "д", "ѓ", "е", "ж",
-                "з", "ѕ", "и", "ј", "к", "л", "љ", "м", "н",
-                "њ", "о", "п", "р", "с", "т", "ќ", "у",
-                "ф", "х", "ц","ч", "џ","ш"],
+                letters : [],
                 url: "/",
             
             }
@@ -30,7 +27,8 @@
         methods:{
             async getLetters(){
                const lettersApi = await fetch('http://localhost:9090/api/letters')
-               console.log(lettersApi) 
+               const result = await lettersApi.json();
+               this.letters = result;
             }
         },
         computed: {
