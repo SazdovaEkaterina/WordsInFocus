@@ -13,8 +13,10 @@ public class Definition {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @Column(length = 2550)
     private String definition_name;
 
+    @Column(length = 2550)
     private String definition_example;
 
     @ManyToOne
