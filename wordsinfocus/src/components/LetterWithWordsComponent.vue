@@ -18,7 +18,7 @@
         </div>
         <div class="split right">
             <div>
-                <WordComponent  :wordId="selectedWordId" :letter="this.letter" :word="this.word"></WordComponent>
+                <WordComponent  :wordId="selectedWordId" :letter="this.letter" :word="this.word" :definitions="this.definitions"></WordComponent>
             </div>
         </div>
     </div>
@@ -36,7 +36,8 @@ import WordComponent from './WordComponent.vue';
             letter: null,
             words: [],
             selectedWordId: 0,
-            word:null
+            word:null,
+            definitions:[]
             
         };
     },
@@ -52,15 +53,21 @@ import WordComponent from './WordComponent.vue';
             this.words = result;
             this.word=result[0];
             this.selectedWordId = result[0].id;
+            const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + result[0].id +"/definitions");
+            const result2 = await definitionsApi.json();
+            this.definitions = result2;
         },
         async getSelectedWordId(event){
                 console.log(event.target.value);
                 this.selectedWordId =  event.target.value;
                 const wordApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + event.target.value);
                 const result = await wordApi.json();
-                console.log(result)
                 this.word = result;
                 console.log(this.word)
+                const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + event.target.value +"/definitions");
+                const result2 = await definitionsApi.json();
+                this.definitions = result2;
+                console.log(this.definitions)
                 // this.$forceUpdate();
             
             }

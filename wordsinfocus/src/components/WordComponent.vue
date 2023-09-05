@@ -2,6 +2,17 @@
     <div class="wordInfo" >
         <h1 class="wordName"> {{ this.word.name }}  </h1>
         <h3 class="wordType"> <i style="opacity: 70%;">Вид на збор:</i>  {{ this.word.type }} </h3>
+        <ol type="1" class="definitions">
+            <li v-for="def in this.definitions" v-bind:key="def.id">
+                <h3>{{ def.definition_name }}</h3>
+                <h4>
+                    <i style="opacity: 70%;">Пример: </i>
+                    <span v-show="def.definition_example != 'No example'">{{ def.definition_example }}</span>
+                    <span v-show="def.definition_example == 'No example'">Нема пример</span>
+                </h4>
+            </li>
+            
+        </ol>
         
     </div>
 
@@ -10,21 +21,11 @@
     export default{
         name: "WordComponent",
         props: {
-            wordId: String,
+            wordId: Number,
             letter: Object,
-            word: Object
+            word: Object,
+            definitions: Array
 
-        },
-        data() {
-            return {
-                
-            }
-        },
-        methods: {
-            
-        },
-        beforeMount(){
-             
         }
     }
 </script>
@@ -41,6 +42,15 @@
     border-bottom: 1px solid #bb8a36;
     border-radius: 30px;
 
+}
+
+.wordName{
+    color: black;
+}
+
+.definitions{
+    text-align: left;
+    margin-top: 30px;
 }
 
 </style>
