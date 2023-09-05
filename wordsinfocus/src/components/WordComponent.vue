@@ -33,7 +33,7 @@
 <style scoped>
 .wordInfo{
     width: 70%;
-    height: 650px;
+    min-height: 650px;
     margin-top: 30px;
     background-color: whitesmoke;
     padding: 40px;

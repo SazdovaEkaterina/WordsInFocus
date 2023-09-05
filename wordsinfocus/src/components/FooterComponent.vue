@@ -20,6 +20,9 @@ span{
   margin: 5px 50px;
 }
 footer {
-  margin: 30px;
+  
+  bottom:0;
+  width:100%;
+position: absolute;
 }
 </style>

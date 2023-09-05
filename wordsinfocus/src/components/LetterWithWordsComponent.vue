@@ -10,7 +10,7 @@
                </div>
                <div>
                 <select name="words" id="words" class="wordsDropdown"  @change="getSelectedWordId($event)" >
-                    <option selected disabled>Одбери збор</option>
+                    <!-- <option selected disabled>Одбери збор</option> -->
                     <option v-for="word in words" v-bind:key="word.id" v-bind:value="word.id">{{word.word}}</option>
                 </select>
                </div>

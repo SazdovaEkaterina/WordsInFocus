@@ -44,7 +44,7 @@
 
 <style scoped>
 .continer {
-    height: 90vh;
+    min-height: 90vh;
     margin-bottom: 100px;
 }
 .row {
