@@ -6,43 +6,19 @@
             </div>
             <div class="bottom">
                <div class="search">
-                <input type="text" class="searchInput"/>
+                <input type="text" class="searchInput" placeholder="Пребарај збор"/>
                </div>
                <div>
-                <select name="words" id="words" class="wordsDropdown">
-                    <option v-for="word in words" v-bind:key="word.id" value="word.id">{{word.word}}</option>
+                <select name="words" id="words" class="wordsDropdown"  @change="getSelectedWordId($event)" >
+                    <option selected disabled>Одбери збор</option>
+                    <option v-for="word in words" v-bind:key="word.id" v-bind:value="word.id">{{word.word}}</option>
                 </select>
                </div>
             </div>
         </div>
         <div class="split right">
-            <!-- <div>
-                <div class="words">
-                    <h3 v-for="p in paginatedData.slice(0,15)" v-bind:key="p.id">
-                        {{p.word}} 
-                    </h3>
-                </div>
-                <div class="words">
-                    <h3 v-for="p in paginatedData.slice(15,30)" v-bind:key="p.id">
-                        {{p.word}} 
-                    </h3>
-                </div>
-                <div class="words">
-                    <h3 v-for="p in paginatedData.slice(30,45)" v-bind:key="p.id">
-                        {{p.word}} 
-                    </h3>
-                </div>
-                    
-                
-                <button @click="prevPage" :disabled="pageNumber==0">
-                    Previous
-                </button>
-                <button @click="nextPage" :disabled="pageNumber >= pagecount -1">
-                    Next
-                </button>
-            </div> -->
             <div>
-               
+                <WordComponent  :wordId="selectedWordId" :letter="this.letter" :word="this.word"></WordComponent>
             </div>
         </div>
     </div>
@@ -50,62 +26,58 @@
 
 <script>
 
-    
+import WordComponent from './WordComponent.vue';
 
     export default{
     name: "LetterWithWordsComponent",
-    props: {
-        listData: {
-            type: Array,
-            required: true
-        },
-        size: {
-            type: Number,
-            required: false,
-            default: 30
-        }
-    },
     data() {
         return {
             name: this.$route.params.l,
             letter: null,
             words: [],
-            pageNumber: 0
+            selectedWordId: 0,
+            word:null
+            
         };
     },
     methods: {
         async getLetter() {
-            const lettersApi = await fetch('http://localhost:9090/api/letters/byName/' + this.name);
-            const result = await lettersApi.json();
+            const letterApi = await fetch('http://localhost:9090/api/letters/byName/' +this.name);
+            const result = await letterApi.json();
             this.letter = result;
         },
         async getWords() {
-            const lettersApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words');
-            const result = await lettersApi.json();
+            const wordsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words');
+            const result = await wordsApi.json();
             this.words = result;
+            this.word=result[0];
+            this.selectedWordId = result[0].id;
         },
-        nextPage() {
-            this.pageNumber++;
-        },
-        prevPage() {
-            this.pageNumber--;
-        }
+        async getSelectedWordId(event){
+                console.log(event.target.value);
+                this.selectedWordId =  event.target.value;
+                const wordApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + event.target.value);
+                const result = await wordApi.json();
+                console.log(result)
+                this.word = result;
+                console.log(this.word)
+                // this.$forceUpdate();
+            
+            }
+         
     },
-    computed: {
-        pageCount() {
-            let l = this.words.length, s = this.size;
-            return Math.ceil(l / s);
-        },
-        paginatedData() {
-            const start = this.pageNumber * this.size, end = start + this.size;
-            return this.words.slice(start, end);
-        }
+    computed:{
+       
     },
-    beforeMount() {
+    beforeMount(){
         this.getLetter();
         this.getWords();
+    },
+    components:{
+        WordComponent
     }
 }
+
 </script>
 
 <style scoped>

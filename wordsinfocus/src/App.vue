@@ -42,7 +42,8 @@ export default {
 }
 
 html{
-  background-color: #d2bd91;
+   background-color: #d2bd91; 
+
 }
 
 </style>
