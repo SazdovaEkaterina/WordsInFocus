@@ -1,0 +1,2503 @@
+{
+	"name": "џ",
+	"words":[
+	{
+		"word": "џаба прил.",
+		"name": "џаба",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "џабе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џабалак м.",
+		"name": "џабалак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "евтинија",
+				"definition_example": "Ќе си купи џабалак од странство"
+			}
+		]
+	},
+
+	{
+		"word": "џабе прил.",
+		"name": "џабе",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "бадијала, бесплатно, подарено",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "залудно, напразно",
+				"definition_example": "Џабе си го абам зборот"
+			}
+		]
+	},
+
+	{
+		"word": "џавка несв.",
+		"name": "џавка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "лае, кевка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џавкање ср.",
+		"name": "џавкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "лаење, кевкање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џавне св.",
+		"name": "џавне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "лавне, џавка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џавнува несв.",
+		"name": "џавнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џавне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џавнување ср.",
+		"name": "џавнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џавнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џаволење ср.",
+		"name": "џаволење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "дрдорење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џаволи несв.",
+		"name": "џаволи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "дрдори, муабети, пљампа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џавте прид.",
+		"name": "џавте",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Во изразот џавте корзо, џавте еден!",
+				"definition_example": "џавто една"
+			}
+		]
+	},
+
+	{
+		"word": "џагара-магара изв.",
+		"name": "џагара-магара",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "За означување и подражавање џагор, врева од гласови на многу луѓе кои говорат сите во исто време",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џагор м.",
+		"name": "џагор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Врева од гласови",
+				"definition_example": "детски џагор"
+			}
+		]
+	},
+
+	{
+		"word": "џагорење ср.",
+		"name": "џагорење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џагор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џагори несв.",
+		"name": "џагори",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "вреви",
+				"definition_example": "Луѓето џагореа во дворот"
+			}
+		]
+	},
+
+	{
+		"word": "џагуре ср.",
+		"name": "џагуре",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дете на рана возраст",
+				"definition_example": "деветгодишно џагуре"
+			}
+		]
+	},
+
+	{
+		"word": "џаде ср.",
+		"name": "џаде",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пат, друм",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џадија ж.",
+		"name": "џадија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Злобна, лоша жена",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џака несв.",
+		"name": "џака",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "вреви, вика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џакање ср.",
+		"name": "џакање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "вревење, викање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џам м.",
+		"name": "џам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "стакло",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "окно, прозорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамадан м.",
+		"name": "џамадан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид елек, извезен со сребро и свила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамаданче ср.",
+		"name": "џамаданче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џамадан",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамбаз м.",
+		"name": "џамбаз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "трговец со коњи",
+				"definition_example": "Ако сака да ја продава ќерка си, нека јa извади на атпазар: кој џамбаз ќе даде повеќе, на тој нека му ја даде"
+			}
+		]
+	},
+
+	{
+		"word": "џамбоџет м.",
+		"name": "џамбоџет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Голем патнички авион",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Извонредна, многу посакувана девојка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамија ж.",
+		"name": "џамија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "муслимански храм",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамлак м.",
+		"name": "џамлак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "витрина, излог",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Стаклена врата или преграда",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Стаклени посатки во домот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Леи покриени со стакло",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамлија прид.",
+		"name": "џамлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Стаклен, од џам",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(како именка)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамлија ж.",
+		"name": "џамлија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Скокалче, бајче, мало стаклено топче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамфес м.",
+		"name": "џамфес",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "вид на свилена ткаенина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамџија м.",
+		"name": "џамџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Занаетчија кој работи со рамно стакло",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џамџиски прид.",
+		"name": "џамџиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на џамџија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џан м.",
+		"name": "џамџиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на џамџија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џанам чест.",
+		"name": "џанам",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "(на турски „душо, душице“) За поттикнување при обраќање",
+				"definition_example": "Ајде џанам, не грижи се, сѐ ќе биде арно"
+			}
+		]
+	},
+
+	{
+		"word": "џангарак м.",
+		"name": "џангарак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѕвонец, ѕвонче, прапорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џандар м.",
+		"name": "џангарак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѕвонец, ѕвонче, прапорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џандарски прид.",
+		"name": "џангарак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѕвонец, ѕвонче, прапорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џандрлив прид.",
+		"name": "џандрлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кавгаџиски, зајадлив, склон кон кавга",
+				"definition_example": "Џандрлива жена"
+			}
+		]
+	},
+
+	{
+		"word": "џандрливост ж.",
+		"name": "џандрлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кавгаџиски, зајадлив, склон кон кавга",
+				"definition_example": "Џандрлива жена"
+			}
+		]
+	},
+
+	{
+		"word": "џанка ж.",
+		"name": "џандрлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кавгаџиски, зајадлив, склон кон кавга",
+				"definition_example": "Џандрлива жена"
+			}
+		]
+	},
+
+	{
+		"word": "џанкер м.",
+		"name": "џандар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жандарм",
+				"definition_example": "Некои шарени жени само вртат со опашките и се укаат со џандарите"
+			}
+		]
+	},
+
+	{
+		"word": "џан-џин прил.",
+		"name": "џан-џин",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "наркоман, зависник",
+				"definition_example": "Фејсбук-џанкер"
+			}
+		]
+	},
+
+	{
+		"word": "џарење ср.",
+		"name": "џарење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пулење, зјапање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џари несв.",
+		"name": "џарење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пулење, зјапање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џафте прид.",
+		"name": "џари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "се пули",
+				"definition_example": "Се џареше во него"
+			}
+		]
+	},
+
+	{
+		"word": "џбара несв.",
+		"name": "џбара",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пипа, бара пипајќи",
+				"definition_example": "Џбара по темница"
+			}
+		]
+	},
+
+	{
+		"word": "џбарање ср.",
+		"name": "џбарање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пипање, барање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбарне св.",
+		"name": "џбарне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "џбара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбитав прид.",
+		"name": "џбитав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е крупен, јадар, набиен",
+				"definition_example": "Соседот беше дебело, џбитаво мажиште со кратки нозе"
+			}
+		]
+	},
+
+	{
+		"word": "џбитак м.",
+		"name": "џбитак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Крупен, набиен, јадар човек",
+				"definition_example": "Ама го гледаш колкав џбитак е"
+			}
+		]
+	},
+
+	{
+		"word": "џбун м.",
+		"name": "џбун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "грмушка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбунест прид.",
+		"name": "џбунест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во форма на џбун",
+				"definition_example": "џбунесто стебло"
+			}
+		]
+	},
+
+	{
+		"word": "џбура несв.",
+		"name": "џбура",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "бара, претура",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "става, затура, заметнува",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се џбура) Влезе во вода, се брцне во вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбурање ср.",
+		"name": "џбурање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џбура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбурка несв.",
+		"name": "џбурка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) џбура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбурне св.",
+		"name": "џбурне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Вовлече, брцне рака во нешто",
+				"definition_example": "Џбурна во торбата и извади една главица лук"
+			},
+			{
+				"definition_name": "стави, заметне, затури, зафрли",
+				"definition_example": "Многу сол си му џбурнала во јадењето"
+			},
+			{
+				"definition_name": "(се џбурна)  Влезе (скокне), се брцне во вода",
+				"definition_example": "Се џбурна во вода (се брцна во вода)"
+			}
+		]
+	},
+
+	{
+		"word": "џбурнува несв.",
+		"name": "џбурнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) џбурне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џбурнување ср.",
+		"name": "џбурнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џбурнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвака несв.",
+		"name": "џвака",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Меле, дроби на храна или друго со забите, в уста",
+				"definition_example": "Џвака леб"
+			},
+			{
+				"definition_name": "дрдори, пљампа, баботи, брбори, бамбори",
+				"definition_example": "Не туку џвакај"
+			}
+		]
+	},
+
+	{
+		"word": "џвакање ср.",
+		"name": "џвакање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "жвакање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрдорење, пљампање, баботење, брборење, бамборење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвакне св.",
+		"name": "џвакне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "џвака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвакнува несв.",
+		"name": "џвакнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џвакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвало ср.",
+		"name": "џвало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Уста на ѕвер",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "осило, боцка, убод",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џврка несв.",
+		"name": "џврка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Исфрла течност во млазеви",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрска",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркало ср.",
+		"name": "џвркало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Детска играчка што џврка, прска вода; шприцалка, шприцалка за играње",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркање ср.",
+		"name": "џвркање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "прскање, штрцање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрскање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркло м.",
+		"name": "џвркло",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "серко",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркне св.",
+		"name": "џвркне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Исфрли силно вода или некаква течност, обично во млазови",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрсне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркнува несв.",
+		"name": "џвркнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џвркне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џвркнување ср.",
+		"name": "џвркнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џвркнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џган м.",
+		"name": "џган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "лошо друштво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џграпа несв.",
+		"name": "џграпа",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Гази несмасно, тропоти со чевлите, гребе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џгура несв.",
+		"name": "џгура",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Оди без пат, не гледајќи каде и како, скита, се влече",
+				"definition_example": "Џгура по темницата"
+			}
+		]
+	},
+
+	{
+		"word": "џгура ж.",
+		"name": "џгура",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "згура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џгурање ср.",
+		"name": "џгурање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "скитање, глуварење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џеб м.",
+		"name": "џеб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "дел од облека",
+				"definition_example": "Кладе (стави) нешто в џеб (во џебот)"
+			}
+		]
+	},
+
+	{
+		"word": "џебен прид.",
+		"name": "џебен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За в џеб, со димензии за в џеб",
+				"definition_example": "џебен часовник"
+			}
+		]
+	},
+
+	{
+		"word": "џева ж.",
+		"name": "џева",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "врева",
+				"definition_example": "Прави џева"
+			}
+		]
+	},
+
+	{
+		"word": "џеваир м.",
+		"name": "џеваир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Бесценет камен; нешто од сребро, злато и бесценети камења",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џевап м.",
+		"name": "џевап",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "одвет, одговор",
+				"definition_example": "Даде џевап"
+			}
+		]
+	},
+
+	{
+		"word": "џевердан м.",
+		"name": "џевердан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид пушка украсена со седеф и скапоцени камења",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џез м.",
+		"name": "џез",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид музика од афроамериканско потекло",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Оркестар за изведување на џез-музика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џеза ж.",
+		"name": "џеза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "глоба, парична казна",
+				"definition_example": "Нема џеза за плаќање"
+			}
+		]
+	},
+
+	{
+		"word": "џезве ср.",
+		"name": "џезве",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Сад за варење кафе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џезист м.",
+		"name": "џезист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музичар којшто изведува џез музика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џез-музика ж.",
+		"name": "џез-музика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џез",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џезов прид.",
+		"name": "џезов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на џез",
+				"definition_example": "џезов оркестар"
+			}
+		]
+	},
+
+	{
+		"word": "џекпот м.",
+		"name": "џекпот",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Голема премија во игри на среќа",
+				"definition_example": "џекпот во лото"
+			}
+		]
+	},
+
+	{
+		"word": "џелат м.",
+		"name": "џелат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Извршител на смртни пресуди",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "крвник, мачител",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џелатов прид.",
+		"name": "џелатов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на џелат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џелатски прид.",
+		"name": "џелатски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на џелат",
+				"definition_example": "Џелатска работа"
+			}
+		]
+	},
+
+	{
+		"word": "џелатство ср.",
+		"name": "џелатство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Бавење со работа на џелат",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "свирепост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џелеп м.",
+		"name": "џелеп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Трговец кој купува, гои и препродава добиток на јадро",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џелепски прид.",
+		"name": "џелепски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на џелеп",
+				"definition_example": "(нар поез) чедо џелепско"
+			}
+		]
+	},
+
+	{
+		"word": "џем м.",
+		"name": "џем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Пелте или желе од варено зашеќерено овошје, пекмез",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џембос м.",
+		"name": "џембос",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во изразот: џембос да (нека) фати! - оди по ѓаволите!",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џембосува несв.",
+		"name": "џембосува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) џембоса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џембосување ср.",
+		"name": "џембосување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џембосува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џемпер м.",
+		"name": "џемпер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Плетена блуза од волна или памук",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џенабет м.",
+		"name": "џенабет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Несреќен, колнат, проклет човек",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "неранимајко, никаквец",
+				"definition_example": "Секакви џенабети има по патиштата"
+			}
+		]
+	},
+
+	{
+		"word": "џенарика ж.",
+		"name": "џенарика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид слива",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џенем м.",
+		"name": "џенем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(само едн) пекол",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "многу далечно, пусто место",
+				"definition_example": "Силници од џенеми дојдени го преземале градот"
+			}
+		]
+	},
+
+	{
+		"word": "џенк м.",
+		"name": "џенк",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "бој, битка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џентлемен м.",
+		"name": "џентлемен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "џентлмен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џентлеменски прил.",
+		"name": "џентлеменски",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "џентлменски",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џентлеменство ср.",
+		"name": "џентлеменство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џентлменство",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џентлмен м.",
+		"name": "џентлмен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек со чест, карактер и пристојност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џентлменски прид.",
+		"name": "џентлменски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на џентлмен, што е како џентлмен",
+				"definition_example": "џентлменски однос"
+			}
+		]
+	},
+
+	{
+		"word": "џентлменство ср.",
+		"name": "џентлменство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Пројава и својство на џентлмен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џепане ср.",
+		"name": "џепане",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "муниција",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џепарлак м.",
+		"name": "џепарлак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Пари наменети за ситни потреби",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џепче ср.",
+		"name": "џепче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џеб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џепчија м.",
+		"name": "џепчија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Крадец што краде од џебови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џереме ср.",
+		"name": "џереме",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "глоба, џеза",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "непрокопсаник",
+				"definition_example": "Тоа џереме не знае ништо друго да работи"
+			}
+		]
+	},
+
+	{
+		"word": "џет м.",
+		"name": "џет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Авион на млазен погон",
+				"definition_example": "џамбоџет"
+			}
+		]
+	},
+
+	{
+		"word": "џефа ж.",
+		"name": "џефа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џева",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џибра ж.",
+		"name": "џибра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "комина, комиње",
+				"definition_example": "Џибрата ја извади, остана само виното"
+			}
+		]
+	},
+
+	{
+		"word": "Џибути име.",
+		"name": "Џибути",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "африканска држава",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џивка несв.",
+		"name": "џивка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(за врапче) чрчори",
+				"definition_example": "Врапчињата џивкаат"
+			}
+		]
+	},
+
+	{
+		"word": "џивкање ср.",
+		"name": "џивкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "чрчорење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џивџан м.",
+		"name": "џивџан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "врабец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џив-џив изв.",
+		"name": "џив-џив",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Имитирање глас на врапче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џигер м.",
+		"name": "џигер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "дроб",
+				"definition_example": "црн џигер"
+			}
+		]
+	},
+
+	{
+		"word": "џигерче ср.",
+		"name": "џигерче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Mал џигер",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(обично во мн) Џигерчиња (како јадење)",
+				"definition_example": "Парчиња пржен или печен џигер"
+			}
+		]
+	},
+
+	{
+		"word": "џида ж.",
+		"name": "џида",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Копје, дршка од бајрак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џидне св.",
+		"name": "џидне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "(се) фрли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиднување ср.",
+		"name": "џиднување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џиднува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џилит м.",
+		"name": "џилит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Копје без железен шилец, за посебна игра на коњаници",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиљве ср.",
+		"name": "џиљве",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "кокетерија, претргнување, перчење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиљвелија прид.",
+		"name": "џиљвелија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кокетен, кокетлив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џимберица ж.",
+		"name": "џимберица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Назив за ластовица",
+				"definition_example": "Ластоице - џимберице"
+			}
+		]
+	},
+
+	{
+		"word": "џимиринка ж.",
+		"name": "џимиринка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Месниот дел што останува при топење на сланина",
+				"definition_example": "Добар е и вака да се јаде, со џимиринки, со сирење, или со кисело млеко, но многу е посладок ако пред тоа се потпече, во тепсија, заедно со џимиринките, или со сирењето"
+			}
+		]
+	},
+
+	{
+		"word": "џимрив прид.",
+		"name": "џимрив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што многу пребира во јадењето",
+				"definition_example": "џимриво дете"
+			}
+		]
+	},
+
+	{
+		"word": "џимрија прид.",
+		"name": "џимрија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Оној што е пребирлив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џин м.",
+		"name": "џин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Див, колос, со огромен раст",
+				"definition_example": "Џинот кога одел толку бил висок што морал со сабјата да ги сече за да помине"
+			},
+			{
+				"definition_name": "Ракија од разно семе и др",
+				"definition_example": "„Ајде патем да испиеме по еден џин“"
+			}
+		]
+	},
+
+	{
+		"word": "џинка ж.",
+		"name": "џинка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид ситна домашна кокошка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Назив за мал, сите човек, човече, кепец, џуџе",
+				"definition_example": "Отсекогаш ме фасцинираше физичката и душевната разнообразност на пријателите на татко ми: флегматични дебелковци и борбени џинки"
+			},
+			{
+				"definition_name": "Вид мала лута пиперка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиновски прид.",
+		"name": "џиновски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Многу голем, огромен, што има атрибути на џин",
+				"definition_example": "Џиновска работа"
+			}
+		]
+	},
+
+	{
+		"word": "џинороз м.",
+		"name": "џинороз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид ситен домашен петел",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Назив за ситен човек, човече, кепец, џуџе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џинс м.",
+		"name": "џинс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "род, сој, колено, вид",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Тексас платно и облека, фармерки од такво платно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џинче ср.",
+		"name": "џинче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џинџефил м.",
+		"name": "џинџефил",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓумбир",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џип м.",
+		"name": "џип",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесен теренски автомобил",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џипче ср.",
+		"name": "џипче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "џип",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џитка несв.",
+		"name": "џитка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се фрла на (врз) некого; налетува, трча, јури",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиткање ср.",
+		"name": "џиткање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џитка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џитнува несв.",
+		"name": "џитнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) џитне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џитнување ср.",
+		"name": "џитнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џитнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиу-џицу ср.",
+		"name": "џиу-џицу",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Јапонска вештина на самоодбрана",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џихад м.",
+		"name": "џихад",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Света војна во исламот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиџан прид.",
+		"name": "џиџан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(во детскиот јазик) убаво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиџе ср.",
+		"name": "џиџе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Убава работа, убава детска играчка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиџимиџарница ж.",
+		"name": "џиџимиџарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "продавница за дреболии",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џиџи-миџи само мн.",
+		"name": "џиџи-миџи",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Ситни предмети, дреболии, евтин накит и сл",
+				"definition_example": "Минуваа крај тезгињата со џиџи-миџи"
+			}
+		]
+	},
+
+	{
+		"word": "џиш прид.",
+		"name": "џиш",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За боја - што е многу интензивна, јака",
+				"definition_example": "Имаше џиш крмин на усните"
+			}
+		]
+	},
+
+	{
+		"word": "џишне св.",
+		"name": "џишне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "изгори, подгори",
+				"definition_example": "Си ги џишна прстите на шпоретот"
+			},
+			{
+				"definition_name": "запече",
+				"definition_example": "Нешто ја џишна во градите"
+			}
+		]
+	},
+
+	{
+		"word": "џогер м.",
+		"name": "џогер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што џогира",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Крпа за бришење под",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џогинг м.",
+		"name": "џогинг",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Трчање во бавен ритам како физичка рекреација",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џогира несв.",
+		"name": "џогира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Спортска рекреација во вид на бавно трачање",
+				"definition_example": "Престана да џогира"
+			}
+		]
+	},
+
+	{
+		"word": "џоинт м.",
+		"name": "џоинт",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Цигара со дрога (марихуана, хашиш)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џока ж.",
+		"name": "џока",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид куса машка и женска облека, еден вид тесен елек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џока несв.",
+		"name": "џока",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "пие, лока",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џокање ср.",
+		"name": "џокање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пиење, локање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џокеј м.",
+		"name": "џокеј",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Професионален јавач на трки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џокер м.",
+		"name": "џокер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во некои игри со карти, со слика на шут",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џоница ж.",
+		"name": "џоница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ѕуница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џонка ж.",
+		"name": "џонка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид кинески кораб со платнени едра",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џотка несв.",
+		"name": "џотка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "става, вовлекува",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се џотка) се вовлекува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џотне св.",
+		"name": "џотне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "става, метна, вовлекува, упикува",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се џотне) се вовлекува, се упикува, се шупка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џотнува несв.",
+		"name": "џотнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) џотне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џрџа несв.",
+		"name": "џрџа",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Обилно тече, обилно извира, грга, блика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џрџање ср.",
+		"name": "џрџање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "гргање, силно извирање, течење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џрџне св.",
+		"name": "џрџне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "гргне, истече",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џрџнува несв.",
+		"name": "џрџнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "џрџне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џубе ср.",
+		"name": "џубе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Долга машка облека без ракави",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џубокс м.",
+		"name": "џубокс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Автомат што по уфрлување паричка свири музика",
+				"definition_example": "Повеќето барови и ноќни клубови користеа џубокс"
+			}
+		]
+	},
+
+	{
+		"word": "џуван м.",
+		"name": "џуван",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "џевап",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џудист м.",
+		"name": "џудист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Спортист кој се бави со џудо",
+				"definition_example": "Нашите џудисти се пласираа во финалето"
+			}
+		]
+	},
+
+	{
+		"word": "џудо ср.",
+		"name": "џудо",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Јапонска боречка вештина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џуздан м.",
+		"name": "џуздан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "чанта, портмоне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џукела ж.",
+		"name": "џукела",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "улично куче",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "одвратно лице",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џул м.",
+		"name": "џул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Единица мерка за енергија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џумбуш м.",
+		"name": "џумбуш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "веселба",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "мешаница, бркотија",
+				"definition_example": "Прави џумбуш"
+			}
+		]
+	},
+
+	{
+		"word": "џумбушлија прид.",
+		"name": "џумбушлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "весел, шеговит",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џумка ж.",
+		"name": "џумка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Оток на коска, обично на главата како последица од удар",
+				"definition_example": "Главата му беше само џумки"
+			}
+		]
+	},
+
+	{
+		"word": "џумкалест прид.",
+		"name": "џумкалест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "со џумки, џумкав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џумле прид.",
+		"name": "џумле",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "сите заедно",
+				"definition_example": "И си отидоа сите џумле"
+			}
+		]
+	},
+
+	{
+		"word": "џунгла ж.",
+		"name": "џунгла",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Густа непроодна шума во тропските и суптропските области",
+				"definition_example": "Го најдоа заспан на работ на една џунгла"
+			}
+		]
+	},
+
+	{
+		"word": "џунка ж.",
+		"name": "џунка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "џонка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џунџуле ср.",
+		"name": "џунџуле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Едногодишно растение со привлечна миризба со ливчиња во форма на пердув и цветови во боја жолта како лимон, златножолта и портокалова",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џурка несв.",
+		"name": "џурка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Жури со коприва",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се џурка) Се жури со коприва",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џуркање ср.",
+		"name": "џуркање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Жарење со (од) коприва",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џурлив прид.",
+		"name": "џурлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кој жари, жарчив",
+				"definition_example": "џурлива коприва"
+			}
+		]
+	},
+
+	{
+		"word": "џурне св.",
+		"name": "џурне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "ожари",
+				"definition_example": "Ме џурна со копривата"
+			},
+			{
+				"definition_name": "(се џурне) се ожари",
+				"definition_example": "Се џурна од копривата"
+			}
+		]
+	},
+
+	{
+		"word": "џурнување ср.",
+		"name": "џурнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) џурнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "џус м.",
+		"name": "џус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "сок",
+				"definition_example": "природен џус"
+			}
+		]
+	},
+
+	{
+		"word": "џуџе ср.",
+		"name": "џуџе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "кепец, човече",
+				"definition_example": "Снежана и седумте џуџиња"
+			}
+		]
+	}
+]}	

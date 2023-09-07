@@ -1,4 +1,6 @@
-[
+{
+	"name": "з",
+	"words":[
 	{
 		"word": "за сврз.",
 		"name": "за",
@@ -35757,4 +35759,5 @@
 				"definition_example": "No example"
 			}
 		]
-	},
+	}
+]}	

@@ -1,4 +1,6 @@
-[
+{
+	"name": "ж",
+	"words":[
 	{
 		"word": "жаба ж.",
 		"name": "жаба",
@@ -5609,4 +5611,5 @@
 				"definition_example": "No example"
 			}
 		]
-	},
+	}
+]}

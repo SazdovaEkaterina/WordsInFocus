@@ -1,4 +1,6 @@
-[
+{
+	"name": "м",
+	"words":[
 	{
 		"word": "ма изв.",
 		"name": "ма",
@@ -15281,7 +15283,7 @@
 				"definition_example": "No example"
 			},
 			{
-				"definition_name": "Инсекти што ги напаѓаат овошките правејќи „мини" на листовите",
+				"definition_name": "Инсекти што ги напаѓаат овошките правејќи „мини\" на листовите",
 				"definition_example": "Џуџест лисен минер - (Neptiсulа malella)"
 			}
 		]
@@ -27693,4 +27695,5 @@
 				"definition_example": "No example"
 			}
 		]
-	},
+	}
+]}	

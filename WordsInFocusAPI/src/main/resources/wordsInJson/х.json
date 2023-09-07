@@ -1,0 +1,7155 @@
+{
+	"name": "x",
+	"words":[
+	{
+		"word": "ха преф.",
+		"name": "ха",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Почетен слог во многу зборови од турско, персиско и арапско потекло: хабер, хаби, хава, хазно, хаир и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ха изв.",
+		"name": "ха",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "За изразување на изненадување",
+				"definition_example": "Ха! зарем може и тоа да се случи"
+			},
+			{
+				"definition_name": "За изразување на задоволство, незадоволство и сл",
+				"definition_example": "Ха! ќе ми паднеш ти мене в раце"
+			},
+			{
+				"definition_name": "Повторено се употребува за означување на силна смеа, кикот",
+				"definition_example": "Ха, ха, ха! продолжи да се смее стариот професор"
+			}
+		]
+	},
+
+	{
+		"word": "ха чест.",
+		"name": "ха",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "За потсилување при потцртување на одобрување, задоволство, несогласност и слични чувства",
+				"definition_example": "Ха, арно велиш, брате"
+			}
+		]
+	},
+
+	{
+		"word": "хабанера ж.",
+		"name": "хабанера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид шпанско-кубански танц",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хабилитација ж.",
+		"name": "хабилитација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хабилитирање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Научен труд со кој може некој да стане универзитетски наставник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хабилитационен прид.",
+		"name": "хабилитационен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува ха хабилитација, кој е предназначен за хабилитација",
+				"definition_example": "хабилитациона работа"
+			}
+		]
+	},
+
+	{
+		"word": "хабилитациски прид.",
+		"name": "хабилитациски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на хабилитација",
+				"definition_example": "хабилитациски труд"
+			}
+		]
+	},
+
+	{
+		"word": "хабилитира св. и несв.",
+		"name": "хабилитира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Добива право на универзитетски предавач врз основа на хабилитација",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хабилитирање ср.",
+		"name": "хабилитирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) хабилитира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хабитат м.",
+		"name": "хабитат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Севкупност на животниот простор на едно битие или заедница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хабитус м.",
+		"name": "хабитус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Целокупен надворешен впечаток (изглед и држење) што го остава една индивидуа",
+				"definition_example": "морален хабитус"
+			},
+			{
+				"definition_name": "Специфичности во изгледот на еден пациент врз основа на кои може да се постави дијагноза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хабсбурговци само мн.",
+		"name": "Хабсбурговци",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Династија на владетели коишто владееле со Хабсбуршката Монархија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хаваи име.",
+		"name": "Хаваи",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Архипелаг и сојузна држава на САД",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаварија ж.",
+		"name": "хаварија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Оштетување, дефект на брод, авион, вагон и сл",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во поморското право - штета и вонредни расходи причинети со хаварија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "бродолом",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хавариса св. и несв.",
+		"name": "хавариса",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "предизвика хаварија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хаг име.",
+		"name": "Хаг",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Хаг е административната престолнина на Холандија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хагиограф м.",
+		"name": "хагиограф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што пишува хагиографии",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хагиографија ж.",
+		"name": "хагиографија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "животопис на светец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хагиографски прид.",
+		"name": "хагиографски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хагиографија",
+				"definition_example": "Хагиографска книжевност"
+			}
+		]
+	},
+
+	{
+		"word": "хаерлија ж.",
+		"name": "хаерлија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стари турски пари",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазард м.",
+		"name": "хазард",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хазардна игра, комар, коцка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазарден прид.",
+		"name": "хазарден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хазард",
+				"definition_example": "Хазардна игра"
+			}
+		]
+	},
+
+	{
+		"word": "хазардер м.",
+		"name": "хазардер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Играч на среќа, лице што става се на коцка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазардира св. и несв.",
+		"name": "хазардира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Става се на среќа, на коцка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се хазардира) Се коцка на големи суми",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазардирање ср.",
+		"name": "хазардирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "коцкање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазардно прил.",
+		"name": "хазардно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "рискантно, ризично",
+				"definition_example": "Играше хазардно"
+			}
+		]
+	},
+
+	{
+		"word": "хазена ж.",
+		"name": "хазена",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Женска игра со топка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хазмофит м.",
+		"name": "хазмофит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн) Растенија со јаки корења што живеат врз варовни карпи, меѓу карпести пукнатини и камења",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хајка ж.",
+		"name": "хајка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Гонење на дивеч заради лов",
+				"definition_example": "Беше организирана хајка на диви свињи"
+			},
+			{
+				"definition_name": "Организирано гонење на луѓе",
+				"definition_example": "Хајка на вештици"
+			}
+		]
+	},
+
+	{
+		"word": "хајкач м.",
+		"name": "хајка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Гонење на дивеч заради лов",
+				"definition_example": "Беше организирана хајка на диви свињи"
+			},
+			{
+				"definition_name": "Организирано гонење на луѓе",
+				"definition_example": "Хајка на вештици"
+			}
+		]
+	},
+
+	{
+		"word": "хајкаџија м.",
+		"name": "хајкаџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "хајкач",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хакер м.",
+		"name": "хакер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Компјутерски корисник што недозволено влегува во туѓи системи и уништува или краде информации",
+				"definition_example": "поранешен австралиски хакер"
+			}
+		]
+	},
+
+	{
+		"word": "хакерски прид.",
+		"name": "хакер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Компјутерски корисник што недозволено влегува во туѓи системи и уништува или краде информации",
+				"definition_example": "поранешен австралиски хакер"
+			}
+		]
+	},
+
+	{
+		"word": "хала ж.",
+		"name": "хакерски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на хакер",
+				"definition_example": "хакерски упад"
+			}
+		]
+	},
+
+	{
+		"word": "халиф м.",
+		"name": "хакерски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на хакер",
+				"definition_example": "хакерски упад"
+			}
+		]
+	},
+
+	{
+		"word": "халоген прид.",
+		"name": "хала",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сала во фабрика, голема трговска куќа и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "халогенка ж.",
+		"name": "халоген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Хемиски елемент којшто со други метали ствара соли без присуство на кислород",
+				"definition_example": "халогени елементи"
+			}
+		]
+	},
+
+	{
+		"word": "халуцинација ж.",
+		"name": "халоген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Сала во фабрика, голема трговска куќа и сл",
+				"definition_example": "халогени елементи"
+			}
+		]
+	},
+
+	{
+		"word": "халуцинира несв.",
+		"name": "халоген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Сала во фабрика, голема трговска куќа и сл",
+				"definition_example": "халогени елементи"
+			}
+		]
+	},
+
+	{
+		"word": "халуцинирање ср.",
+		"name": "халуцинација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Привидение или појава на измамување на некое сетило поради нервна болест",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "халуциноген прид.",
+		"name": "халуцинира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Има, преживува халуцинации",
+				"definition_example": "Лекарот ме праша дали халуцинирам?"
+			}
+		]
+	},
+
+	{
+		"word": "халф м.",
+		"name": "халуциноген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што предизвикува халуцинации",
+				"definition_example": "халуциногена дрога"
+			}
+		]
+	},
+
+	{
+		"word": "халф-линија ж.",
+		"name": "халуциноген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Има, преживува халуцинации",
+				"definition_example": "Лекарот ме праша дали халуцинирам?"
+			}
+		]
+	},
+
+	{
+		"word": "хамбург м.",
+		"name": "халф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Помагач, играч во фудбалска, ракометна екипа што има за задача и да брани и да напаѓа",
+				"definition_example": "Халф-линија, помошен ред"
+			}
+		]
+	},
+
+	{
+		"word": "Хамбург име.",
+		"name": "Хамбург",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Вид на винова лоза и грозје",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хамбургер м.",
+		"name": "хамбургер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид сплескано ќофте од мелено месо",
+				"definition_example": "Хамбургер со кечап"
+			}
+		]
+	},
+
+	{
+		"word": "хамелеон м.",
+		"name": "хамбургер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид сплескано ќофте од мелено месо",
+				"definition_example": "Хамбургер со кечап"
+			}
+		]
+	},
+
+	{
+		"word": "хамстер м.",
+		"name": "хамстер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Животно од фамилијата на глувци со дебели обравчиња каде што ја чува храната",
+				"definition_example": "Најчести животни во резерватот се дива свиња, дива мачка, волк, обичен шакал, црвена лисица, јазовец, срна и сив хамстер"
+			}
+		]
+	},
+
+	{
+		"word": "хангар м.",
+		"name": "хамстер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Животно од фамилијата на глувци со дебели обравчиња каде што ја чува храната",
+				"definition_example": "Најчести животни во резерватот се дива свиња, дива мачка, волк, обичен шакал, црвена лисица, јазовец, срна и сив хамстер"
+			}
+		]
+	},
+
+	{
+		"word": "Ханука ж.",
+		"name": "Ханука",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Празник на светлината, што се одбележува со палење светилки и се одбележува на -от ден од еврејскиот месец Кислев (ноември-декември)",
+				"definition_example": "светилка за Ханука"
+			}
+		]
+	},
+
+	{
+		"word": "хаос м.",
+		"name": "хангар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Постројка за сместување авиони и други апарати за летање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаотичен прид.",
+		"name": "хаотичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Без ред, лишен од системност",
+				"definition_example": "хаотична состојба"
+			}
+		]
+	},
+
+	{
+		"word": "хаотично прил.",
+		"name": "хаотично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хаотичен",
+				"definition_example": "Ми идеа хаотично разни мисли"
+			}
+		]
+	},
+
+	{
+		"word": "хаотичност ж.",
+		"name": "хаотичност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хаотичен",
+				"definition_example": "Хаотичност во зборувањето"
+			}
+		]
+	},
+
+	{
+		"word": "хара несв.",
+		"name": "хара",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "опустошува, уништува, разорува",
+				"definition_example": "Тајфи дрвокрадци хараат низ Македонија и никому ништо"
+			}
+		]
+	},
+
+	{
+		"word": "харакири ср.",
+		"name": "харакири",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Особен начин на самоубиство кај Јапонците со распорување на мевот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "характер м.",
+		"name": "характер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "карактер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харанга ж.",
+		"name": "харанга",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "подбуцнувачки говор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харангер м.",
+		"name": "харангер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Говорник што харангира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харангира несв.",
+		"name": "харангира",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Подбуцнува, дразни маса против некого",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хардвер м.",
+		"name": "хардвер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Физичкиот дел на еден компјутер",
+				"definition_example": "Матичната плоча, процесорот и меморијата се делови од хардверот"
+			}
+		]
+	},
+
+	{
+		"word": "хард-диск м.",
+		"name": "хард-диск",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дел од компјутерскиот систем, магнетен уред за складирање, трајно чување на програмите и податоците во компјутерот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харем м.",
+		"name": "харем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Женските одделенија на муслиманска куќа",
+				"definition_example": "И го внесоа во царскиот харем"
+			},
+			{
+				"definition_name": "Сите жени и наложници на еден маж - во земји каде што е дозволено многуженството",
+				"definition_example": "Секоја година харемот се зголемуваше"
+			}
+		]
+	},
+
+	{
+		"word": "харемлак м.",
+		"name": "харемлак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дел од муслиманска куќа определен за жени",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харемски прид.",
+		"name": "харемски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на харем",
+				"definition_example": "Харемска жена"
+			}
+		]
+	},
+
+	{
+		"word": "харзувал м.",
+		"name": "харзувал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "писмена молба, претставка, поднесок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харизма ж.",
+		"name": "харизма",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Голем шарм, привлечност",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Способност да се влее чувство на доверба кај другите",
+				"definition_example": "Малку претседатели ја имале харизмата на сегашниот"
+			}
+		]
+	},
+
+	{
+		"word": "харизматичен прид.",
+		"name": "харизматичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има харизма",
+				"definition_example": "Тој никогаш не бил харизматичен како неговиот татко"
+			}
+		]
+	},
+
+	{
+		"word": "харинга ж.",
+		"name": "харинга",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид риба од Северното Море",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармонизација ж.",
+		"name": "хармонизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Компонирање на музичка придружба по правилата на хармонијата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармонизира св. и несв.",
+		"name": "хармонизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Направи, прави хармонизација на музичко дело",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармонизирање ср.",
+		"name": "хармонизирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хармонизира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармонија ж.",
+		"name": "хармонија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Пријатно истовремено звучење на неколку тона, благозвучје",
+				"definition_example": "Хармонијата на песната, хармонијата на стихот"
+			},
+			{
+				"definition_name": "Дел од теоријата на музиката",
+				"definition_example": "Предава хармонија на Академијата"
+			},
+			{
+				"definition_name": "Согласување на делови од една целина",
+				"definition_example": "Хармонија на формите, хармонија на интересите"
+			},
+			{
+				"definition_name": "согласност, еднодушност",
+				"definition_example": "Во хармонија со барањата, во хармонија со времето"
+			},
+			{
+				"definition_name": "Душевно разбирање, слагање",
+				"definition_example": "Живеат во хармонија"
+			}
+		]
+	},
+
+	{
+		"word": "хармоника ж.",
+		"name": "хармоника",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "инструмент",
+				"definition_example": "(разг) Како хармонака (збрчкан, со многу брчки, растеглив)"
+			}
+		]
+	},
+
+	{
+		"word": "хармоникаш м.",
+		"name": "хармоникаш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што свири на хармоника",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармоникашки прид.",
+		"name": "хармоникашки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хармоника",
+				"definition_example": "хармоникашки оркестар"
+			}
+		]
+	},
+
+	{
+		"word": "хармониски прид.",
+		"name": "хармониски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хармоничен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармониум м.",
+		"name": "хармониум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музички инструмент сличен на оргулји",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хармонично прил.",
+		"name": "хармонично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "складно",
+				"definition_example": "Хармонично развиен"
+			}
+		]
+	},
+
+	{
+		"word": "хармоничност ж.",
+		"name": "хармоничност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "складност",
+				"definition_example": "хармоничноста на линиите"
+			}
+		]
+	},
+
+	{
+		"word": "харпун м.",
+		"name": "харпун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид копје што се употребува при лов на китови и други големи морски риби и животни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харпунер м.",
+		"name": "харпунер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист во лов со харпун",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хартиен прид.",
+		"name": "хартиен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Направен од хартија",
+				"definition_example": "Хартиена вреќа"
+			}
+		]
+	},
+
+	{
+		"word": "хартија ж.",
+		"name": "хартија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За пишување, печатење, завивање и сл",
+				"definition_example": "Хартијата на која беше напишан текстот ретко се наоѓа"
+			},
+			{
+				"definition_name": "ракопис, документ",
+				"definition_example": "Во неговите хартии"
+			}
+		]
+	},
+
+	{
+		"word": "хартијка ж.",
+		"name": "хартијка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хартија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "писменце",
+				"definition_example": "Му напиша на хартијка"
+			}
+		]
+	},
+
+	{
+		"word": "харфа ж.",
+		"name": "харфа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Инструмент со жици",
+				"definition_example": "Свири на харфа"
+			}
+		]
+	},
+
+	{
+		"word": "харфист м.",
+		"name": "харфист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музичар што свири на харфа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "харфистка ж.",
+		"name": "харфистка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена харфист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хатихумајун м.",
+		"name": "хатихумајун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Султанов указ од  г за рамноправност на сите поданици во Империјата без оглед на верата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хатишериф м.",
+		"name": "хатишериф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Султанов указ од  г со кој им се дадени права на христијаните во Турската Империја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хауба ж.",
+		"name": "хауба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Капак над мотор од моторно возило",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Направа за сушење коса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаубица ж.",
+		"name": "хаубица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид артилериско орудие",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаубички прид.",
+		"name": "хаубички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хаубица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаусмајстор м.",
+		"name": "хаусмајстор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "настојник, пазикуќа",
+				"definition_example": "Хаусмајсторот ги чува клучевите"
+			}
+		]
+	},
+
+	{
+		"word": "ха-ха изв.",
+		"name": "ха-ха",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Извик при смеење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хациенда ж.",
+		"name": "хациенда",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Раскошна куќа за живеење заедно со околниот имот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хаџи м.",
+		"name": "хаџи",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Се става пред имиња и означува дека личноста била на аџилак, било на Света Гора, било во Ерусалим",
+				"definition_example": "Хаџи Томо, хаџи Васил"
+			}
+		]
+	},
+
+	{
+		"word": "хаџија м.",
+		"name": "хаџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што бил на аџилак",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хашиш м.",
+		"name": "хашиш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Накотична дрога што се добива од индиски коноп",
+				"definition_example": "Џвака хашиш"
+			}
+		]
+	},
+
+	{
+		"word": "хе преф.",
+		"name": "хе",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Почетен слог од некои зборови од турско, персиско или арапско потекло: хеким, хелбете, хендек, хептен и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хе изв.",
+		"name": "хе",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Понекогаш и удвоено хе-хе и хе-е-е - за изразување на сомневање, незадоволство, негодување и слични чувства!",
+				"definition_example": "Хе, кој знае дали ќе биде добро"
+			}
+		]
+	},
+
+	{
+		"word": "хебла ж.",
+		"name": "хебла",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Железна шипка со сплескан крај, користена како лост",
+				"definition_example": "Ја провалиле вратата со хебла"
+			}
+		]
+	},
+
+	{
+		"word": "хебрејски прид.",
+		"name": "хебрејски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Хебрејците",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегелијанец м.",
+		"name": "хегелијанец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Приврзаник на хегелијанството",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегелијански прид.",
+		"name": "хегелијански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хегелијанец и на хегелијанство",
+				"definition_example": "Хегелијанска школа"
+			}
+		]
+	},
+
+	{
+		"word": "хегелијанство ср.",
+		"name": "хегелијанство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Филозофијата на Хегел",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегемон м.",
+		"name": "хегемон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Раководна, владејачка сила во едно движење, во општество",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегемонизам м.",
+		"name": "хегемонизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Владеење над други држави и народи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегемонија ж.",
+		"name": "хегемонија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Раководна, доминантна улога, првенство на некоја класа или држава во поглед на сила, влијание и сл",
+				"definition_example": "Хегемонијата на големите сили"
+			}
+		]
+	},
+
+	{
+		"word": "хегемонист м.",
+		"name": "хегемонист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што спроведува хегемонија; приврзаник на хегемонијата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хегемонистички прид.",
+		"name": "хегемонистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хегемонија и на хегемонист",
+				"definition_example": "Хегемонистичка политика"
+			}
+		]
+	},
+
+	{
+		"word": "хедонизам м.",
+		"name": "хедонизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Задоволството и телесните уживања како единствена животна цел",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хедонист м.",
+		"name": "хедонист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек на кој главната цел во животот е во задоволството и уживањето",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хедонистички прид.",
+		"name": "хедонистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Со големо уживање, давајќи предност на телесните пред умствените вредности",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеј изв.",
+		"name": "хеј",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "(може и одолжено, развлечено хе-е-ј) За изразување радост, жал, чудење, недоумица и слични чувства)",
+				"definition_example": "Хеј, што правевме кога бевме млади"
+			}
+		]
+	},
+
+	{
+		"word": "хеј чест.",
+		"name": "хеј",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "За повикување; за потканување",
+				"definition_example": "Хеј, селани, елате ваму"
+			}
+		]
+	},
+
+	{
+		"word": "хекатомба ж.",
+		"name": "хекатомба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Кај старите Грци - голема жртва, првобитно од сто бика, вола",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Масовно истребување, масовен колеж",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хекла св. и несв.",
+		"name": "хекла",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Плете со една кукаста игла",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хексадецимален прид.",
+		"name": "хексадецимален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е на основа на",
+				"definition_example": "хексадецимален код"
+			}
+		]
+	},
+
+	{
+		"word": "хексаметар м.",
+		"name": "хексаметар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Стих од шест дактилски стапки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хектар м.",
+		"name": "хектар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Мера за површина на земјиште; изнесува  ара или  декара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хектограм м.",
+		"name": "хектограм",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Количество од  грама",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хектограф м.",
+		"name": "хектограф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Уред за размножување ракописи и цртежи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хектолитар м.",
+		"name": "хектолитар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Мера за течност; изнесува  литра",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хектометар м.",
+		"name": "хектометар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Должина од  метри",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеланки само мн.",
+		"name": "хеланки",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Еластични женски панталони припиени до телото",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелвела ж.",
+		"name": "хелвела",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид печурка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеленизам м.",
+		"name": "хеленизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Античка култура особено на подрачјето на денешна Грција и Мала Азија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеленист м.",
+		"name": "хеленист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Историчар или обожавател на хеленистичката култура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеленистички прид.",
+		"name": "хеленистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со хеленизмот",
+				"definition_example": "Хеленистичка култура"
+			}
+		]
+	},
+
+	{
+		"word": "хелидром м.",
+		"name": "хелидром",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место уредено за полетување и слетување, за сместување и за одржување на хеликоптери",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хеликоптер м.",
+		"name": "хеликоптер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "апарат за летање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиограф м.",
+		"name": "хелиограф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Телескоп со апарат за фотографирање на сонцето",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Уред за автоматско бележење на трајноста на сјаењето на сонцето",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Уред за светлосни сигнали",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиографија ж.",
+		"name": "хелиографија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "фотографирање на сонцето",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиотерапија ж.",
+		"name": "хелиотерапија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лекување со помошта на сончевата светлина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиотераписки прид.",
+		"name": "хелиотераписки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хелиотерапија",
+				"definition_example": "Хелиотераписко лекување"
+			}
+		]
+	},
+
+	{
+		"word": "хелиотропизам м.",
+		"name": "хелиотропизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Својство на некои растенија да се вртат кон изворот на светлината",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиоцентризам м.",
+		"name": "хелиоцентризам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Теорија што го поставила Сонцето во центарот на светот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиум м.",
+		"name": "хелиум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хемиски елемент - најлесен гас по водородот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хелиумов прид.",
+		"name": "хелиумов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хелиум",
+				"definition_example": "Хелиумов балон – балон полн со хелиум"
+			}
+		]
+	},
+
+	{
+		"word": "хематит м.",
+		"name": "хематит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во минералогијата - вид железна руда со црвеникава боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хематоген прид.",
+		"name": "хематоген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што доаѓа преку крвта",
+				"definition_example": "хематогени бактерии"
+			},
+			{
+				"definition_name": "Што создава крв",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хематолог м.",
+		"name": "хематолог",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист по хематологија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хематологија ж.",
+		"name": "хематологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за крвта",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хематом м.",
+		"name": "хематом",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оток од згрутчена крв; излив на крв",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемизација ж.",
+		"name": "хемизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Искористување на резултатите од хемијата а во индустријата и земјоделството",
+				"definition_example": "Хемизација на технолошкиот процес, на земјоделството"
+			}
+		]
+	},
+
+	{
+		"word": "хемија ж.",
+		"name": "хемија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(едн) Наука што го изучува строежот на материите и нивното претворање едни во други; учебен предмет",
+				"definition_example": "Аналитична хемија"
+			},
+			{
+				"definition_name": "Учебник по овој предмет",
+				"definition_example": "Излегоа нови хемии за први и втори клас"
+			},
+			{
+				"definition_name": "Квалитетниот состав на нешто",
+				"definition_example": "Хемијата на крвта"
+			}
+		]
+	},
+
+	{
+		"word": "хемикалија ж.",
+		"name": "хемикалија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(обично во мн) Производи на хемиските фабрики, хемиски препарати",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемиски прид.",
+		"name": "хемиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на хемијата, на областа на хемијата, што се изучува од хемијата",
+				"definition_example": "хемиска анализа"
+			},
+			{
+				"definition_name": "Што е предназначен, што служи за работа по хемија, што се однесува на работата на хемичар",
+				"definition_example": "хемиска индустрија"
+			},
+			{
+				"definition_name": "Што се извршува со хемикалии",
+				"definition_example": "хемиско бојадисување и чистење"
+			},
+			{
+				"definition_name": "Сврзан со примената на методите на хемијата во производството",
+				"definition_example": "хемиска обработка"
+			},
+			{
+				"definition_name": "Сврзан со примени на производите на хемијата за воени цели",
+				"definition_example": "хемиска војна"
+			}
+		]
+	},
+
+	{
+		"word": "хемисфера ж.",
+		"name": "хемисфера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Земјината полутопка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемичар м.",
+		"name": "хемичар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист по хемија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Кој се зинимави со хемија: студент по хемија, работник во хемиската индустрија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемичарски прид.",
+		"name": "хемичарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хемичар или хемичарка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемоглобин м.",
+		"name": "хемоглобин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Материја што дава на крвта црвена боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемороиди само мн.",
+		"name": "хемороиди",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Болест на задното црево",
+				"definition_example": "Ми ги оперираа хемороидите"
+			}
+		]
+	},
+
+	{
+		"word": "хемотерапија ж.",
+		"name": "хемотерапија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Третман на болести, вклучувајќи рак, со хемикалии",
+				"definition_example": "Лекувањето е насочено кон отстранување или забавување на текот на болеста со комбинација на хирургија, зрачење, хемотерапија или хормонско лекување"
+			}
+		]
+	},
+
+	{
+		"word": "хемоторакс м.",
+		"name": "хемоторакс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Излив на крв во белите дробови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемофилија ж.",
+		"name": "хемофилија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наследна болест со крвавење поради пореметување на способноста на организмот да ја контролира коагулацијата на крвта",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хемофиличар м.",
+		"name": "хемофиличар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице болно од хемофилија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хендикеп м.",
+		"name": "хендикеп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во спортот - пречки, тешкотии што му се јавуваат на учесник",
+				"definition_example": "Исклучувањето на халфот беше хендикеп за домашните"
+			},
+			{
+				"definition_name": "При коњски трки - додавање тегови на подобри коњи",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "тешкотија, проблем, недостаток",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хендикепира св. и несв.",
+		"name": "хендикепира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Спречи, спречува, отежни, отежнува, стави, става во понеповолна положба",
+				"definition_example": "Лошото време ги хендикепира гостите"
+			}
+		]
+	},
+
+	{
+		"word": "хендикепиран прид.",
+		"name": "хендикепиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Со физички или ментален недостаток",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во подредена или неповолна положба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хендикепираност ж.",
+		"name": "хендикепираност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хендикепиран",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хендикепирање ср.",
+		"name": "хендикепирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хендикепира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хендс м.",
+		"name": "хендс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во фудбалот и хокејот - недозволена игра со рака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хепатит м.",
+		"name": "хепатит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хепатит или Хепатитис претставува оштетување на црниот дроб, предизвикано од воспалителни клетки во ткивото на црниот дроб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хепатитис м.",
+		"name": "хепатитис",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Заразна болест",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хепиенд м.",
+		"name": "хепиенд",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во романи, филмови и театарски пиеси - среќен крај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хераклит м.",
+		"name": "хераклит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесен изолационен градежен митеријал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хералдика ж.",
+		"name": "хералдика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Изучување и опишување на грбови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хералдички прид.",
+		"name": "хералдички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хералдика",
+				"definition_example": "Хералдички знак"
+			}
+		]
+	},
+
+	{
+		"word": "хербар м.",
+		"name": "хербар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "хербариум",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хербариум м.",
+		"name": "хербариум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Збирка на засушени и пресувани растенија што служи за учење на ботаника",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хербивор м.",
+		"name": "хербивор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Животно што се храни со растенија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хербицид м.",
+		"name": "хербицид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Отров што уништува несакана вегетација",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Херкул м.",
+		"name": "Херкул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Грчки јунак познат по натприродна физичка сила",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Човек со голема физичка сила",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во астрономијата - соѕвездие во северната полутопка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херкулски прид.",
+		"name": "херкулски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Многу силен, силен како Херкул",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хермафродитски прид.",
+		"name": "хермафродитски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува ни хермафродит",
+				"definition_example": "хермафродитски црти"
+			}
+		]
+	},
+
+	{
+		"word": "хермелин м.",
+		"name": "хермелин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид лисица со скапа бела кожа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Кожа, крзно од ова животно",
+				"definition_example": "Го постави палтото со хермелин"
+			}
+		]
+	},
+
+	{
+		"word": "хермелински прид.",
+		"name": "хермелински",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хермелин",
+				"definition_example": "Хермелинска наметка"
+			}
+		]
+	},
+
+	{
+		"word": "херменевт м.",
+		"name": "херменевт",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "специјалист по херменевтика",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херменевтика ж.",
+		"name": "херменевтика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за толкување на литературни текстови и разбирање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херметичен прид.",
+		"name": "херметичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е цврсто затворен и не пропушта воздух, вода и сл",
+				"definition_example": "Херметичен сад"
+			}
+		]
+	},
+
+	{
+		"word": "херметички прил.",
+		"name": "херметички",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "херметичен",
+				"definition_example": "Вратата беше затворена херметички"
+			}
+		]
+	},
+
+	{
+		"word": "херметички прид.",
+		"name": "херметички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "херметичен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херметично прил.",
+		"name": "херметично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "херметички прил",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херметичност ж.",
+		"name": "херметичност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "херметичен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хернија ж.",
+		"name": "хернија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Протурување на некои органи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хероизам м.",
+		"name": "хероизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Смелост за големи подвизи, јуначко дело, јунаштво",
+				"definition_example": "Хероизмот на борците на за слобода"
+			}
+		]
+	},
+
+	{
+		"word": "хероика ж.",
+		"name": "хероика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хероизам",
+				"definition_example": "Хероиката на револуцијата"
+			}
+		]
+	},
+
+	{
+		"word": "хероин м.",
+		"name": "хероин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Силно наркотично средство што се добива од морфиум",
+				"definition_example": "Причина за смртта била употреба на преголемо количество на алкохол и хероин"
+			}
+		]
+	},
+
+	{
+		"word": "хероина ж.",
+		"name": "хероина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена херој",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херој м.",
+		"name": "херој",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што се одликува со извонредна храброст",
+				"definition_example": "херој на Народната револуција"
+			},
+			{
+				"definition_name": "Главно лице на некој настан, лице што го привлекува вниманието",
+				"definition_example": "Не сакајќи тој стана херој на денот"
+			},
+			{
+				"definition_name": "Лице што ги овоплотува карактерните црти на својата епоха, средина",
+				"definition_example": "херој на нашето време"
+			},
+			{
+				"definition_name": "Главно лице во уметничко дело - роман, пиеса и сл",
+				"definition_example": "Главните херои на романот се лица од народот"
+			}
+		]
+	},
+
+	{
+		"word": "херојски прид.",
+		"name": "херојски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Својствен на херој, способен за подвизи, јуначен",
+				"definition_example": "Херојски подвиг"
+			},
+			{
+				"definition_name": "Кој се однесува на хероите на минатото, кој ги воспева нивните дела",
+				"definition_example": "Херојската содржина на романот"
+			}
+		]
+	},
+
+	{
+		"word": "херојски прил.",
+		"name": "херојски",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "јуначки",
+				"definition_example": "Сите се држеа херојски пред непријателот"
+			}
+		]
+	},
+
+	{
+		"word": "херојство ср.",
+		"name": "херојство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "херојско држење, храброст",
+				"definition_example": "Борци што покажаа големо херојство"
+			}
+		]
+	},
+
+	{
+		"word": "херпес м.",
+		"name": "херпес",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вирусна болест што предизвикува ситни меурчиња на слузокожата во пределот на усните, носот и половите органи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херувика ж.",
+		"name": "херувика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Црковна песна во која се споменуваат херувими",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херувим м.",
+		"name": "херувим",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во христијанската митологија - ангел од повисок ред",
+				"definition_example": "Сите серафими и херувими"
+			}
+		]
+	},
+
+	{
+		"word": "херувимски прид.",
+		"name": "херувимски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на херувим",
+				"definition_example": "Херувимска песна"
+			}
+		]
+	},
+
+	{
+		"word": "херц м.",
+		"name": "херц",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Единица за мерење на фреквенцијата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херцегиња ж.",
+		"name": "херцегиња",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жена или ќерка на херцег",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херцеговина ж.",
+		"name": "херцеговина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Територија со која владее херцег",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херцегува несв.",
+		"name": "херцегува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Владее како херцег",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херцегување ср.",
+		"name": "херцегување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "херцегува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "херцешки прид.",
+		"name": "херцешки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на херцег",
+				"definition_example": "херцешки дворец"
+			}
+		]
+	},
+
+	{
+		"word": "херцог м.",
+		"name": "херцог",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "благородничка титула",
+				"definition_example": "Над херцогот е само кралот и императорот"
+			}
+		]
+	},
+
+	{
+		"word": "хетера ж.",
+		"name": "хетера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жена со лесно држење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хетероген прид.",
+		"name": "хетероген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се состои од различни делови",
+				"definition_example": "хетероген состав"
+			}
+		]
+	},
+
+	{
+		"word": "хетерогеност ж.",
+		"name": "хетерогеност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "разноликост",
+				"definition_example": "хетерогеноста на организацијата"
+			}
+		]
+	},
+
+	{
+		"word": "хетеросексуалец м.",
+		"name": "хетеросексуалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Што не е хомосексуалец; што има сексуални односи со спротивниот пол",
+				"definition_example": "Тие имаат голем број поддржувачи и кај хетеросексуалците"
+			}
+		]
+	},
+
+	{
+		"word": "хефта ж.",
+		"name": "хефта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Метални делови што се ставаат во хефталката и со кои се хефта",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хефта несв.",
+		"name": "хефта",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Спојува, прицврстува листови хартија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хефталка ж.",
+		"name": "хефталка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Направа што служи за спојување на листови хартија",
+				"definition_example": "тапетарска хефталка"
+			}
+		]
+	},
+
+	{
+		"word": "ХЕЦ скр.",
+		"name": "ХЕЦ",
+		"type": "Скратеница",
+		"definitions": [
+			{
+				"definition_name": "Хидроелектрична централа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хи изв.",
+		"name": "хи",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Често удвоено — хи, хи и ли хи-хи и утросно хи, хи, хи или хи-хи-хи - за означување на лесна смеа",
+				"definition_example": "Хи, зар не ти се допаѓа, се смееше мајка му"
+			}
+		]
+	},
+
+	{
+		"word": "хибернација ж.",
+		"name": "хибернација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на успорен метаболизам постигната со намалување на телесната температура",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Зимски сон кај некои животни",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "замрзнување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хибернира св. и несв.",
+		"name": "хибернира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Западне во зимски сон",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Престане со активност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хибрид м.",
+		"name": "хибрид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Животно или растение добиено со вкрстување на две единки од различни видови, сорти, раси и сл",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Сложенка составена од зборови од различни јазици",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хибриден прид.",
+		"name": "хибриден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хибрид",
+				"definition_example": "хибридна пченка"
+			}
+		]
+	},
+
+	{
+		"word": "хибридизација ж.",
+		"name": "хибридизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вкрстување на различни видови растенија или животни за да се добијат нови, поквалитетни видови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ХИВ скр.",
+		"name": "ХИВ",
+		"type": "Скратеница",
+		"definitions": [
+			{
+				"definition_name": "Вирус што го напаѓа човечкиот имун систем (Human Immunodeﬁciency Virus)",
+				"definition_example": "ХИВ-позитивен"
+			}
+		]
+	},
+
+	{
+		"word": "хигиена ж.",
+		"name": "хигиена",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за чувањето на здравјето",
+				"definition_example": "Хигиената е услов за добро здравје"
+			},
+			{
+				"definition_name": "Мерките за чување на здравјето",
+				"definition_example": "хигиена на станот"
+			}
+		]
+	},
+
+	{
+		"word": "хигиеничар м.",
+		"name": "хигиеничар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што чисти, што се грижи за хигиената",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хигиенски прид.",
+		"name": "хигиенски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хигиената; кој е заснован врз хигиената",
+				"definition_example": "Хигиенски навики"
+			}
+		]
+	},
+
+	{
+		"word": "хигиенски прил.",
+		"name": "хигиенски",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "чисто, здраво",
+				"definition_example": "Живее хигиенски"
+			}
+		]
+	},
+
+	{
+		"word": "хигрометар м.",
+		"name": "хигрометар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прибор за мерење на влажноста на воздухот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хигроскоп м.",
+		"name": "хигроскоп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инструмент што покажува присуство на влажност во воздухот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хигроскопичност ж.",
+		"name": "хигроскопичност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Својство на некои материи да ја впиваат влагата од воздухот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидра ж.",
+		"name": "хидра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во старогрчката митологија - многуглава змија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "непријателска сила",
+				"definition_example": "хидрата на војната"
+			},
+			{
+				"definition_name": "Мал слатководен полип",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрант м.",
+		"name": "хидрант",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Уличен водоводен кран за полевање улици, гасење пожари и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрат м.",
+		"name": "хидрат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Соединение на вода со оксидите на киселините",
+				"definition_example": "јагленородни хидрати"
+			}
+		]
+	},
+
+	{
+		"word": "хидратен прид.",
+		"name": "хидратен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хидрат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидраулика ж.",
+		"name": "хидраулика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во физиката - наука за законите на рамнотежата и за движењето на течностите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрауличен прид.",
+		"name": "хидрауличен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хидрауликата",
+				"definition_example": "Хидраулични проучувања"
+			},
+			{
+				"definition_name": "Кој дејствува под притисок или движење на течност",
+				"definition_example": "Хидраулична преса"
+			}
+		]
+	},
+
+	{
+		"word": "хидрација ж.",
+		"name": "хидрација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стварање на хидрати",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидро преф.",
+		"name": "хидро",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Прв составен дел на некои сложенки кој има значење: воден, сврзан со водата, течноста",
+				"definition_example": "хидроавијација, хидроенергија"
+			}
+		]
+	},
+
+	{
+		"word": "хидроавион м.",
+		"name": "хидроавион",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Авион што може да слетува и полетува на вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроакумулација ж.",
+		"name": "хидроакумулација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Акумулација на вода за наводнување или производство на електрична енергија",
+				"definition_example": "За хидроакумулацијата се зборува одамна"
+			}
+		]
+	},
+
+	{
+		"word": "хидробиологија ж.",
+		"name": "хидробиологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од биологијата што го проучува животот на организмите во водата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидробиолошки прид.",
+		"name": "хидробиолошки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хидробиологијата",
+				"definition_example": "Хидробиолошки испитувања"
+			}
+		]
+	},
+
+	{
+		"word": "хидробус м.",
+		"name": "хидробус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Мал пловен објект за крстосување по езера, канали, пристаништа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроген м.",
+		"name": "хидроген",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "водород",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрогенски прид.",
+		"name": "хидрогенски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хидроген",
+				"definition_example": "хидрогенска бомба"
+			}
+		]
+	},
+
+	{
+		"word": "хидрогеологија ж.",
+		"name": "хидрогеологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за појава и токот на водите на Земјината површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроглисер м.",
+		"name": "хидроглисер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесен моторен чун со голема брзина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрографија ж.",
+		"name": "хидрографија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од географијата што ги проучува и опишува водите на земјината површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрографски прид.",
+		"name": "хидрографски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хидрографија",
+				"definition_example": "хидрографска карта"
+			}
+		]
+	},
+
+	{
+		"word": "хидродинамика ж.",
+		"name": "хидродинамика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од физиката што се занимава со движењето на течностите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидродром м.",
+		"name": "хидродром",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Аеродром на вода",
+				"definition_example": "Езерото се соочуваат со нови опасности од изградба на некаков хидродром на неговата водена површина"
+			}
+		]
+	},
+
+	{
+		"word": "хидроелектрана ж.",
+		"name": "хидроелектрана",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Постројка за производство на електрична енергија со користење на водната енергија",
+				"definition_example": "Поради намалениот доток на вода под прашање е капацитетот на хидроелектраните за производство на потребната количина електрична енергија"
+			}
+		]
+	},
+
+	{
+		"word": "хидроелектричен прид.",
+		"name": "хидроелектричен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што произведува електрицитет со помош на водена енергија",
+				"definition_example": "хидроелектрична централа"
+			}
+		]
+	},
+
+	{
+		"word": "хидроенергија ж.",
+		"name": "хидроенергија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Енергија што ја содржи водениот тек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроизолација ж.",
+		"name": "хидроизолација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Изолација против вода и влага",
+				"definition_example": "внатрешна хидроизолација"
+			}
+		]
+	},
+
+	{
+		"word": "хидроинженер м.",
+		"name": "хидроинженер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инженер за водни објекти или за контролирање на водните текови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроксид м.",
+		"name": "хидроксид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "анорганско хемиско соединение",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидролиза ж.",
+		"name": "хидролиза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Разложување на сложена материја под дејството на водата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидролог м.",
+		"name": "хидролог",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што се бави со хидрологија",
+				"definition_example": "хидролозите од заводот"
+			}
+		]
+	},
+
+	{
+		"word": "хидрологија ж.",
+		"name": "хидрологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука што ги проучува водните пространства на Земјината површина и врвежот на водата во природата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидролошки прид.",
+		"name": "хидролошки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со хидрологијата",
+				"definition_example": "Хидролошки завод"
+			}
+		]
+	},
+
+	{
+		"word": "хидрометар м.",
+		"name": "хидрометар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Справа за мерење на брзината на течна вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрометеорологија ж.",
+		"name": "хидрометеорологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука што го проучува токот на водата меѓу долниот дел на атмосферата и Земјината површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрометеоролошки прид.",
+		"name": "хидрометеоролошки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на појавите во атмосферата и на состојбата на водите на Земјината површина",
+				"definition_example": "Хидрометеоролошки податоци"
+			}
+		]
+	},
+
+	{
+		"word": "хидрометрија ж.",
+		"name": "хидрометрија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за мерење на водите",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Мерење на брзината на водата со помош на хидрометар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидромеханика ж.",
+		"name": "хидромеханика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука што ги проучува законите на рамнотежата и движењата на течностите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроним м.",
+		"name": "хидроним",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Име на река или на водна површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрономија ж.",
+		"name": "хидрономија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Целокупност на имињата на водени површини",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Дел од ономастиката што се занимава со проучување на имињата на водни површини",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидроплан м.",
+		"name": "хидроплан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Авион што може да се спушти на вода и да летне од вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидросистем м.",
+		"name": "хидросистем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "систем за наводнување",
+				"definition_example": "До нив допираат водите од регионалниот хидросистем и земјата е исклучително плодна"
+			}
+		]
+	},
+
+	{
+		"word": "хидростатика ж.",
+		"name": "хидростатика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дел од физиката што се занимава со силите на течностите во мирување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидросфера ж.",
+		"name": "хидросфера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Водното пространство на Земјината површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидротерапевт м.",
+		"name": "хидротерапевт",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лекар што практикува хидротерапија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидротерапија ж.",
+		"name": "хидротерапија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лекување со вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидротехника ж.",
+		"name": "хидротехника",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Техника на објекти на вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрофобија ж.",
+		"name": "хидрофобија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "страв од вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хидрофор м.",
+		"name": "хидрофор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Пумпа за извлекување, исцрпување на вода од длабочина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиена ж.",
+		"name": "хиена",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Крволочен ѕвер со темни петна или риги по кожата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Суров, подмолен човек",
+				"definition_example": "А вие стари хиени, земјата што ја покоривте"
+			}
+		]
+	},
+
+	{
+		"word": "хиерархизација ж.",
+		"name": "хиерархизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Воспоставување односи на подреденост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиерархија ж.",
+		"name": "хиерархија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Службена скала, поредок по ранг",
+				"definition_example": "службеничката хиерархија"
+			}
+		]
+	},
+
+	{
+		"word": "хиерархиски прид.",
+		"name": "хиерархиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хиерархија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиероглифи само мн.",
+		"name": "хиероглифи",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Писмо на старите Египќани во вид на фигури",
+				"definition_example": "Знаците на кинеското, јапонското и корејското писмо се еден вид хиероглифи"
+			},
+			{
+				"definition_name": "Нечитлив, тешко читлив ракопис",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиероглифски прид.",
+		"name": "хиероглифски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хиероглифи",
+				"definition_example": "Хиероглифско писмо"
+			}
+		]
+	},
+
+	{
+		"word": "хијат м.",
+		"name": "хијат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "зев",
+				"definition_example": "Кај некои родени говорители се слуша „воздивнувачката“ согласка [h], што може да се толкува како начин за отстранување на контактната позиција на две соседни самогласки меѓу кои минува слогов­ната граница (хијат)"
+			}
+		]
+	},
+
+	{
+		"word": "хилта м.",
+		"name": "хилта",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Машина која со помош на вибрации руши цврсти објекти (пневматски чекан, вибрационен чекан)",
+				"definition_example": "Работниците со големи хилти го уриваа постаментот на кој стоеше бронзената фигура"
+			}
+		]
+	},
+
+	{
+		"word": "хилус м.",
+		"name": "хилус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Средишен дел на некои органи по кој поминуваат крвни и лимфатични садови, нервите и одводни канали",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хилусен прид.",
+		"name": "хилусен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хилус",
+				"definition_example": "Хилусни жлезди"
+			}
+		]
+	},
+
+	{
+		"word": "Хималаи име.",
+		"name": "Хималаи",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "планина во Азија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "химен м.",
+		"name": "химен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "девствена опна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "химера ж.",
+		"name": "химера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во старогрчката митологија - чудовиште со глава на лав, труп на коза и опашка на змеј",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Неостварлива замисла, фантазија, мечта",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "химеричен прид.",
+		"name": "химеричен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој не може да се оствари, фантастичен",
+				"definition_example": "Химерични желби"
+			}
+		]
+	},
+
+	{
+		"word": "химна ж.",
+		"name": "химна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Свечена песна како симбол на државно единство",
+				"definition_example": "Народна, национална химна"
+			},
+			{
+				"definition_name": "Свечена фалбена песна; музичко дело во чест на некого или нешто",
+				"definition_example": "Величествена химна на нашата револуција"
+			}
+		]
+	},
+
+	{
+		"word": "хинди м.",
+		"name": "хинди",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "официјален јазик во Индија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиндуизам м.",
+		"name": "хиндуизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Главна религија и филозофија во Индија којашто се одликува со верување во многубоштво и реинкарнација",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хинин м.",
+		"name": "хинин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лек добиен од кората на хининовото дрво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хининов прид.",
+		"name": "хининов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кининов",
+				"definition_example": "Хининово дрво"
+			}
+		]
+	},
+
+	{
+		"word": "хипер преф.",
+		"name": "хипер",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Прв дел од сложенки што означува дека вториот дел од зборот е прекумерно",
+				"definition_example": "хиперпродукција"
+			}
+		]
+	},
+
+	{
+		"word": "хиперактивен прид.",
+		"name": "хиперактивен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Болен со симптоми на преголема активност",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Што е во постојано движење",
+				"definition_example": "хиперактивен министер"
+			}
+		]
+	},
+
+	{
+		"word": "хипербола ж.",
+		"name": "хипербола",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во литературата - преувеличување со цел да се засилат впечатоците; секое преувеличување, претерување",
+				"definition_example": "Глава има колку еден казан / уши колку два таруна / очи има колку два шиника[извор]"
+			},
+			{
+				"definition_name": "Отворена крива што се состои од две гранки а се добива кога конусот ќе се пресече со површината",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиперболизира св. и несв.",
+		"name": "хиперболизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "пренагласи, преувеличи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиперболичен прид.",
+		"name": "хиперболичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој ее однесува на хипербола; преувеличен",
+				"definition_example": "хиперболичен израз"
+			}
+		]
+	},
+
+	{
+		"word": "хиперболички прид.",
+		"name": "хиперболички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хиперболичен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиперболичност ж.",
+		"name": "хиперболичност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хиперболичен",
+				"definition_example": "хиперболичноста на неговите аргументи"
+			}
+		]
+	},
+
+	{
+		"word": "хиперманган м.",
+		"name": "хиперманган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Темнотемјанушни кристали со метален сјај; се употребува во воден раствор за плакнење на рани заради дезинфекција",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хиперним м.",
+		"name": "хиперним",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "надреден поим",
+				"definition_example": "Болест е хиперним од грип"
+			}
+		]
+	},
+
+	{
+		"word": "хипероним м.",
+		"name": "хипероним",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Надреден поим на еден збор",
+				"definition_example": "Течност е хипероним од вода"
+			}
+		]
+	},
+
+	{
+		"word": "хиперпродукција ж.",
+		"name": "хиперпродукција",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Претерано производство; поголемо производство од потрошувачката",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипертекст м.",
+		"name": "хипертекст",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Текст чии делови се поврзани преку интернет со други текстови во кои корисникот може да навигира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипертензија ж.",
+		"name": "хипертензија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Висок крвен притисок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипертонија ж.",
+		"name": "хипертонија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Зголемен, повишен крвен притисок",
+				"definition_example": "Хипертонијата може да доведе до мозочен удар"
+			}
+		]
+	},
+
+	{
+		"word": "хипертоничен прид.",
+		"name": "хипертоничен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хипертонија",
+				"definition_example": "Хипертоничен желудник"
+			}
+		]
+	},
+
+	{
+		"word": "хипертрофија ж.",
+		"name": "хипертрофија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Неприродно зголемување на некој орган поради болест, засилена работа и сл",
+				"definition_example": "Хипертрофија на срцето"
+			}
+		]
+	},
+
+	{
+		"word": "хипертрофиран прид.",
+		"name": "хипертрофиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хипертрофија; неприродно зголемен",
+				"definition_example": "Хипертрофиран бубрег"
+			}
+		]
+	},
+
+	{
+		"word": "хипик м.",
+		"name": "хипик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Млад човек од -тите години што ги отфрлал конвенционалните општествени вредности",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипноза ж.",
+		"name": "хипноза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Ментална состојба поттикната со хипнотичка индукција или сугестија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Силно влијание што го врши некој врз некого",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипнотизам м.",
+		"name": "хипнотизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Наука за појавите на хипнозата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Исто што и хипноза",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Способност за влијание врз некого",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипнотизер м.",
+		"name": "хипнотизер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што се занимава со хипнотизирање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипнотизира св. и несв.",
+		"name": "хипнотизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Изврши, извршува хипноза над некого",
+				"definition_example": "Хипнотизерот за миг ги хипнотизира сите што се јавија"
+			},
+			{
+				"definition_name": "Наполно овладее, овладува со некого, потчинува некого на својата волја",
+				"definition_example": "Децата внимателно ја слушаа учителката, просто таа беше ги хипнотизирала"
+			}
+		]
+	},
+
+	{
+		"word": "хипнотизирачки прид.",
+		"name": "хипнотизирачки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што хипнотизира, што влијае хипнотички",
+				"definition_example": "хипнотизирачки магии"
+			}
+		]
+	},
+
+	{
+		"word": "хипнотички прид.",
+		"name": "хипнотички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хипноза, хипнотизам; кој овладеал некого",
+				"definition_example": "хипнотичка сила"
+			}
+		]
+	},
+
+	{
+		"word": "хиподром м.",
+		"name": "хиподром",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место за коњски натпревари",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипокористик м.",
+		"name": "хипокористик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Име, збор што се употребува на галено; галено име, галовен збор",
+				"definition_example": "момиченце, детенце"
+			}
+		]
+	},
+
+	{
+		"word": "хипокористички прид.",
+		"name": "хипокористички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хипокористик",
+				"definition_example": "хипокористички збор"
+			}
+		]
+	},
+
+	{
+		"word": "Хипократ име.",
+		"name": "Хипократ",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Лекар во Античка Грција; татко на медицината",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипокризија ж.",
+		"name": "хипокризија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "лицемерство, преправање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипокрит м.",
+		"name": "хипокрит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "лицемер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипокритски прид.",
+		"name": "хипокритски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хипокрит",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипоним м.",
+		"name": "хипоним",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Подреден поим на еден збор",
+				"definition_example": "Лав е хипоним од животно"
+			}
+		]
+	},
+
+	{
+		"word": "хипопотам м.",
+		"name": "хипопотам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Воден коњ, нилски коњ; живее особено во африканските реки",
+				"definition_example": "Египетската божица си играла во Нил со хипопотам"
+			}
+		]
+	},
+
+	{
+		"word": "хипотеза ж.",
+		"name": "хипотеза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Научна претпоставка што треба допрва да се провери и докаже",
+				"definition_example": "Хипотеза за тоа како настанал животот на Земјата"
+			},
+			{
+				"definition_name": "Секоја претпоставка воопшто",
+				"definition_example": "Тој изнесе многу смели хипотези"
+			}
+		]
+	},
+
+	{
+		"word": "хипотека ж.",
+		"name": "хипотека",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Заложување недвижности за осигурување на добиен заем што се запишува во земјишните книги",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Заемот осигурен со запишување во земјишните книги",
+				"definition_example": "Го даде имотот под хипотека"
+			}
+		]
+	},
+
+	{
+		"word": "хипотекарен прид.",
+		"name": "хипотекарен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на работење со хипотеки",
+				"definition_example": "хипотекарна банка"
+			}
+		]
+	},
+
+	{
+		"word": "хипотензија ж.",
+		"name": "хипотензија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Хронично низок крвен притисок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипотенуза ж.",
+		"name": "хипотенуза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во геометријата - најголемата страна во правоаголен триаголник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипотетичен прид.",
+		"name": "хипотетичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Заснован врз хипотеза, кој се претпоставува",
+				"definition_example": "хипотетични судови"
+			}
+		]
+	},
+
+	{
+		"word": "хипотетички прид.",
+		"name": "хипотетички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хипотетичен",
+				"definition_example": "хипотетички дискусии"
+			}
+		]
+	},
+
+	{
+		"word": "хипотетично прил.",
+		"name": "хипотетично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хипотетичен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипотетичност ж.",
+		"name": "хипотетичност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хипотетичен",
+				"definition_example": "хипотетичноста на неговите оцени"
+			}
+		]
+	},
+
+	{
+		"word": "хипофиза ж.",
+		"name": "хипофиза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жлезда што ги регулира фукнциите на другите жлезди",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипохондрија ж.",
+		"name": "хипохондрија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нервна растроеност; неоснован страв од болест",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипохондрик м.",
+		"name": "хипохондрик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "вообразен болен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипохондричен прид.",
+		"name": "хипохондричен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хипохондрија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипоцентар м.",
+		"name": "хипоцентар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Центарот на земјотрес или атомска експлозија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хипстер м.",
+		"name": "хипстер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на современа супкултура сочинета од млади луѓе од граѓанска средна класа, со особен интерес за опскурна музика и независен филм",
+				"definition_example": "Хипстери! Битници! Бунтовници! Пушеа трева"
+			}
+		]
+	},
+
+	{
+		"word": "хир м.",
+		"name": "хир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "каприц",
+				"definition_example": "Затоа сево ова што се прави со измислувањето на историјата е само хир"
+			}
+		]
+	},
+
+	{
+		"word": "хировит прид.",
+		"name": "хировит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "каприциозен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хировитост ж.",
+		"name": "хировитост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "каприциозност",
+				"definition_example": "незрелост и хировитост"
+			}
+		]
+	},
+
+	{
+		"word": "хиромантија ж.",
+		"name": "хиромантија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Гатање според линиите на дланките",
+				"definition_example": "Некои го користат зборот метафизика за да го означат својот интерес за астрологија и хиромантија"
+			}
+		]
+	},
+
+	{
+		"word": "хирург м.",
+		"name": "хирург",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лекар, специјалист по хирургија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хирургија ж.",
+		"name": "хирургија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Оддел од медицината што ги изучува оперативните методи во лекувањето на болестите лекување на болестите по оперативен пат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хирургиски прид.",
+		"name": "хирургиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хируршки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хируршки прид.",
+		"name": "хируршки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хирургија и хирург; кој е остварен со средствата на хирургијата",
+				"definition_example": "хируршка помош"
+			},
+			{
+				"definition_name": "Кој се користи од хирургијата",
+				"definition_example": "хируршка клиника"
+			}
+		]
+	},
+
+	{
+		"word": "хисар м.",
+		"name": "хисар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "тврдина, замок, утврден град",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хиспаноамериканец м.",
+		"name": "Хиспаноамериканец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Жител на Латинска Америка со шпански говорен јазик",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хистерик м.",
+		"name": "хистерик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хистеричен човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хистеричен прид.",
+		"name": "хистеричен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хистерија; кој страда од хистерија",
+				"definition_example": "Хистерична жена"
+			}
+		]
+	},
+
+	{
+		"word": "хистерички прил.",
+		"name": "хистерички",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хистерично",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хистерично прил.",
+		"name": "хистерично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хистеричен",
+				"definition_example": "Се насмеа хистерично и избега"
+			}
+		]
+	},
+
+	{
+		"word": "хистеричност ж.",
+		"name": "хистеричност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хистеричен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хистологија ж.",
+		"name": "хистологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука за строежот на ткивата на човечкиот организам",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хистолошки прид.",
+		"name": "хистолошки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хистологија",
+				"definition_example": "Хистолошки испитувања"
+			}
+		]
+	},
+
+	{
+		"word": "хит м.",
+		"name": "хит",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "голем успех",
+				"definition_example": "Песната стана голем хит"
+			}
+		]
+	},
+
+	{
+		"word": "хитин м.",
+		"name": "хитин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Материја што е дел од оклопот на раковите, стоногалките, пајаците и другите инсекти",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хитлеризам м.",
+		"name": "хитлеризам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Фашистичка диктатура во Германија во времето од - год раководена од Хитлера",
+				"definition_example": "Идеологија на хитлеризмот"
+			}
+		]
+	},
+
+	{
+		"word": "хитлеровец м.",
+		"name": "хитлеровец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Фашист, приврзаник на Хитлера",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хитлеровски прид.",
+		"name": "хитлеровски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хитлеризам н хитлеровец",
+				"definition_example": "Хитлеровска Германија"
+			}
+		]
+	},
+
+	{
+		"word": "хитон м.",
+		"name": "хитон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Старогрчка облека од волна или лен закопчана на едното рамо",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлор м.",
+		"name": "хлор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Жолтозелен гас со остра миризба; се употребува во техниката, за воени цели и како средство за белење и дезинфекција",
+				"definition_example": "Смрди на хлор"
+			}
+		]
+	},
+
+	{
+		"word": "хлорат м.",
+		"name": "хлорат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сол на хлорната киселина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлорен прид.",
+		"name": "хлорен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хлор; кој содржи хлор",
+				"definition_example": "хлорна киселина"
+			}
+		]
+	},
+
+	{
+		"word": "хлорид м.",
+		"name": "хлорид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сол на хлороводородната, солната киселина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлорира св. и несв.",
+		"name": "хлорира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Очисти, чисти со хлор",
+				"definition_example": "Вчера ја хлорираа водата"
+			}
+		]
+	},
+
+	{
+		"word": "хлорирање ср.",
+		"name": "хлорирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хлорира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлороводород м.",
+		"name": "хлороводород",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Соединение на хлор со водород, безбоен отровен гас",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлороводороден прид.",
+		"name": "хлороводороден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хлороводород",
+				"definition_example": "хлороводородна киселина"
+			}
+		]
+	},
+
+	{
+		"word": "хлорофил м.",
+		"name": "хлорофил",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Материја што им дава зелена боја на растенијата и од чие присуство зависи нивната способност да го асимилираат јагленородниот диоксид од воздухот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хлороформ м.",
+		"name": "хлороформ",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Безбојна сладникава течност се употребува за наркоза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хм изв.",
+		"name": "хм",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "(често удвоено и одолжено - хм-хм! хм-хм!) Изразува сомневање, колебање, недоверба, иронија, замислување, чудење",
+				"definition_example": "Хм! не знам што да ти кажам"
+			},
+			{
+				"definition_name": "Изразува неодобрување, слабо заканување лесно негодување",
+				"definition_example": "Хм! ќе ве фатам јас"
+			}
+		]
+	},
+
+	{
+		"word": "хмељ м.",
+		"name": "хмељ",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид растение што се употребува во пиварството",
+				"definition_example": "Одгледување хмељ"
+			}
+		]
+	},
+
+	{
+		"word": "хо изв.",
+		"name": "хо",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Често удвоено и одлжено: — хо-хо! хо-о! - изразува изненаденост, зачуденост",
+				"definition_example": "Хо! тие веќе стигнале"
+			},
+			{
+				"definition_name": "Обично одолжено: хо-о - изразува радост, задоволство",
+				"definition_example": "Хо-о! кој ни дошол на гости"
+			},
+			{
+				"definition_name": "Удвоено: хо-хо - изразува силно, гласно смеење",
+				"definition_example": "Хо-хо! слатко се смееја сите"
+			}
+		]
+	},
+
+	{
+		"word": "хоби ср.",
+		"name": "хоби",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Пријатна активност, занимање заради лично задоволство и рекреација",
+				"definition_example": "Шахот му е хоби"
+			}
+		]
+	},
+
+	{
+		"word": "ходник м.",
+		"name": "ходник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тесен, долг внатрешен простор што ги поврзува другите простории",
+				"definition_example": "подземен ходник"
+			}
+		]
+	},
+
+	{
+		"word": "хокеар м.",
+		"name": "хокеар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "играч на хокеј",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хокеист м.",
+		"name": "хокеист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Играч на хокеј",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хокеј м.",
+		"name": "хокеј",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Игра во која топчето или плочичката со специјални стапови се втерува в гол",
+				"definition_example": "Хокеј на мраз"
+			}
+		]
+	},
+
+	{
+		"word": "хокејски прид.",
+		"name": "хокејски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хокеј",
+				"definition_example": "Хокејски клуб"
+			}
+		]
+	},
+
+	{
+		"word": "хол м.",
+		"name": "хол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "големо претсобје",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Холандија име.",
+		"name": "Холандија",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Земја во северозападна Европа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "холдинг м.",
+		"name": "холдинг",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Инвестиција во компанија од страна на друга компанија",
+				"definition_example": "Компанијата е еден од најголемите фармацевтски холдинзи во Русија"
+			}
+		]
+	},
+
+	{
+		"word": "холестерин м.",
+		"name": "холестерин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Масти кои се дел на сите животински ткива",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "холестерол м.",
+		"name": "холестерол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "холестрин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Холивуд име.",
+		"name": "Холивуд",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Седиште на американската филмска индустрија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "холистика ж.",
+		"name": "холистика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Филозофска доктрина што гледа на еден систем како збир на елементи кои создаваат нови особини",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Третман на пациентот како физичка и психолошка целина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "холограм м.",
+		"name": "холограм",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тродимензионална слика на предмет направена со помош на ласерски зраци",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "холокауст м.",
+		"name": "холокауст",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прогонувањето и уништувањето на Евреите за време на фашизмот",
+				"definition_example": "Тоа е така поради експлицитно историските теми што тој ги обработува, како што се холокаустот и Сталиновите чистки"
+			},
+			{
+				"definition_name": "Убивање во масивни размери",
+				"definition_example": "Кубанската ракетна криза ја доведе земјата до работ на нуклеарен холокауст"
+			}
+		]
+	},
+
+	{
+		"word": "холоцен м.",
+		"name": "холоцен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Геолошки период, што започнува околу  календарски години пред денешно време",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомеопатија ж.",
+		"name": "хомеопатија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Алтернативна метода на лекување заснована на учењето на германскиот лекар Самуел Ханеман",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомоген прид.",
+		"name": "хомоген",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Еднороден по својства; еднаков по состав, потекло",
+				"definition_example": "Хомогена организација"
+			}
+		]
+	},
+
+	{
+		"word": "хомогенизација ж.",
+		"name": "хомогенизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хомоген",
+				"definition_example": "Хомогенизација на европскиот пазар"
+			}
+		]
+	},
+
+	{
+		"word": "хомогенизира св. и несв.",
+		"name": "хомогенизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави да биде еднороден по својства; еднаков по состав, потекло",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомогеност ж.",
+		"name": "хомогеност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хомоген",
+				"definition_example": "Хомогеноста на екипата придонесе за успехот"
+			}
+		]
+	},
+
+	{
+		"word": "хомограф м.",
+		"name": "хомограф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Збор што се пишува исто како друг збор, но се разликува во изговорот, значењето или потеклото",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомологен прид.",
+		"name": "хомологен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има ист однос или значење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "соодветен",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Што има иста местоположба и структура, но понекогаш не и иста функција",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(при трансплантација на органи) поднослив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомологизација ж.",
+		"name": "хомологизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Одобрение за моторно возило за користење во одредена земја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомологизира св. и несв.",
+		"name": "хомологизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Дава одобрение за моторно возило за продажба во определена земја или пазар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомонимен прид.",
+		"name": "хомонимен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хомоним",
+				"definition_example": "хомонимни зборови"
+			}
+		]
+	},
+
+	{
+		"word": "хомосексуален прид.",
+		"name": "хомосексуален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Полово наклонет кон истиот пол",
+				"definition_example": "хомосексуални црти"
+			}
+		]
+	},
+
+	{
+		"word": "хомосексуалец м.",
+		"name": "хомосексуалец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Маж полово наклонет кон лица од својот пол, обременет со хомосексуализам",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомосексуализам м.",
+		"name": "хомосексуализам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Полов нагон кон лица од истиот пол",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомосексуалка ж.",
+		"name": "хомосексуалка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хомосексуалец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомосексуалност ж.",
+		"name": "хомосексуалност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хомосексуален",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хомофоб м.",
+		"name": "хомофоб",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што одбива или чувствува омраза кон луѓето од хомосексуална ориентација",
+				"definition_example": "Од мене сосила сакаат да прават непријател и хомофоб"
+			}
+		]
+	},
+
+	{
+		"word": "хомофобија ж.",
+		"name": "хомофобија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Страв, омраза, предрасуди или дискриминација против лица од хомосексуална ориентација, или луѓе кои се сметаат за такви",
+				"definition_example": "институционална хомофобија"
+			}
+		]
+	},
+
+	{
+		"word": "хомофонија ж.",
+		"name": "хомофонија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Пеење или свирење во еден глас",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хонг Конг име.",
+		"name": "Хонг Конг",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Посебен административен регион на Народна Република Кина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хонорар м.",
+		"name": "хонорар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Парична награда по договор за извршена работа на писатели, артисти; на адвокати, лекари и др",
+				"definition_example": "авторски хонорар"
+			}
+		]
+	},
+
+	{
+		"word": "хонорарен прид.",
+		"name": "хонорарен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хонорар",
+				"definition_example": "Хонорарна работа"
+			},
+			{
+				"definition_name": "Кој добива само хонорар а не месечна плата",
+				"definition_example": "Хонорарен службеник"
+			}
+		]
+	},
+
+	{
+		"word": "хонорарец м.",
+		"name": "хонорарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "хонорарен работник",
+				"definition_example": "Вработија три нови хонорарци"
+			}
+		]
+	},
+
+	{
+		"word": "хонорира св. и несв.",
+		"name": "хонорира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Определи, определува, плати, плаќа хонорар",
+				"definition_example": "Статиите се хонорираат"
+			},
+			{
+				"definition_name": "Оддаде, оддава почест",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хонорирање ср.",
+		"name": "хонорирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хонорира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хор м.",
+		"name": "хор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во старогрчката драма - група исполнители што пееле и рецитирале стихови",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Пејачки колектив што исполнува истовремено едно вокално дело",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вокална песна за пејачки колектив",
+				"definition_example": "аматерски хор"
+			}
+		]
+	},
+
+	{
+		"word": "хорал м.",
+		"name": "хорал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сад; поголема вреќа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоратува несв.",
+		"name": "хоратува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "говори, разговара, прикажува",
+				"definition_example": "Седнаа и фатија да хоратуваат"
+			}
+		]
+	},
+
+	{
+		"word": "хореј м.",
+		"name": "хореј",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во поезијата - двосложна ритмичка стапка со акцент на првиот слог",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоризонт м.",
+		"name": "хоризонт",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Привидна граница на небото и Земјината површина; видлива далечина",
+				"definition_example": "Видлив хоризонт Се скри зад хоризонтот"
+			},
+			{
+				"definition_name": "Круг на знаења, идеи, интереси",
+				"definition_example": "Дојде од странство со раширени хоризонти"
+			},
+			{
+				"definition_name": "(обично само во множина) можности, перспективи",
+				"definition_example": "Се отворија нови хоризонти за науката"
+			}
+		]
+	},
+
+	{
+		"word": "хоризонтала ж.",
+		"name": "хоризонтала",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Права, хоризонтална црта, паралелна со површината",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Линија што ги соединува на карта точките на месностите што лежат на иста височина",
+				"definition_example": "По хоризонталата"
+			}
+		]
+	},
+
+	{
+		"word": "хоризонтален прид.",
+		"name": "хоризонтален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Паралелен со линијата на хоризонтот",
+				"definition_example": "хоризонтална линија"
+			}
+		]
+	},
+
+	{
+		"word": "хоризонтално прил.",
+		"name": "хоризонтално",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "водорамно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хорист м.",
+		"name": "хорист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "пејач во хор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хористка ж.",
+		"name": "хористка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хорист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хорна ж.",
+		"name": "хорна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лимен дувачки музички инструмент",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хорнист м.",
+		"name": "хорнист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музичар што свири на хорна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хорографија ж.",
+		"name": "хорографија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Опис на релјефот на некоја земја или на некој крај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хорор м.",
+		"name": "хорор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ужас, страв",
+				"definition_example": "хорор-сцени; хорор-филм"
+			}
+		]
+	},
+
+	{
+		"word": "хороскоп м.",
+		"name": "хороскоп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Таблица на распоредот на ѕвездите според која средновековните астролози ја преткажувале судбината на луѓето",
+				"definition_example": "Ќе го составам вашиот хороскоп за неколку дни"
+			}
+		]
+	},
+
+	{
+		"word": "хорски прил.",
+		"name": "хорски",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Во хор, истовремено",
+				"definition_example": "Одговараат хорски"
+			}
+		]
+	},
+
+	{
+		"word": "хорски прид.",
+		"name": "хорски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хор",
+				"definition_example": "Хорската уметност"
+			},
+			{
+				"definition_name": "Кој се изведува од хор",
+				"definition_example": "Хорска рецитација"
+			}
+		]
+	},
+
+	{
+		"word": "хортензија ж.",
+		"name": "хортензија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Растение со големи цветови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хортикултура ж.",
+		"name": "хортикултура",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Одгледување на цвеќе, зеленчук и овошје",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоругва ж.",
+		"name": "хоругва",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Црковно знаме со ликови на светци што се носи на големи христијански празници, молебени и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитализација ж.",
+		"name": "хоспитализација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "сместување во болница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитализира св. и несв.",
+		"name": "хоспитализира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пренесе во болница и стави под лекарска контрола",
+				"definition_example": "Три лица беа хоспитализирани"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитант м.",
+		"name": "хоспитант",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оној што хоспитира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитација ж.",
+		"name": "хоспитација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Подготвување за наставничкото звање со присуствување на предавања во некое училиште",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитира св. и несв.",
+		"name": "хоспитира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Присуствува на предавања во училиште заради подготвување за вршење на наставничкото звање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоспитирање ср.",
+		"name": "хоспитирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хоспитира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хостел м.",
+		"name": "хостел",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Преноќиште, хотел од пониска категорија",
+				"definition_example": "младински хостел"
+			}
+		]
+	},
+
+	{
+		"word": "хостеса ж.",
+		"name": "хостеса",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Домаќинка по службена должност на јавен настан, прием",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хотел м.",
+		"name": "хотел",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "преноќевалиште",
+				"definition_example": "Отседна во хотел со пет ѕвезди"
+			}
+		]
+	},
+
+	{
+		"word": "хотелиер м.",
+		"name": "хотелиер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сопственик или управител на хотел",
+				"definition_example": "познат хотелиер"
+			}
+		]
+	},
+
+	{
+		"word": "хотелиерка ж.",
+		"name": "хотелиерка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хотелиер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хотелиерски прид.",
+		"name": "хотелиерски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хотелиер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хотелиерство ср.",
+		"name": "хотелиерство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Раководење со хотел",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хотелски прид.",
+		"name": "хотелски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хотел",
+				"definition_example": "хотелска соба"
+			}
+		]
+	},
+
+	{
+		"word": "хохштаплер м.",
+		"name": "хохштаплер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Измамник од голем стил",
+				"definition_example": "Во филмовите тој глумеше хоштаплери, што впрочем и не му беше тешко зашто и самиот беше таков"
+			}
+		]
+	},
+
+	{
+		"word": "хохштаплерка ж.",
+		"name": "хохштаплерка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хохштаплер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хохштаплерски прид.",
+		"name": "хохштаплерски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хохштаплер",
+				"definition_example": "Хохштаплерска постапка"
+			}
+		]
+	},
+
+	{
+		"word": "хоџа м.",
+		"name": "хоџа",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "муслимански свештеник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хоџабашија м.",
+		"name": "хоџабашија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "коџабашија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "храбар прид.",
+		"name": "храбар",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој пројавува храброст",
+				"definition_example": "храбар човек"
+			},
+			{
+				"definition_name": "Кој изразува храброст, смелост",
+				"definition_example": "Даваше храбар изглед"
+			}
+		]
+	},
+
+	{
+		"word": "храбрење ср.",
+		"name": "храбрење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "куражење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "храбрец м.",
+		"name": "храбрец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "храбар човек",
+				"definition_example": "нашиот храбрец"
+			}
+		]
+	},
+
+	{
+		"word": "храбри несв.",
+		"name": "храбри",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Влева храброст",
+				"definition_example": "Со својот пример тој ги храбреше своите луѓе"
+			},
+			{
+				"definition_name": "(се храбри) Добива храброст, храбар вид",
+				"definition_example": "Пред секој испит самиот се храбреше"
+			}
+		]
+	},
+
+	{
+		"word": "храбро прил.",
+		"name": "храбро",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "одважно, смело",
+				"definition_example": "Сите се држеа храбро"
+			}
+		]
+	},
+
+	{
+		"word": "храброст ж.",
+		"name": "храброст",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "одважност, смелост, кураж",
+				"definition_example": "Немаше храброст да го стори тоа"
+			}
+		]
+	},
+
+	{
+		"word": "храм м.",
+		"name": "храм",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Зграда за богослужение, црква",
+				"definition_example": "Биле ограбени сите храмови"
+			},
+			{
+				"definition_name": "Црковна слава",
+				"definition_example": "На манастирот храмот му бил Св Никола"
+			},
+			{
+				"definition_name": "Место каде што се твори нешто возвишено; место што предизвикува почит",
+				"definition_example": "Храм на културата"
+			}
+		]
+	},
+
+	{
+		"word": "храна ж.",
+		"name": "храна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тоа што служи за исхрана, за одржување на организмот",
+				"definition_example": "Секој ден им носеше храна на партизаните"
+			},
+			{
+				"definition_name": "Тоа што служи како извор за нешто, што одржува нешто",
+				"definition_example": "Душевна, духовна храна"
+			}
+		]
+	},
+
+	{
+		"word": "хранарина ж.",
+		"name": "хранарина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "трошок за храна",
+				"definition_example": "Овој месец ни ја зголемија хранарината"
+			},
+			{
+				"definition_name": "Средства што им се даваат на спортисти за засилување на храната",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "храненик м.",
+		"name": "храненик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "хранениче, посвоено дете",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "храненица ж.",
+		"name": "храненица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Туѓо девојче одгледано како свое",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хранениче ср.",
+		"name": "хранениче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Туѓо дете одгледано како свое",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хранење ср.",
+		"name": "хранење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) храни",
+				"definition_example": "Хранењето на детето"
+			}
+		]
+	},
+
+	{
+		"word": "хранет прид.",
+		"name": "хранет",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(пасив) најаден",
+				"definition_example": "Само со шеќер хранета"
+			},
+			{
+				"definition_name": "уранет, угоен",
+				"definition_example": "Хранета стока"
+			}
+		]
+	},
+
+	{
+		"word": "храни несв.",
+		"name": "храни",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Дава храна; помага на неспособен или болен да се храни; дава храна на дете",
+				"definition_example": "Детето ги хранеше пилињата"
+			},
+			{
+				"definition_name": "(само  л) Дава средства за издржувањето на некого, издржува; служи како средство за издржување, за приходи",
+				"definition_example": "Татко му уште го храни"
+			},
+			{
+				"definition_name": "(само  л) Одржува некого",
+				"definition_example": "Филозофијата не ме храни веќе"
+			},
+			{
+				"definition_name": "(се храни) Добива храна, јаде и пие",
+				"definition_example": "Се хранеше само со риба"
+			},
+			{
+				"definition_name": "(се храни) Се издржува, добива средства за живот",
+				"definition_example": "Работеше и се хранеше"
+			}
+		]
+	},
+
+	{
+		"word": "хранилиште ср.",
+		"name": "хранилиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што се чува нешто",
+				"definition_example": "богато хранилиште"
+			},
+			{
+				"definition_name": "Место каде што се дава храна",
+				"definition_example": "хранилиште за дивеч"
+			}
+		]
+	},
+
+	{
+		"word": "хранилка ж.",
+		"name": "хранилка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сад или определено место каде што се става, дава храната за домашни животни или за дивеч во природата",
+				"definition_example": "хранилка за пилиња"
+			}
+		]
+	},
+
+	{
+		"word": "хранител м.",
+		"name": "хранител",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оној што храни некого или нешто",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Оној што издржува некого или нешто",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "чувар, покровител",
+				"definition_example": "ангел-хранител"
+			}
+		]
+	},
+
+	{
+		"word": "хранителен прид.",
+		"name": "хранителен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој служи за храна",
+				"definition_example": "Хранителни продукти"
+			},
+			{
+				"definition_name": "Кој содржи доволно количество корисни материи за организмот",
+				"definition_example": "Јајцата не се многу хранителни"
+			}
+		]
+	},
+
+	{
+		"word": "хранителка ж.",
+		"name": "хранителка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хранител",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хранителство ср.",
+		"name": "хранителство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Однос меѓу полнолетно деловно способно лице (хранител) и туѓо малолетно дете (храненик, чуваник)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "храница ж.",
+		"name": "храница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "храна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хранлив прид.",
+		"name": "хранлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој содржи доволно количество корисни материи за организмот",
+				"definition_example": "Хранливи сокови"
+			}
+		]
+	},
+
+	{
+		"word": "хранливост ж.",
+		"name": "хранливост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хранлив",
+				"definition_example": "Хранливоста на зеленчукот и на овошјето"
+			}
+		]
+	},
+
+	{
+		"word": "хранопровод м.",
+		"name": "хранопровод",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Орган кој го поврзува голтникот со желудникот",
+				"definition_example": "Заболување на хранопроводот"
+			}
+		]
+	},
+
+	{
+		"word": "Хрват м.",
+		"name": "Хрват",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на словенски народ чија татковина е Хрватска",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Хрватска име.",
+		"name": "Хрватска",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Држава на Балканскиот Полуостров",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хрема ж.",
+		"name": "хрема",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Воспаление на слузницата на носот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хремав прид.",
+		"name": "хремав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е болен од хрема",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хрестоматија ж.",
+		"name": "хрестоматија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Читанка со одбрани одломки од познати литературни дела; зборник со одбрани текстови од одделна област",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хризантема ж.",
+		"name": "хризантема",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Есенско цвеќе со големи китки",
+				"definition_example": "букет од хризантеми"
+			}
+		]
+	},
+
+	{
+		"word": "хрисовул м.",
+		"name": "хрисовул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Средновековна грамота на владетел со златен печат и потпис; златна була",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијанизација ж.",
+		"name": "христијанизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Покрстување, преобратување во христијанство, ширење на христијанството",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијанизира св. и несв.",
+		"name": "христијанизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Подложи, подложува на христијанизација",
+				"definition_example": "тогаш беа христијанизирани сите племиња што живееја таму"
+			},
+			{
+				"definition_name": "(се христијанизира) се покрсти, се покрстува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијанизирање ср.",
+		"name": "христијанизирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "покрстување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијанин м.",
+		"name": "христијанин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на христијанската вера",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијанка ж.",
+		"name": "христијанка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена христијанин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христијански прил.",
+		"name": "христијански",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "христијански",
+				"definition_example": "Се држи христијански"
+			}
+		]
+	},
+
+	{
+		"word": "христијански прид.",
+		"name": "христијански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на христијанин и христијанство",
+				"definition_example": "Христијанска црква"
+			},
+			{
+				"definition_name": "Кој исповеда христијанство",
+				"definition_example": "Христијанскиот свет"
+			}
+		]
+	},
+
+	{
+		"word": "христијанство ср.",
+		"name": "христијанство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Религија што поникнала во првиот век од нашата ера, а во чија основа лежи верата во Исуса Христа",
+				"definition_example": "Проповеда христијанство"
+			},
+			{
+				"definition_name": "Сите припадници на христијанската вера",
+				"definition_example": "Сето христијанство стана против тоа"
+			},
+			{
+				"definition_name": "Својство на христијанин",
+				"definition_example": "Тој се одликуваше со своето христијанство"
+			}
+		]
+	},
+
+	{
+		"word": "христољубец м.",
+		"name": "христољубец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "христољубив, богољубец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "христољубив прид.",
+		"name": "христољубив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е предан на христијанската вера, богољубив, побожен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Христос м.",
+		"name": "Христос",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Името на Исус од Назарет за кој христијаните веруваат дека е Синот Божји",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Икона, слика или фреска на Исус",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хром м.",
+		"name": "хром",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "тврд сребреникав метал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроматизам м.",
+		"name": "хроматизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во физиката - својство на белиот зрак да се распаѓа на зраци со различни бои",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Нагорно или надолно мелодиско движење по полутонови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроматичен прид.",
+		"name": "хроматичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Во физиката - заснован врз појавите на хроматизмот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Заснован врз хроматизмот",
+				"definition_example": "Хроматични интервали"
+			}
+		]
+	},
+
+	{
+		"word": "хромен прид.",
+		"name": "хромен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хром; кој содржи хром",
+				"definition_example": "Хромни соединенија"
+			}
+		]
+	},
+
+	{
+		"word": "хромиран прид.",
+		"name": "хромиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Покриен, превлечен со слој од хром",
+				"definition_example": "Хромиран сад"
+			}
+		]
+	},
+
+	{
+		"word": "хромирање ср.",
+		"name": "хромирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "хромира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хромов прид.",
+		"name": "хромов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хромен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хромозом м.",
+		"name": "хромозом",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Носител на генетското наследство во секоја жива ќелија",
+				"definition_example": "специфичен хромозом"
+			}
+		]
+	},
+
+	{
+		"word": "хромолитографија ж.",
+		"name": "хромолитографија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Литографски начин на печатење во неколку бои",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Отпечаток изработен на таков начин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хромосфера ж.",
+		"name": "хромосфера",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Втора од трите главни слоеви во сончевата атмосфера",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроника ж.",
+		"name": "хроника",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Бележење на настаните по хронолшки ред",
+				"definition_example": "средновековни хроники"
+			},
+			{
+				"definition_name": "Литературно дело што опишува хронолошки некои настани",
+				"definition_example": "семејна хроника"
+			},
+			{
+				"definition_name": "Во современиот печат - вести и соопштенија од тековниот локален живот",
+				"definition_example": "спортска хроника, судска хроника"
+			},
+			{
+				"definition_name": "Во кинематографијата - документарен филм од тековниот општествен живот",
+				"definition_example": "Филмот беше убава хроника на Народно-ослободителната војна"
+			}
+		]
+	},
+
+	{
+		"word": "хроничар м.",
+		"name": "хроничар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Автор на хроника, летописец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроничарски прид.",
+		"name": "хроничарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хроничар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроничен прид.",
+		"name": "хроничен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Обично за болест - кој продолжува долго време; кој не може да се излекува",
+				"definition_example": "хронично воспаление"
+			}
+		]
+	},
+
+	{
+		"word": "хронички прид.",
+		"name": "хронички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хроничен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хроничност ж.",
+		"name": "хроничност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хроничен",
+				"definition_example": "Хроничноста на воспалението"
+			}
+		]
+	},
+
+	{
+		"word": "хронологија ж.",
+		"name": "хронологија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Прикажување на некои настани по нивниот временски ред",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Помошна историска наука што ги установува датумите на историските настани и документи",
+				"definition_example": "Грците од таа година почнале да ја водат својата хронологија"
+			}
+		]
+	},
+
+	{
+		"word": "хронолошки прил.",
+		"name": "хронолошки",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хронолошки",
+				"definition_example": "Настаните беа дадени хронолошки"
+			}
+		]
+	},
+
+	{
+		"word": "хронолошки прид.",
+		"name": "хронолошки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хронологија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Кој е даден по редот на настаните",
+				"definition_example": "Хронолошки датуми"
+			}
+		]
+	},
+
+	{
+		"word": "хронометар м.",
+		"name": "хронометар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Точен астрономски часовник во специјална кутија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Многу точен џебен или рачен часовник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ху преф.",
+		"name": "ху",
+		"type": "Префикс",
+		"definitions": [
+			{
+				"definition_name": "Почетен слог кај некои зборови од турски, персиско и арапско потекло",
+				"definition_example": "хуј(лија), хунер, хустабашија, хуќумат, хуџум"
+			}
+		]
+	},
+
+	{
+		"word": "хубертус м.",
+		"name": "хубертус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лесен мантил, обично што не пропушта вода",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хула ж.",
+		"name": "хула",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Груб напад со зборови; исмевање на нешто што е свето",
+				"definition_example": "Грозна хула"
+			}
+		]
+	},
+
+	{
+		"word": "хулахопки само мн.",
+		"name": "хулахопки",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Комбинација од чорапи и гаќи што ги покрива нозете и долниот дел од трупот",
+				"definition_example": "Хулахопките на танчерите и акробатите"
+			}
+		]
+	},
+
+	{
+		"word": "хулење ср.",
+		"name": "хулење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "улење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хули несв.",
+		"name": "хули",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Напаѓа, навредува, исмева нешто што е свето",
+				"definition_example": "Не хули (на) бога"
+			}
+		]
+	},
+
+	{
+		"word": "хулиган м.",
+		"name": "хулиган",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "насилник, криминалец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хулител м.",
+		"name": "хулител",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што хули",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хулник м.",
+		"name": "хулник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што хули",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хуманизам м.",
+		"name": "хуманизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прогресивно движење во - век проникнато со почитување на човечкото достоинство односно ослободување од оковите на феудализмот и католицизмот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Однос кон луѓето проникнат со љубов и почитување на човечкото достоинство",
+				"definition_example": "Хуманизмот на нашата револуција"
+			}
+		]
+	},
+
+	{
+		"word": "хуманизација ж.",
+		"name": "хуманизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Создавање човечки услови за работа и живеење",
+				"definition_example": "хуманизација на работата"
+			}
+		]
+	},
+
+	{
+		"word": "хуманизира св. и несв.",
+		"name": "хуманизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави човек, станува хуман",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хуманист м.",
+		"name": "хуманист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Претставник на хуманизам",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Човек проникнат со хуманизам",
+				"definition_example": "Тој е поет и хуманист"
+			}
+		]
+	},
+
+	{
+		"word": "хуманистички прид.",
+		"name": "хуманистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на хуманист и хуманизам",
+				"definition_example": "хуманистички вредности"
+			}
+		]
+	},
+
+	{
+		"word": "хуманистка ж.",
+		"name": "хуманистка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "жена хуманист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хуманитарен прид.",
+		"name": "хуманитарен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на општествените науки што го изучуваат човека и неговата култура",
+				"definition_example": "хуманитарно образование"
+			},
+			{
+				"definition_name": "Кој е проникнат со внимание кон човека",
+				"definition_example": "хуманитарна акција"
+			}
+		]
+	},
+
+	{
+		"word": "хуманитарец м.",
+		"name": "хуманитарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што во хуманитарна акција помага на други лица",
+				"definition_example": "странски хуманитарци"
+			}
+		]
+	},
+
+	{
+		"word": "хумано прил.",
+		"name": "хумано",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хуман",
+				"definition_example": "Постапува хумано со сите"
+			}
+		]
+	},
+
+	{
+		"word": "хуманоиден прид.",
+		"name": "хуманоиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со човекот, што личи на човек",
+				"definition_example": "хуманоидна цивилизација"
+			}
+		]
+	},
+
+	{
+		"word": "хуманост ж.",
+		"name": "хуманост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "хуман",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумка ж.",
+		"name": "хумка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "могила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумор м.",
+		"name": "хумор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Претставување на настаните, човечките недостатоци и слабости во ненавредлив комичен вид, духовитост",
+				"definition_example": "Има голема смисла за хумор"
+			},
+			{
+				"definition_name": "Уметничко дело проникнато со духовитост",
+				"definition_example": "Хумор и сатира"
+			}
+		]
+	},
+
+	{
+		"word": "хумореска ж.",
+		"name": "хумореска",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Мал расказ со шеговита содржина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Композиција во брзо темпо, со шеговит тон",
+				"definition_example": "музичка хумореска"
+			}
+		]
+	},
+
+	{
+		"word": "хуморист м.",
+		"name": "хуморист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Автор на хумористични дела",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Човек склон кон хумор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумористика ж.",
+		"name": "хумористика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Хумористична литература",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумористичен прид.",
+		"name": "хумористичен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хумор, проникнат со хумор",
+				"definition_example": "Хумористичен тон"
+			},
+			{
+				"definition_name": "Кој содржи во себе хумор",
+				"definition_example": "Хумористичен расказ"
+			}
+		]
+	},
+
+	{
+		"word": "хумористички прид.",
+		"name": "хумористички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "хумористичен",
+				"definition_example": "Хумористички театар"
+			}
+		]
+	},
+
+	{
+		"word": "хумористично прил.",
+		"name": "хумористично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "хумористичен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумористка ж.",
+		"name": "хумористка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена хуморист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хумус м.",
+		"name": "хумус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Земја настаната од распаѓањето на животински и растителни материи, горниот слој на почвата",
+				"definition_example": "А корењата на којзнае кога закланите стебла не го пуштале од грчот на своите прсти стврднатиот хумус"
+			}
+		]
+	},
+
+	{
+		"word": "хумусен прид.",
+		"name": "хумусен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој содржи хумус",
+				"definition_example": "Хумусна почва"
+			}
+		]
+	},
+
+	{
+		"word": "Хун м.",
+		"name": "Хун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на хунските племиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хунта ж.",
+		"name": "хунта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Назив на различни политички групи и државни организации во земјите со шпански говорен јазик - Шпанија и земјите на Латинска Америка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Највисок орган во чии раце се наоѓа власта по извршен државен удар",
+				"definition_example": "воена хунта"
+			}
+		]
+	},
+
+	{
+		"word": "хупка ж.",
+		"name": "хупка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "залак, касај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хурија ж.",
+		"name": "хурија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Девојка во муслиманскиот рај; рајска, небеска убавица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Убавица, необично убава жена",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хусар м.",
+		"name": "хусар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Војник од единиците на лесната коњица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Некогашен коњаник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "хусарски прид.",
+		"name": "хусарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на хусар",
+				"definition_example": "Хусарски полк"
+			}
+		]
+	}
+]}

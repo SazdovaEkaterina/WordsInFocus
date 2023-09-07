@@ -1,0 +1,1755 @@
+{
+	"name": "ќ",
+	"words":[
+	{
+		"word": "Ќаба ж.",
+		"name": "Ќаба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Коцкеста градба во Мека која е најсветото место во исламот",
+				"definition_example": "Муслиманите одат на аџилак и седумпати ја заобиколуваат Ќаба во обратен правец од стрелката на часовникот"
+			}
+		]
+	},
+
+	{
+		"word": "ќај м.",
+		"name": "ќај",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Погачка од повеќе парчиња исполнети со сирење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќаја м.",
+		"name": "ќаја",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Главен овчар, богат сточар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Управник, надзорник на имот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќајџија м.",
+		"name": "ќајџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Фурнаџија што прави ќај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќар м.",
+		"name": "ќар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Позитивен резултат од една дејност",
+				"definition_example": "Никаков ќар немам од тоа"
+			}
+		]
+	},
+
+	{
+		"word": "ќари св.",
+		"name": "ќари",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "спечали, заработи, доби, ќарува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќарлија прид.",
+		"name": "ќарлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Оној што е во добивка, кој заработил",
+				"definition_example": "Јас излегов ќарлија од таа работа"
+			}
+		]
+	},
+
+	{
+		"word": "ќарлија м.",
+		"name": "ќарлија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оној што работи за ќар, добивка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќарува несв.",
+		"name": "ќарува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "печали, добива, заработува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќарување ср.",
+		"name": "ќарување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "печалење, ќарење, добивање, заработување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќатип м.",
+		"name": "ќатип",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "писар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќафир м.",
+		"name": "ќафир",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "неверник, ништоверец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќе чест.",
+		"name": "ќе",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "За образување идно време - за сите родови",
+				"definition_example": "Таму вечер ќе ноќуваме"
+			},
+			{
+				"definition_name": "За минато-идно време",
+				"definition_example": "Се збираа, ќе одеа в град"
+			},
+			{
+				"definition_name": "За идно прекажано време",
+				"definition_example": "Детето ми кажа дека утре ќе ни дојдел учителот на гости"
+			},
+			{
+				"definition_name": "Со свршени глаголи во темпорални реченици",
+				"definition_example": "Викни ме, кога ќе дојде тој"
+			}
+		]
+	},
+
+	{
+		"word": "ќебап м.",
+		"name": "ќебап",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Јадење од месо исечено на дробенки или мелено, варено или печено",
+				"definition_example": "тас-ќебап (варено месо на дробенки)"
+			}
+		]
+	},
+
+	{
+		"word": "ќебапче ср.",
+		"name": "ќебапче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Валчесто парче од мелено месо, печено на скара",
+				"definition_example": "порција ќебапчиња"
+			}
+		]
+	},
+
+	{
+		"word": "ќебапчија м.",
+		"name": "ќебапчија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оној што прави, пече ќебапи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќебапчилница ж.",
+		"name": "ќебапчилница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Угостителски објект каде што се подготвуваат ќебапи, ќебапчиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќебапчиски прид.",
+		"name": "ќебапчиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на ќебапи",
+				"definition_example": "ќебапчиски дуќан"
+			}
+		]
+	},
+
+	{
+		"word": "ќебе ср.",
+		"name": "ќебе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Вид грубо изработена покривка или постилка, обично од волна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќебенце ср.",
+		"name": "ќебенце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќебе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќедер м.",
+		"name": "ќедер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "штета, несреќа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "грижа, мака",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќезап м.",
+		"name": "ќезап",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Азотна киселина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќеиф м.",
+		"name": "ќеиф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ќеф",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќела ж.",
+		"name": "ќела",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Место на главата каде што испаѓала косата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелавење ср.",
+		"name": "ќелавење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Процес на паѓање на косата од главата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелави несв.",
+		"name": "ќелави",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува ќелав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелавко м.",
+		"name": "ќелавко",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ќелав човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелавост ж.",
+		"name": "ќелавост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на испаѓана коса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелавче ср.",
+		"name": "ќелавче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќелавко",
+				"definition_example": "(нар поез) За едно момче ќелавче"
+			}
+		]
+	},
+
+	{
+		"word": "ќелезанка ж.",
+		"name": "ќелезанка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ќелава глава",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелепош м.",
+		"name": "ќелепош",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Плетена капа од памучен конец; капа што ја покрива ќелата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Капичка што ја носат духовниците под шапката",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелепур м.",
+		"name": "ќелепур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Она до што се доаѓа на лесен начин, без многу труд или трошок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелеш м.",
+		"name": "ќелеш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ќелавко, ќелав човек",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Презрив назив за човек",
+				"definition_example": "Ќелеш ниеден!"
+			}
+		]
+	},
+
+	{
+		"word": "ќелибар м.",
+		"name": "ќелеш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ќелавко, ќелав човек",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Презрив назив за човек",
+				"definition_example": "Ќелеш ниеден!"
+			}
+		]
+	},
+
+	{
+		"word": "ќелибарен прид.",
+		"name": "ќелибарен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Направен од ќелибар",
+				"definition_example": "Ќелибарени бројници"
+			},
+			{
+				"definition_name": "Што има боја на ќелибар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелиен прид.",
+		"name": "ќелиен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Од ќелија, што се однесува на ќелија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелија ж.",
+		"name": "ќелиен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Од ќелија, што се однесува на ќелија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќелијка ж.",
+		"name": "ќелија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Собичка, која може да биде и многу мала, особено в затвор, манастирска ќелија - собата на калуѓерот",
+				"definition_example": "затворска ќелија"
+			},
+			{
+				"definition_name": "Најпроста градбена единица на организмите",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Окце во сот - ќелија во пчелино саќе",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Основна единица на организација",
+				"definition_example": "партиска ќелија"
+			}
+		]
+	},
+
+	{
+		"word": "ќелиски прид.",
+		"name": "ќелија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Собичка, која може да биде и многу мала, особено в затвор, манастирска ќелија - собата на калуѓерот",
+				"definition_example": "затворска ќелија"
+			},
+			{
+				"definition_name": "Најпроста градбена единица на организмите",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Окце во сот - ќелија во пчелино саќе",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Основна единица на организација",
+				"definition_example": "партиска ќелија"
+			}
+		]
+	},
+
+	{
+		"word": "ќемане ср.",
+		"name": "ќелиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на ќелија",
+				"definition_example": "ќелиски систем"
+			}
+		]
+	},
+
+	{
+		"word": "ќеманеџија м.",
+		"name": "ќемане",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "виолина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Глава на човек",
+				"definition_example": "Ќемането не ти фаќа"
+			}
+		]
+	},
+
+	{
+		"word": "ќемер м.",
+		"name": "ќеманеџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "виолина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќемерлија прид.",
+		"name": "ќемерлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "ќелија",
+				"definition_example": "Мост ќемерлија"
+			}
+		]
+	},
+
+	{
+		"word": "ќенеф м.",
+		"name": "ќенеф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "нужник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќепе ср.",
+		"name": "ќенеф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "нужник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќепенок м.",
+		"name": "ќепе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "вид капа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "вид сукнен елек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќепче ср.",
+		"name": "ќепенок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Капак на дуќански прозорци и врати",
+				"definition_example": "На Струга дуќан да имам / на ќепенците да седам"
+			}
+		]
+	},
+
+	{
+		"word": "ќерал м.",
+		"name": "ќерал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лажица што се употребува за мешање на вариво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерамиден прид.",
+		"name": "ќерамиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е покриен со ќерамиди",
+				"definition_example": "Ќерамиден покрив"
+			}
+		]
+	},
+
+	{
+		"word": "ќерамидница ж.",
+		"name": "ќерамиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е покриен со ќерамиди",
+				"definition_example": "Ќерамиден покрив"
+			}
+		]
+	},
+
+	{
+		"word": "ќерамидџија м.",
+		"name": "ќерамидџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Оној кој прави и продава ќерамиди",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерамитка ж.",
+		"name": "ќерамитка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ќерамида, ќерамитче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерана ж.",
+		"name": "ќерамитка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ќерамида, ќерамитче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерата м.",
+		"name": "ќерата",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "неранимајко",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќердоса св.",
+		"name": "ќердоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Постигне успех, среќа во животот",
+				"definition_example": "Кој ќердосал по тој пат?"
+			},
+			{
+				"definition_name": "За женење: земе за жена",
+				"definition_example": "Е, виде, девојко, оти пак јас, ќе те ќердосам е"
+			},
+			{
+				"definition_name": "(се ќердоса) Постигне успех во животот, се усреќи, стане среќен, имотен",
+				"definition_example": "Да си жив, да се ќердосаш"
+			}
+		]
+	},
+
+	{
+		"word": "ќердосува несв.",
+		"name": "ќердосува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) ќердоса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќердосување ср.",
+		"name": "ќердосување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) ќердоса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќересте ср.",
+		"name": "ќересте",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дрвен градежен материјал, дрвена граѓа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерестеџија м.",
+		"name": "ќерестеџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Трговец со дрвен градежен материјал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерестеџилница ж.",
+		"name": "ќерестеџилница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што се продава ќересте",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерка ж.",
+		"name": "ќерка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Женско чедо на родителите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќеркин прид.",
+		"name": "ќеркин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа, што се однесува на ќерката",
+				"definition_example": "Ќеркин чеиз"
+			}
+		]
+	},
+
+	{
+		"word": "ќеркински прил.",
+		"name": "ќеркински",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Како на ќерка",
+				"definition_example": "Се однесува ќеркински спрема мене"
+			}
+		]
+	},
+
+	{
+		"word": "ќеркиче ср.",
+		"name": "ќеркиче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќерка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќерпич м.",
+		"name": "ќерпич",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "непечена тула",
+				"definition_example": "градба од ќерпич"
+			}
+		]
+	},
+
+	{
+		"word": "ќеса ж.",
+		"name": "ќеса",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "в ќесе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќесат м.",
+		"name": "ќесат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "оскудица, криза",
+				"definition_example": "Голем ќесат е"
+			}
+		]
+	},
+
+	{
+		"word": "ќесе ср.",
+		"name": "ќесе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "чантичка, торбичка за пари",
+				"definition_example": "(прен) Не посегај му во ќесето"
+			},
+			{
+				"definition_name": "Крпа за триење при капење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "торбичка",
+				"definition_example": "најлонско ќесе"
+			}
+		]
+	},
+
+	{
+		"word": "ќесеџија м.",
+		"name": "ќесеџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Разбојник, што краде сечејќи ги ќесињата на жртвите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќесија ж.",
+		"name": "ќесија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вреќа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќесим м.",
+		"name": "ќесим",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "закуп, наем",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "спогодба, устен договор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќесичка ж.",
+		"name": "ќесичка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ќесе",
+				"definition_example": "Се додава половина ќесичка прашок за печиво"
+			}
+		]
+	},
+
+	{
+		"word": "ќетен м.",
+		"name": "ќетен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "памук",
+				"definition_example": "платно од ќетен"
+			}
+		]
+	},
+
+	{
+		"word": "ќетен-алва ж.",
+		"name": "ќетен-алва",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "алва во вид на конци",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќефил м.",
+		"name": "ќефил",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "жирант, јамец",
+				"definition_example": "Стори ми се ќефил - биди ми жирант"
+			}
+		]
+	},
+
+	{
+		"word": "ќефледиса св.",
+		"name": "ќефледиса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "расположи",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се кефледиса) се расположи",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се кефледиса) се напива, опијанува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќефлија прид.",
+		"name": "ќефлија",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Добро расположен",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "поднапиен, тргнат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќече ср.",
+		"name": "ќече",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Бела капа, дел од албанската носија",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Дебело платно од налепени влакна (најчесто отпаднати) од козина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долна пелена од такво платно",
+				"definition_example": "Вид долна дебела пелена"
+			}
+		]
+	},
+
+	{
+		"word": "ќешки чест.",
+		"name": "ќешки",
+		"type": "Честичка",
+		"definitions": [
+			{
+				"definition_name": "За изразување на жалење, недоволство што се случило нешто; (камо, камо среќа, поарно да , би било подобро да )",
+				"definition_example": "Ќешки да останев и јас таму, немаше да се случи таа несреќа"
+			}
+		]
+	},
+
+	{
+		"word": "ќибар прид.",
+		"name": "ќибар",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кибар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќилер м.",
+		"name": "ќилер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "килер",
+				"definition_example": "немаме што да изгубиме"
+			}
+		]
+	},
+
+	{
+		"word": "ќипер м.",
+		"name": "ќипер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "кипер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќитап м.",
+		"name": "ќитап",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "китаб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќоле ср.",
+		"name": "ќоле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "слуга, роб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќопав прид.",
+		"name": "ќопав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "куц",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќор прид.",
+		"name": "ќор",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Слеп на едното око",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "слеп",
+				"definition_example": "Ќоро и сакато"
+			}
+		]
+	},
+
+	{
+		"word": "ќорав прид.",
+		"name": "ќорав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "ќор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќоравење ср.",
+		"name": "ќоравење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќорави",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќорави несв.",
+		"name": "ќорави",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Ослепува на едното око",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "ослепува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќоравост ж.",
+		"name": "ќоравост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на ќорав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќорле м.",
+		"name": "ќорле",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ќорчо",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќорлеме прил.",
+		"name": "ќорлеме",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "слепечки",
+				"definition_example": "Оди така ќорлемечки, како слепец"
+			},
+			{
+				"definition_name": "како без глава, невнимателно",
+				"definition_example": "ќорлемечки дотрча"
+			}
+		]
+	},
+
+	{
+		"word": "ќоро ср.",
+		"name": "ќоро",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Згодна прилика",
+				"definition_example": "Му се погоди на ќорото, удри на ќорото"
+			}
+		]
+	},
+
+	{
+		"word": "ќор-сокак м.",
+		"name": "ќор-сокак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "слепа улица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "безизлезна ситуација",
+				"definition_example": "Дојдовме во ќор-сокак"
+			}
+		]
+	},
+
+	{
+		"word": "ќор-фишек м.",
+		"name": "ќор-фишек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Куршум за вежбање чие зрно не содржи смртоносно полнење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќорчо м.",
+		"name": "ќорчо",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тој што е ќорав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќос прид.",
+		"name": "ќос",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "ќосе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќосавење ср.",
+		"name": "ќосавење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Станување ќос",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќосавост ж.",
+		"name": "ќосавост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Состојба на ќос",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќосе ср.",
+		"name": "ќосе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Човек на кој не му растат мустаќи и брада",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќостек м.",
+		"name": "ќостек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Ланец за часовник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќотек м.",
+		"name": "ќотек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "тепање",
+				"definition_example": "(прен) Му удри ќотек"
+			}
+		]
+	},
+
+	{
+		"word": "ќофте ср.",
+		"name": "ќофте",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "погачка од мелено месо",
+				"definition_example": "Ќофтето ѝ падна од раце, шлапна и се распадна врз чиничето со ориз"
+			},
+			{
+				"definition_name": "јадење со ќофтиња",
+				"definition_example": "ќофте на кромид"
+			}
+		]
+	},
+
+	{
+		"word": "ќофтенце ср.",
+		"name": "ќофтенце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќофте",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќош м.",
+		"name": "ќош",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "агол",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќоше ср.",
+		"name": "ќоше",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "агол",
+				"definition_example": "Лошо ќоше"
+			}
+		]
+	},
+
+	{
+		"word": "ќошлест прид.",
+		"name": "ќошлест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "со ќошиња, со агли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќуд м.",
+		"name": "ќуд",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "нарав, карактер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќудлив прид.",
+		"name": "ќудлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е со променлива нарав, превртлив, каприциозен",
+				"definition_example": "ќудлив човек"
+			},
+			{
+				"definition_name": "Што е променлив, непостојан",
+				"definition_example": "ќудлива слобода"
+			}
+		]
+	},
+
+	{
+		"word": "ќулав м.",
+		"name": "ќулав",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид цуцулеста капа, дервишка капа",
+				"definition_example": "(прен) Ќе му го скрои ќулавот - ќе го среди"
+			},
+			{
+				"definition_name": "капуљача",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќулавка ж.",
+		"name": "ќулавка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Цуцулеста капа, дервишка капа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во народната носија - дел од гуна, поголема јака која по потреба се претвора во капа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Капа пришиена за горната облека",
+				"definition_example": "јакна со ќулавка"
+			}
+		]
+	},
+
+	{
+		"word": "ќулан м.",
+		"name": "ќулан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Подземна просторија, огниште во амамот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќулче ср.",
+		"name": "ќулче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Парче лиен метал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќумбе ср.",
+		"name": "ќумбе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "печка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќумез м.",
+		"name": "ќумез",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "кокошарник, гулабарник",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Мала, тесна соба; мал, тесен и неуреден стан",
+				"definition_example": "Живеат во еден ќумез"
+			}
+		]
+	},
+
+	{
+		"word": "ќумур м.",
+		"name": "ќумур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јаглен",
+				"definition_example": "дрвен ќумур"
+			}
+		]
+	},
+
+	{
+		"word": "ќумурџија м.",
+		"name": "ќумурџија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јагленар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќумурџилница ж.",
+		"name": "ќумурџилница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "јагленарница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќунк м.",
+		"name": "ќунк",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Цевка за водовод или канализација, цевка за одвод на димот од печките",
+				"definition_example": "боја за ќунци"
+			}
+		]
+	},
+
+	{
+		"word": "ќуп м.",
+		"name": "ќуп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Длабок земјен сад со две рачки отстрана",
+				"definition_example": "Еден ќуп алтани"
+			}
+		]
+	},
+
+	{
+		"word": "ќупче ср.",
+		"name": "ќупче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ќуп",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќурдија ж.",
+		"name": "ќурдија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Горна облека, машка или женска, куса или долга, поставена со крзно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќурчи м.",
+		"name": "ќурчи",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "крзнар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќурчија м.",
+		"name": "ќурчија",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "крзнар, кожувар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќурчиски прид.",
+		"name": "ќурчиски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Крзнарски, што е поврзано со ќурчиство",
+				"definition_example": "ќурчиски дуќан"
+			}
+		]
+	},
+
+	{
+		"word": "ќускија ж.",
+		"name": "ќускија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "железен лост",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "глупав човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќуспе ср.",
+		"name": "ќуспе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Остаток од семињата од кои со пресување се издвојува зејтин",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќутење ср.",
+		"name": "ќутење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "молчење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќути несв.",
+		"name": "ќути",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Молчи, не испушта глас",
+				"definition_example": "Ќути и не зборувај повеќе!"
+			}
+		]
+	},
+
+	{
+		"word": "ќутлив прид.",
+		"name": "ќутлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "молчалив",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќутук м.",
+		"name": "ќутук",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "пењушка, цепаница",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "недоделкан, глуп човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќуќур м.",
+		"name": "ќуќур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "сулфур",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ќушка ж.",
+		"name": "ќушка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "пиперка",
+				"definition_example": "No example"
+			}
+		]
+	}
+]}

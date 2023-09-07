@@ -6,8 +6,9 @@ from bs4 import BeautifulSoup
 
 # letters to scrape
 letters = ['а', 'б', 'в', 'г', 'д', 'ѓ', 'е', 'ж', 'з', 'ѕ',
-           'и', 'ј', 'к', 'л', 'љ', 'м', 'н', 'њ', 'о', 'п',
-           'р', 'с', 'т', 'ќ', 'у', 'ф', 'х', 'ц', 'ч', 'џ', 'ш']
+            'и', 'ј', 'к', 'л', 'љ', 'м', 'н', 'њ', 'о', 'п',
+            'р', 'с', 'т', 'ќ', 'у', 'ф', 'х', 'ц', 'ч', 'џ', 'ш']
+
 
 def scrape_letter(browser, letter):
     fp = open("..\\WordsInFocusAPI\\src\\main\\resources\\wordsInJson\\" + letter + '.json', 'w')

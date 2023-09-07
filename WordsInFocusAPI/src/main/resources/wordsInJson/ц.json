@@ -1,0 +1,9203 @@
+{
+	"name": "ц",
+	"words":[
+	{
+		"word": "цаблан м.",
+		"name": "цаблан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Плод од пченка со и без зрна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цавка ж.",
+		"name": "цавка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цевка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цавтење ср.",
+		"name": "цавтење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цветење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цавти несв.",
+		"name": "цавти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цвети",
+				"definition_example": "Ружата рано цавти"
+			}
+		]
+	},
+
+	{
+		"word": "цавток м.",
+		"name": "цавток",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цвет, цут",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цајкан м.",
+		"name": "цајкан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "полицаец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цајтнот м.",
+		"name": "цајтнот",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во шахот - недостиг на време за размислување",
+				"definition_example": "Во цајтнот повлече погрешен потег"
+			},
+			{
+				"definition_name": "Воопшто - недостиг на време за извршување на некоја работа",
+				"definition_example": "Со проектот сме во цајтнот"
+			}
+		]
+	},
+
+	{
+		"word": "цак изв.",
+		"name": "цак",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Означува слаб метален тресок",
+				"definition_example": "Цак! пукна нешто во моторот"
+			}
+		]
+	},
+
+	{
+		"word": "цака ж.",
+		"name": "цака",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Научена или интуитивна вештина",
+				"definition_example": "Ги знае сите цаки"
+			}
+		]
+	},
+
+	{
+		"word": "цакне св.",
+		"name": "цакне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "(непреод) Ѕвекне еднаш, пушти метален звук",
+				"definition_example": "(разг) пукнало, цакнало! (клетва)"
+			},
+			{
+				"definition_name": "(преод) удри, мавне, тресне",
+				"definition_example": "Го цакнал малу момченцето"
+			}
+		]
+	},
+
+	{
+		"word": "цакнува несв.",
+		"name": "цакнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цакне",
+				"definition_example": "Часовникот цакнува одвреме-навреме"
+			}
+		]
+	},
+
+	{
+		"word": "цакнување ср.",
+		"name": "цакнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цакнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цалаварки само мн.",
+		"name": "цалаварки",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Насечено цвекло",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цалне св.",
+		"name": "цалне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "бакне, целувне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цалува несв.",
+		"name": "цалува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "целива",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цалуне св.",
+		"name": "цалуне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "целивне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цанцаре ср.",
+		"name": "цанцаре",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Мало, ситно тиквиче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цап м.",
+		"name": "цап",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "јарец",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Полукружен отвор на ногарките на женски разбој во кој стои крајот на вратилото",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цап изв.",
+		"name": "цап",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "За означување на звукот што се слуша кога ќе се пушти мал предмет во течност односно кога ќе се цапне во нешто",
+				"definition_example": "Одеше по тротоарот и наеднаш цап! - згазна во водата"
+			}
+		]
+	},
+
+	{
+		"word": "цапа несв.",
+		"name": "цапа",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Гази по кал, мек снег, вода, тиња и сл",
+				"definition_example": "Нови ти се чевлите и не цапај во калта"
+			},
+			{
+				"definition_name": "Гази со валкани нозе, чевли гази по нешто чисто",
+				"definition_example": "Децата само цапаат по килимот"
+			},
+			{
+				"definition_name": "загазува, прави глупости, греши",
+				"definition_example": "Се тој цапа"
+			}
+		]
+	},
+
+	{
+		"word": "цапалка ж.",
+		"name": "цапалка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "трага од цапнување",
+				"definition_example": "Гази по цапалките"
+			}
+		]
+	},
+
+	{
+		"word": "цапање ср.",
+		"name": "цапање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "газење",
+				"definition_example": "Цапање по кал"
+			},
+			{
+				"definition_name": "газење (со нечисти нозе)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цапка несв.",
+		"name": "цапка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Цапа по малку",
+				"definition_example": "Цапкаше низ водата бос"
+			}
+		]
+	},
+
+	{
+		"word": "цапне св.",
+		"name": "цапне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Згазне в кал, мек снег, вода, тиња и сл",
+				"definition_example": "Невнимателно цапна во водата"
+			},
+			{
+				"definition_name": "Згазне по нешто чисто со нечисти нозе, чевли",
+				"definition_example": "Цапнаа по килимот"
+			},
+			{
+				"definition_name": "згреши",
+				"definition_example": "Пак јас цапнав"
+			},
+			{
+				"definition_name": "стапува",
+				"definition_example": "Една деценија човечка нога не цапнала во дворот"
+			}
+		]
+	},
+
+	{
+		"word": "цапнување ср.",
+		"name": "цапнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цапнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цапотење ср.",
+		"name": "цапотење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цапање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цапоти несв.",
+		"name": "цапоти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цапа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цапутка несв.",
+		"name": "цапутка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цапка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цар м.",
+		"name": "цапутка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цапка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царвул м.",
+		"name": "цапутка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цапка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царев прид.",
+		"name": "царев",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на царот",
+				"definition_example": "царев син"
+			}
+		]
+	},
+
+	{
+		"word": "царевен прид.",
+		"name": "царевен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е од пченка",
+				"definition_example": "царевен леб"
+			}
+		]
+	},
+
+	{
+		"word": "царевина ж.",
+		"name": "царевен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Титула на владетел во некои земји; лице што ја има оваа титула",
+				"definition_example": "Руски, турски цар"
+			}
+		]
+	},
+
+	{
+		"word": "царевица ж.",
+		"name": "царевен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е од пченка",
+				"definition_example": "царевен леб"
+			}
+		]
+	},
+
+	{
+		"word": "царевка ж.",
+		"name": "царевина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Држава што се управува од цар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царевковина ж.",
+		"name": "царевина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на царот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царевница ж.",
+		"name": "царевина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на царот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царее несв.",
+		"name": "царее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "царува, цари",
+				"definition_example": "Потоа царее штама"
+			}
+		]
+	},
+
+	{
+		"word": "цареневестица ж.",
+		"name": "цареневестица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ласица, невестулка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царење ср.",
+		"name": "цареневестица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ласица, невестулка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цари несв.",
+		"name": "царевица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "царевка, пченка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Цариград име.",
+		"name": "цари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Живее како цар, потчинува на своето влијание, на својата волја",
+				"definition_example": "Цареле цареви, бегови, паши"
+			},
+			{
+				"definition_name": "(само во  л) владее",
+				"definition_example": "Ноќ пуста цари на нејзин праг"
+			}
+		]
+	},
+
+	{
+		"word": "цариградски прид.",
+		"name": "Цариград",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Стеблото на пченката; слама од пченка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царизам м.",
+		"name": "цариградски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со Цариград",
+				"definition_example": "цариградско џаде"
+			}
+		]
+	},
+
+	{
+		"word": "царина ж.",
+		"name": "царина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Давачка што се плаќа за увоз, извоз и транзит на стоки",
+				"definition_example": "Подлежи на царина"
+			},
+			{
+				"definition_name": "Управа што наплатува царински давачки",
+				"definition_example": "Стоката сѐ уште е на царина"
+			}
+		]
+	},
+
+	{
+		"word": "царинарник м.",
+		"name": "царинарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Форма на државно управување при кое сета власт му припаѓа на царот; царски апсолутизам",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царинарница ж.",
+		"name": "царинарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Форма на државно управување при кое сета власт му припаѓа на царот; царски апсолутизам",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царинење ср.",
+		"name": "царинарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цариник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царини несв.",
+		"name": "царинарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Државна установа што врши контрола над увезувани и извезувани стоки",
+				"definition_example": "Откако му бил прегледан пасошот и запишано името во регистарот, тој го однел куферот на преглед во царинарницата"
+			}
+		]
+	},
+
+	{
+		"word": "цариник м.",
+		"name": "цариник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "службеник на царинарница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царински прид.",
+		"name": "царински",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува а царина",
+				"definition_example": "Царински преглед"
+			}
+		]
+	},
+
+	{
+		"word": "царистички прид.",
+		"name": "царистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на царизам и царист",
+				"definition_example": "царистичка Русија"
+			}
+		]
+	},
+
+	{
+		"word": "царица ж.",
+		"name": "царица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сопруга на цар",
+				"definition_example": "Царот и царицата"
+			},
+			{
+				"definition_name": "Жена цар",
+				"definition_example": "За време на владеењето на царица Елеонора"
+			},
+			{
+				"definition_name": "За жена цар",
+				"definition_example": "Царица на цвеќињата"
+			}
+		]
+	},
+
+	{
+		"word": "царичин прид.",
+		"name": "царичин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на царица; кој припаѓа на царица",
+				"definition_example": "Царичин прстен"
+			}
+		]
+	},
+
+	{
+		"word": "царски прид.",
+		"name": "царски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на цар; кој припаѓа или служи на цар; кој потекнува од цар",
+				"definition_example": "царски дворец, царска круна"
+			},
+			{
+				"definition_name": "Што е својствен за цар",
+				"definition_example": "царско величество"
+			},
+			{
+				"definition_name": "Што е близу до царот",
+				"definition_example": "царски довереник"
+			},
+			{
+				"definition_name": "Што се однесува на политичкиот режим на царство",
+				"definition_example": "царската влада"
+			},
+			{
+				"definition_name": "Што се извршува од цар и од негови блиски",
+				"definition_example": "царска посета"
+			},
+			{
+				"definition_name": "Што е како кај цар",
+				"definition_example": "царски подарок"
+			}
+		]
+	},
+
+	{
+		"word": "царски прил.",
+		"name": "царски",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "раскошно, богато",
+				"definition_example": "Живееле царски и господарски"
+			}
+		]
+	},
+
+	{
+		"word": "царство ср.",
+		"name": "царство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Држава што се управува од цар",
+				"definition_example": "Римското Царство"
+			},
+			{
+				"definition_name": "(само едн) Управување на некој цар, царување",
+				"definition_example": "За време на царството на цар Александар"
+			},
+			{
+				"definition_name": "Некоја област од стварноста",
+				"definition_example": "животинско царство"
+			},
+			{
+				"definition_name": "Област во која царува нешто",
+				"definition_example": "во царството на орлите"
+			}
+		]
+	},
+
+	{
+		"word": "царува несв.",
+		"name": "царува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Цар е, владее, управува царство, држава",
+				"definition_example": "Кога царувал цар Константин"
+			},
+			{
+				"definition_name": "Живее како цар, ја потчинува околината на својата волја, на своето влијание",
+				"definition_example": "Таму царувал Марко Крале"
+			},
+			{
+				"definition_name": "(само  л) владее",
+				"definition_example": "Царува длабока тишина"
+			}
+		]
+	},
+
+	{
+		"word": "царување ср.",
+		"name": "царување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Владеење на царот",
+				"definition_example": "Царувањето на цар Самоил"
+			},
+			{
+				"definition_name": "Времето во текот на кое царува некој",
+				"definition_example": "Во почетокот на неговото царување"
+			}
+		]
+	},
+
+	{
+		"word": "царче ср.",
+		"name": "царче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цар",
+				"definition_example": "Родила царче"
+			}
+		]
+	},
+
+	{
+		"word": "царчина ж.",
+		"name": "царчина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "царштина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "царштина ж.",
+		"name": "царштина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "царство",
+				"definition_example": "Во нашава царштина"
+			},
+			{
+				"definition_name": "царска власт",
+				"definition_example": "Му дојде царштината негова"
+			},
+			{
+				"definition_name": "данок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цацар м.",
+		"name": "цацар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид ситен грав со овални долгнавести зрна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цацка несв.",
+		"name": "цацка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За дрва - ситни, сече на ситни парчиња",
+				"definition_example": "Цел ден цацкаше дрва"
+			},
+			{
+				"definition_name": "За месо, кромид - ситни, дроби",
+				"definition_example": "Го цацкаше месото"
+			}
+		]
+	},
+
+	{
+		"word": "цацкање ср.",
+		"name": "цацкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цепење, ситнење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "сечкање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цацко м.",
+		"name": "цацко",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ѓавол, враг, сатана",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цванцик м.",
+		"name": "цванцик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Стара австриска пара",
+				"definition_example": "Имаше само неколку цванцика"
+			},
+			{
+				"definition_name": "кепец, џуџе",
+				"definition_example": "Види го каков цванцик"
+			}
+		]
+	},
+
+	{
+		"word": "цвекло ср.",
+		"name": "цвекло",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Едногодишно градинарско растение со големи долгнавести листови и тркалезен, сочен, црвен корен што се користи во исхраната на човекот",
+				"definition_example": "сок од цвекло"
+			}
+		]
+	},
+
+	{
+		"word": "цвекне св.",
+		"name": "цвекне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "(непреод) Пушти метален звук",
+				"definition_example": "(нар поез) Чевли тропнале, перја цвекнале"
+			}
+		]
+	},
+
+	{
+		"word": "цвет м.",
+		"name": "цвет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Дел од растение, органот за размножување",
+				"definition_example": "Окапа цветот"
+			},
+			{
+				"definition_name": "Обично членувано - одбрани луѓе од извесно општество, средина; подобриот дел на нешто",
+				"definition_example": "Цветот на интелигенцијата"
+			},
+			{
+				"definition_name": "Најубавото време од животот",
+				"definition_example": "Во цветот на младоста, годините, силите"
+			}
+		]
+	},
+
+	{
+		"word": "цвета несв.",
+		"name": "цвета",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пушта или развива цветови",
+				"definition_example": "Црешата цвета"
+			},
+			{
+				"definition_name": "Се развива, напредува, е во подем",
+				"definition_example": "Економијата цвета"
+			}
+		]
+	},
+
+	{
+		"word": "цветеж м.",
+		"name": "цветеж",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цветање",
+				"definition_example": "Во пролетен цветеж"
+			}
+		]
+	},
+
+	{
+		"word": "цветен прид.",
+		"name": "цветен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цвет",
+				"definition_example": "Цветен прав"
+			},
+			{
+				"definition_name": "Кој е насаден со цвеќиња",
+				"definition_example": "Цветна ливада"
+			},
+			{
+				"definition_name": "Во врска со Цветници",
+				"definition_example": "Цветна недела"
+			}
+		]
+	},
+
+	{
+		"word": "цветење ср.",
+		"name": "цветење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвета",
+				"definition_example": "Време на цветење"
+			}
+		]
+	},
+
+	{
+		"word": "цветец м.",
+		"name": "цветец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цвет",
+				"definition_example": "Расте цветец мал"
+			}
+		]
+	},
+
+	{
+		"word": "цветне св.",
+		"name": "цветне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "За растение - пушти цвет",
+				"definition_example": "Тутун и памук цветнаа таму"
+			},
+			{
+				"definition_name": "разубави, расцвета",
+				"definition_example": "Во дните нови животот цветна"
+			}
+		]
+	},
+
+	{
+		"word": "цветник м.",
+		"name": "цветник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цвеќник, цвеќарник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Цветници само мн.",
+		"name": "Цветници",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Цветна недела, неделата пред Велигден",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цветнува несв.",
+		"name": "цветнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цветне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цветоносен прид.",
+		"name": "цветоносен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има цвет",
+				"definition_example": "Цветоносни растенија"
+			}
+		]
+	},
+
+	{
+		"word": "цветче ср.",
+		"name": "цветче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвет, цветец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќар м.",
+		"name": "цвеќар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што одгледува или продава цвеќиња; лице што сака цвеќиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќарка ж.",
+		"name": "цвеќарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена цвеќар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќарник м.",
+		"name": "цвеќарник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Градина во која се одгледуваат цвеќиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќарница ж.",
+		"name": "цвеќарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Дуќан во кој се продаваат цвеќиња",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "цвеќарник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќарски прид.",
+		"name": "цвеќарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цвеќар и на цвеќарство",
+				"definition_example": "цвеќарски занает"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќарство ср.",
+		"name": "цвеќарство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Одгледување и трговија со цвеќиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќе ср.",
+		"name": "цвеќе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Растение со лисја и цвет",
+				"definition_example": "Во градината имаше засадено многу цвеќиња"
+			},
+			{
+				"definition_name": "Рачка со цвет од такво растение",
+				"definition_example": "венец од цвеќиња"
+			},
+			{
+				"definition_name": "(само едн) Нешто споредбено убаво",
+				"definition_example": "Сега таа му се виде цвеќе"
+			},
+			{
+				"definition_name": "женска месечница",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "сипаници",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќенце ср.",
+		"name": "цвеќенце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвеќе",
+				"definition_example": "Дај ми едно цвеќенце"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќник м.",
+		"name": "цвеќник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цвеќарник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвеќуле ср.",
+		"name": "цвеќуле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвеќе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвик м.",
+		"name": "цвик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Течност што се исцедува од потсирено млеко, од сирење, урда; преварена и прецедена сурутка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвикери само мн.",
+		"name": "цвикери",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Очила без странични рамки коишто се прицврстуваат на горниот дел на носот",
+				"definition_example": "Мажите носеа цвикери додека жените користеа лорнети"
+			},
+			{
+				"definition_name": "очила",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвикне св.",
+		"name": "цвикне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "(непреод) Се слушне метален звук",
+				"definition_example": "Герданот цвикна"
+			},
+			{
+				"definition_name": "Испушти висок тон",
+				"definition_example": "Прасето цвикна"
+			},
+			{
+				"definition_name": "Пресече жица или со стискање изгаси цигара",
+				"definition_example": "Го цвикна догорчето"
+			}
+		]
+	},
+
+	{
+		"word": "цвикнува несв.",
+		"name": "цвикнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "ѕвекнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвиковина ж.",
+		"name": "цвиковина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нешто што е како цвик, што мириса на цвик",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвилба ж.",
+		"name": "цвилба",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цвили",
+				"definition_example": "Каква е цвилба по поле?"
+			}
+		]
+	},
+
+	{
+		"word": "цвилеж м.",
+		"name": "цвилеж",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цвилба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвилење ср.",
+		"name": "цвилење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвили",
+				"definition_example": "Цвилењето на коњот"
+			}
+		]
+	},
+
+	{
+		"word": "цвили несв.",
+		"name": "цвили",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За коњ - издава жален звук",
+				"definition_example": "Коњот цвили, синко, за тебе"
+			},
+			{
+				"definition_name": "За некои птици - пишти, писка",
+				"definition_example": "Во гнездото цвилеа малите орлиња"
+			},
+			{
+				"definition_name": "За човек - жали, тагува",
+				"definition_example": "Јунак ми цвили во гора"
+			},
+			{
+				"definition_name": "За змија - пишти",
+				"definition_example": "Цвили змија во темна зандана"
+			}
+		]
+	},
+
+	{
+		"word": "цвилнува несв.",
+		"name": "цвилнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цвилне",
+				"definition_example": "Цвилнува коњот и го опоменува господарот"
+			}
+		]
+	},
+
+	{
+		"word": "цвилнување ср.",
+		"name": "цвилнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвилнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвителен прид.",
+		"name": "цвителен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "кој свети, кој светка",
+				"definition_example": "Зацвилела ми, зацвилела ми / цвителна ѕвезда"
+			}
+		]
+	},
+
+	{
+		"word": "цвитен прид.",
+		"name": "цвитен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "светол",
+				"definition_example": "цвитно руво"
+			}
+		]
+	},
+
+	{
+		"word": "цвитка ж.",
+		"name": "цвитка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Инсект што свети на темно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвитлење ср.",
+		"name": "цвитлење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "светлење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвитли несв.",
+		"name": "цвитли",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "светли, светлење",
+				"definition_example": "Цвитлеше облеката на него"
+			}
+		]
+	},
+
+	{
+		"word": "цвитлив прид.",
+		"name": "цвитлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "светол, светкав",
+				"definition_example": "Имаше еден крст цвитлив"
+			}
+		]
+	},
+
+	{
+		"word": "цвичење ср.",
+		"name": "цвичење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "За прасе, куче - жален остар вик поради глад, страв, ќотек и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвичи несв.",
+		"name": "цвичи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За прасе, куче - издава жален остар вик поради глад, страв",
+				"definition_example": "Цвичи кучето"
+			}
+		]
+	},
+
+	{
+		"word": "цволење ср.",
+		"name": "цволење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ртење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цволи несв.",
+		"name": "цволи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "никнува, 'рти",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цволка ж.",
+		"name": "цволка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "'ркулец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврка несв.",
+		"name": "цврка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цвркоти",
+				"definition_example": "Врабец цврка на гранка"
+			}
+		]
+	},
+
+	{
+		"word": "цвркање ср.",
+		"name": "цвркање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цврка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвркот м.",
+		"name": "цвркот",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Цвркотење, цвркање, цврчење на многу птици",
+				"definition_example": "врабечки цвркот"
+			}
+		]
+	},
+
+	{
+		"word": "цвркотен прид.",
+		"name": "цвркотен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цвркот",
+				"definition_example": "Цвркотни пилци"
+			}
+		]
+	},
+
+	{
+		"word": "цвркотење ср.",
+		"name": "цвркотење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цвркоти",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цвркоти несв.",
+		"name": "цвркоти",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За врапчиња и некои други птици - издава цвркот",
+				"definition_example": "Врапчињата едностојно цвркотеа"
+			},
+			{
+				"definition_name": "се радува",
+				"definition_example": "Цвркоти срце во Ленкина град"
+			}
+		]
+	},
+
+	{
+		"word": "цвркотник м.",
+		"name": "цвркотник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Птица која цвркоти",
+				"definition_example": "Над нив шират цвркотници лет"
+			}
+		]
+	},
+
+	{
+		"word": "цвркотница ж.",
+		"name": "цвркотница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цвркот, птичји шум",
+				"definition_example": "Се слушаше цвркотница"
+			}
+		]
+	},
+
+	{
+		"word": "цврст прид.",
+		"name": "цврст",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "тврд, јак, полн",
+				"definition_example": "од цврсто дрво"
+			},
+			{
+				"definition_name": "стабилен, тврд",
+				"definition_example": "цврсти тела"
+			},
+			{
+				"definition_name": "Што не е подвижен, лабав",
+				"definition_example": "цврст стол"
+			},
+			{
+				"definition_name": "непоколеблив",
+				"definition_example": "цврста волја"
+			},
+			{
+				"definition_name": "Кој не попушта",
+				"definition_example": "цврста рака"
+			}
+		]
+	},
+
+	{
+		"word": "цврстина ж.",
+		"name": "цврстина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цврст",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврсто прил.",
+		"name": "цврсто",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "цврст",
+				"definition_example": "Врзи го, стегни го јажето цврсто"
+			}
+		]
+	},
+
+	{
+		"word": "цврцалче ср.",
+		"name": "цврцалче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Отвор на шишенце, на пагурче за ракија",
+				"definition_example": "Шишенце со цврцалче"
+			}
+		]
+	},
+
+	{
+		"word": "цврцка несв.",
+		"name": "цврцка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пие малку помалку",
+				"definition_example": "Секој ден си цврцкаше"
+			}
+		]
+	},
+
+	{
+		"word": "цврцкање ср.",
+		"name": "цврцкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пивкање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврцнат прид.",
+		"name": "цврцнат",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е малу пијан, поднапиен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврцне св.",
+		"name": "цврцне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "пивне малку",
+				"definition_example": "Цврцни една ракија"
+			}
+		]
+	},
+
+	{
+		"word": "цврцнува несв.",
+		"name": "цврцнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пие по малку",
+				"definition_example": "Си цврцнува ракија"
+			}
+		]
+	},
+
+	{
+		"word": "цврцнување ср.",
+		"name": "цврцнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пивнување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврчење ср.",
+		"name": "цврчење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "од цврчи в црцорење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цврчи несв.",
+		"name": "цврчи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цвркоти",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(за црцорец) црцори",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цевка ж.",
+		"name": "цевка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Шуплив градежен или машински елемент за пренос на материи во течна или гасовита состојба или за користење како структурен елемент",
+				"definition_example": "цевката на револвер, топ, пушка"
+			},
+			{
+				"definition_name": "(шуплив цилиндар) Калем, обично од дрво, за мотање преѓа при ткаење",
+				"definition_example": "Моташе цевки"
+			}
+		]
+	},
+
+	{
+		"word": "цевковод м.",
+		"name": "цевковод",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Мрежа од цевки што служи за транспорт на течности или гасови",
+				"definition_example": "Обезбедување одобрение за градба на цевководот"
+			}
+		]
+	},
+
+	{
+		"word": "цевче ср.",
+		"name": "цевче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цевка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цегер м.",
+		"name": "цегер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Торба за носење животни намирници",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цедалка ж.",
+		"name": "цедалка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Прибор со мрежа за прецедување, на пример, чај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеде ср.",
+		"name": "цеде",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Плочка од метализирана пластика на која се пишуваат информации со помош на ласерски зрак",
+				"definition_example": "празно цеде"
+			}
+		]
+	},
+
+	{
+		"word": "цедење ср.",
+		"name": "цедење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) цеди",
+				"definition_example": "цедење на вода"
+			}
+		]
+	},
+
+	{
+		"word": "цеди несв.",
+		"name": "цеди",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пропушта течност низ цедило за да се пречисти",
+				"definition_example": "Цеди млеко"
+			},
+			{
+				"definition_name": "Со притискање извлекува сок",
+				"definition_example": "Цеди лимон"
+			},
+			{
+				"definition_name": "Подложува на строгост, на строг избор",
+				"definition_example": "Професорот многу ги цедеше кандидатите"
+			},
+			{
+				"definition_name": "Зборува низ заби",
+				"definition_example": "Одвај ги цеди зборовите"
+			},
+			{
+				"definition_name": "(се цеди) Истечува капка по капка",
+				"definition_example": "Ракијата се цедеше во садот"
+			}
+		]
+	},
+
+	{
+		"word": "цедилка ж.",
+		"name": "цедилка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Прибор со мрежа за прецедување",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Ретко ткаено платно за процедување сирење и сл",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Четвртаста волнена ткаенина за носење деца или некаков товар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цедило ср.",
+		"name": "цедило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Домашна волнена или памучна ткаенина со која се покриваат лебовите на штицата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Прибор за цедење млеко и други течности",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цедилце ср.",
+		"name": "цедилце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цедило, цедилка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеѓ ж.",
+		"name": "цеѓ",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вода со пепел за миење садови и варење сапун",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеѓалница ж.",
+		"name": "цеѓалница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цеѓ, пепелница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цее несв.",
+		"name": "цее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "просева, отсева",
+				"definition_example": "Четири оки брашно чисто сам да го цее"
+			}
+		]
+	},
+
+	{
+		"word": "Цезар име.",
+		"name": "Цезар",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "Име на римскиот император Гај Јулиус Цезар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Титула, како дел на име, на големи владетели",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цезиум м.",
+		"name": "цезиум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Сивозелен мек метал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цекин м.",
+		"name": "цекин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Златна пара што била некогаш во циркулација во Италија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цел прид.",
+		"name": "цел",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Од кој ништо не е одземено, ненакршен",
+				"definition_example": "Лебот остана цел"
+			},
+			{
+				"definition_name": "Што не е повреден, скршен",
+				"definition_example": "Ми падна шишето и пак остана цело"
+			},
+			{
+				"definition_name": "Што е во полн состав, без исклучок; при укажување нешто многу на број, количество и сл",
+				"definition_example": "Целиот собир ги прифати неговите предлози"
+			},
+			{
+				"definition_name": "Што трае непрекинато определено време",
+				"definition_example": "Цел ден го чекаше на врата"
+			},
+			{
+				"definition_name": "Што се приближува кон вистински, суштински",
+				"definition_example": "Се разиграа гостите - цела свадба"
+			}
+		]
+	},
+
+	{
+		"word": "цел ж.",
+		"name": "цел",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нешто кон кое се стреми човек, што сака да го постигне",
+				"definition_example": "Тој имаше една цел во животот: да ги изведе на пат децата"
+			},
+			{
+				"definition_name": "намера, умисла",
+				"definition_example": "Нивната цел беше јасна: да го омаловажат успехот"
+			},
+			{
+				"definition_name": "Точка во која се нишани; точка до која треба да се стигне",
+				"definition_example": "Погоди во целта"
+			}
+		]
+	},
+
+	{
+		"word": "целволе ср.",
+		"name": "целволе",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Вештачка преѓа добиена од целулоза",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Ткаенина од оваа преѓа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целеличок прид.",
+		"name": "целеличок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "целеничок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целен прид.",
+		"name": "целен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со цел",
+				"definition_example": "целна група"
+			}
+		]
+	},
+
+	{
+		"word": "целеничок прид.",
+		"name": "целеничок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Обично во склопот: цел-целеничок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целење ср.",
+		"name": "целење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Стремење кон нешто",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "нишанење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целер м.",
+		"name": "целер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид зеленчук сличен на магдонос",
+				"definition_example": "Супа со целер"
+			}
+		]
+	},
+
+	{
+		"word": "целесообразен прид.",
+		"name": "целесообразен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој и одговара на поставената цел, кој води кон неа",
+				"definition_example": "Целесообразни мерки, постапки"
+			}
+		]
+	},
+
+	{
+		"word": "целесообразно прил.",
+		"name": "целесообразно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "целисходно",
+				"definition_example": "Средствата се користеа нај целесообразно"
+			}
+		]
+	},
+
+	{
+		"word": "целесообразност ж.",
+		"name": "целесообразност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "целисходност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целзиус м.",
+		"name": "целзиус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "единица за мерење температура (симбол: °C)",
+				"definition_example": "Денес во попладневните часови, температурата ќе се движи од  до  степени целзиусови"
+			}
+		]
+	},
+
+	{
+		"word": "цели несв.",
+		"name": "цели",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Има цел, се стреми кон некоја цел",
+				"definition_example": "Не знам што целеше со тоа"
+			},
+			{
+				"definition_name": "Управува истрел, удар",
+				"definition_example": "Целеше во групата"
+			}
+		]
+	},
+
+	{
+		"word": "целибат м.",
+		"name": "целибат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "неженство, безбрачност",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Забрана на свештениците од некои вероисповести да се женат",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целива несв.",
+		"name": "целива",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "бакнува, љуби",
+				"definition_example": "Им целива на сите рака"
+			},
+			{
+				"definition_name": "(се целива) се бакнува, се љуби",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целивање ср.",
+		"name": "целивање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) целива",
+				"definition_example": "Целивање рака"
+			}
+		]
+	},
+
+	{
+		"word": "целивка ж.",
+		"name": "целивка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "бакнеж, бацувка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целивне св.",
+		"name": "целивне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "бакне",
+				"definition_example": "(нар поез) Тој што ме мене целивна / љубен да биде до века"
+			},
+			{
+				"definition_name": "(се целивне) се бакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целивок м.",
+		"name": "целивок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "целивка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целина ж.",
+		"name": "целина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цело, целост, потполност",
+				"definition_example": "Во целина писмото сѐ уште не е дешифрирано"
+			},
+			{
+				"definition_name": "Необработена или запуштена земја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целинка ж.",
+		"name": "целинка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цело, потполно",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "лединка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целисходен прид.",
+		"name": "целисходен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "целесообразен",
+				"definition_example": "Другата страна не е заинтересирана за целисходен дијалог"
+			}
+		]
+	},
+
+	{
+		"word": "целисходно прил.",
+		"name": "целисходно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "целесообразно",
+				"definition_example": "целисходно спроведена постапка"
+			}
+		]
+	},
+
+	{
+		"word": "цело ср.",
+		"name": "цело",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Нешто единствено",
+				"definition_example": "Целиот народ е едно цело"
+			},
+			{
+				"definition_name": "Цел број",
+				"definition_example": "Едно цело и две десетти"
+			},
+			{
+				"definition_name": "Стара пара, обично продупчена (служи како украс)",
+				"definition_example": "На капата носи китка опшиена со цела"
+			}
+		]
+	},
+
+	{
+		"word": "целовечерен прид.",
+		"name": "целовечерен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој трае цела вечер",
+				"definition_example": "Целовечерен филм"
+			}
+		]
+	},
+
+	{
+		"word": "целовит прид.",
+		"name": "целовит",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е цел, во вид на целост",
+				"definition_example": "целовит територијален интегритет"
+			}
+		]
+	},
+
+	{
+		"word": "целовка ж.",
+		"name": "целовка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "целивка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целодневен прид.",
+		"name": "целодневен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој трае цел ден",
+				"definition_example": "Целодневен излет"
+			},
+			{
+				"definition_name": "Кој е створен, кој работи цел ден",
+				"definition_example": "Целодневна градинка"
+			}
+		]
+	},
+
+	{
+		"word": "целоживотен прид.",
+		"name": "целоживотен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што трае цел живот",
+				"definition_example": "целоживотна доследност"
+			}
+		]
+	},
+
+	{
+		"word": "целоком прил.",
+		"name": "целоком",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "целосно, исцело",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целокупен прид.",
+		"name": "целокупен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "севкупен",
+				"definition_example": "целокупните дела"
+			}
+		]
+	},
+
+	{
+		"word": "целокупно прил.",
+		"name": "целокупно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "севкупно",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целокупност ж.",
+		"name": "целокупност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "севкупност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целосен прид.",
+		"name": "целосен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е сеопфатен, полн, комплетен; кој се прима како една целина",
+				"definition_example": "Целосен преглед на настаните"
+			},
+			{
+				"definition_name": "завршен, оформен",
+				"definition_example": "Целосен лик"
+			}
+		]
+	},
+
+	{
+		"word": "целосно прил.",
+		"name": "целосно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "потполно, наполно, во целост",
+				"definition_example": "Извештајот беше разгледан целосно"
+			}
+		]
+	},
+
+	{
+		"word": "целосност ж.",
+		"name": "целосност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "целосен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целост ж.",
+		"name": "целост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нешто што не е разделено на делови, што претставува едно цело",
+				"definition_example": "Завршена целост"
+			},
+			{
+				"definition_name": "Својство на цел, единствен, ненакрнет",
+				"definition_example": "Територијална целост"
+			}
+		]
+	},
+
+	{
+		"word": "целофан м.",
+		"name": "целофан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тенок, проѕирен лист, како хартија, од синтетичко потекло, што не пропушта вода",
+				"definition_example": "Тогаш немаше тетрапак, ниту целофани, ниту најлон-ќеси"
+			}
+		]
+	},
+
+	{
+		"word": "целофански прид.",
+		"name": "целофански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на целофан",
+				"definition_example": "целофанска хартија"
+			}
+		]
+	},
+
+	{
+		"word": "целув м.",
+		"name": "целув",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "бакнеж",
+				"definition_example": "Јас студен целув по уста сетив"
+			}
+		]
+	},
+
+	{
+		"word": "целува несв.",
+		"name": "целува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) бацува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целувка ж.",
+		"name": "целувка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "бакнеж, бацување",
+				"definition_example": "Со целувки му го покри телото"
+			},
+			{
+				"definition_name": "Вид слатки од белки и шеќер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целулоза ж.",
+		"name": "целулоза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Материја што се добива по хемиски пат од дрвесина и стеблото на некои растенија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целулозен прид.",
+		"name": "целулозен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е направен од целулоза",
+				"definition_example": "Целулозна хартија"
+			}
+		]
+	},
+
+	{
+		"word": "целулоид м.",
+		"name": "целулоид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Пластична материја што се добива од нитроцелулоза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "целулоиден прид.",
+		"name": "целулоиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на целулоид",
+				"definition_example": "целулоидно топче"
+			}
+		]
+	},
+
+	{
+		"word": "целуне св.",
+		"name": "целуне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "(се) бакне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цементарница ж.",
+		"name": "цементарница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Фабрика за производство цемент",
+				"definition_example": "Цементариницата е најголем загадувач"
+			}
+		]
+	},
+
+	{
+		"word": "цементен прид.",
+		"name": "цементен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е направен од цемент",
+				"definition_example": "Цементен ѕид"
+			}
+		]
+	},
+
+	{
+		"word": "цементира св. и несв.",
+		"name": "цементира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Подложи, подлага на цементирање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "сврзува, сплотува",
+				"definition_example": "нашето братство е цементирано со крвта на најдобрите синови"
+			}
+		]
+	},
+
+	{
+		"word": "цементиран прид.",
+		"name": "цементиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Покриен со цемент",
+				"definition_example": "Куќа со цементиран двор"
+			}
+		]
+	},
+
+	{
+		"word": "цементирање ср.",
+		"name": "цементирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Покриен со цемент",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цена ж.",
+		"name": "цена",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вредност на нешто: стоки, имот, услуги изразена во парични единици",
+				"definition_example": "Високи и ниски цени"
+			},
+			{
+				"definition_name": "(само едн) Вредност, достоинство на нешто",
+				"definition_example": "Тие беа решени и животот немаше никаква цена за нив"
+			}
+		]
+	},
+
+	{
+		"word": "ценач м.",
+		"name": "ценач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што оценува нешто",
+				"definition_example": "Ценачи на тутунот"
+			}
+		]
+	},
+
+	{
+		"word": "ценење ср.",
+		"name": "ценење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) цени",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ценет прид.",
+		"name": "ценет",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има висока цена, вредност",
+				"definition_example": "Многу ценетата кожа на антилопата"
+			},
+			{
+				"definition_name": "Кој се одликува со своите квалитети",
+				"definition_example": "Ценетиот професор"
+			},
+			{
+				"definition_name": "Кој е многу важен, корисен; кој има големо значење",
+				"definition_example": "Ценета соработка"
+			}
+		]
+	},
+
+	{
+		"word": "ценз м.",
+		"name": "ценз",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во Стариот Рим - периодично проценување на имотот на граѓаните заради распределување во платни разреди",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Услови нужни за користење на извесни права",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цензор м.",
+		"name": "цензор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во Стариот Рим - лице што раководело со определувањето на цензот и внимавало на политичката исправност на граѓаните",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Службено лице што врши цензура",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цензорски прид.",
+		"name": "цензорски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цензор",
+				"definition_example": "Цензорски права"
+			}
+		]
+	},
+
+	{
+		"word": "цензорство ср.",
+		"name": "цензорство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "должноста на цензорот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цензура ж.",
+		"name": "цензура",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во Стариот Рим - должноста на цензорот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Државна установа што врши преглед на печатот",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Службен преглед на печат (весници, книги, филмови, пиеси)",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "контрола, проценка",
+				"definition_example": "Цензурата го забрани филмот"
+			}
+		]
+	},
+
+	{
+		"word": "цензурен прид.",
+		"name": "цензурен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цензура",
+				"definition_example": "Цензурни услови"
+			}
+		]
+	},
+
+	{
+		"word": "цензурира св. и несв.",
+		"name": "цензурира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Изврши, врши цензура над нешто",
+				"definition_example": "Во воено време се цензурираат и писмата"
+			}
+		]
+	},
+
+	{
+		"word": "цензурирање ср.",
+		"name": "цензурирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цензурира",
+				"definition_example": "Цензурирање на поштата"
+			}
+		]
+	},
+
+	{
+		"word": "цензус м.",
+		"name": "цензус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Организирано прибирање на разни податоци кое се спроведува во една држава",
+				"definition_example": "Цензус на населението во Република Македонија"
+			},
+			{
+				"definition_name": "Услови неопходни за користење на извесни права",
+				"definition_example": "висок цензус"
+			}
+		]
+	},
+
+	{
+		"word": "цени несв.",
+		"name": "цени",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Определува цена, вредност на нешто или некого; дава оценка, проценува нешто или некого",
+				"definition_example": "Еднакво ги ценеше сите производи"
+			},
+			{
+				"definition_name": "почитува, уважува",
+				"definition_example": "Добрите дела секој ги цени"
+			},
+			{
+				"definition_name": "Најмува некого (за работа на одредено време); се договара за цена (за работа на некого или за вредност на нешто)",
+				"definition_example": "Го ценил за овчар"
+			},
+			{
+				"definition_name": "(се цени) Се најмува; се договара за цена",
+				"definition_example": "Се ценил со попот да му ги пасе говедата"
+			}
+		]
+	},
+
+	{
+		"word": "ценка несв.",
+		"name": "ценка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Се договара за цена",
+				"definition_example": "Се ценка за ситни пари"
+			}
+		]
+	},
+
+	{
+		"word": "ценкање ср.",
+		"name": "ценкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Договарање околу најниската цена",
+				"definition_example": "Без ценкање нема ќар"
+			},
+			{
+				"definition_name": "ситничарење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ценовен прид.",
+		"name": "ценовен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на цена",
+				"definition_example": "ценовно чувствителни информации"
+			}
+		]
+	},
+
+	{
+		"word": "ценовник м.",
+		"name": "ценовник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Список на стоки, услуги и сл со назначување на нивните цени",
+				"definition_example": "Ценовник на услугите"
+			}
+		]
+	},
+
+	{
+		"word": "ценост ж.",
+		"name": "ценост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вредност, драгоценост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центар м.",
+		"name": "центар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Точка еднакво оддалечена од сите точки на кружницата; средишна точка на некои односи во тело",
+				"definition_example": "центар на круг"
+			},
+			{
+				"definition_name": "Среден дел, средина на нешто; средишен, обично најважен дел на населба",
+				"definition_example": "во центарот на градот"
+			},
+			{
+				"definition_name": "Места каде што е сосредоточена некаква дејност, каде што се наоѓа некое раководство, управа",
+				"definition_example": "Центарот на востанието беше во Босна"
+			},
+			{
+				"definition_name": "Раководен орган на организација, управа и сл",
+				"definition_example": "Директиви идеа од центарот"
+			},
+			{
+				"definition_name": "Група ќелии што регулираат некоја функција на организмот",
+				"definition_example": "центар на рамнотежата"
+			},
+			{
+				"definition_name": "Како составен дел на називот на некои установи",
+				"definition_example": "воздухопловен центар"
+			},
+			{
+				"definition_name": "Во демократските партии и парламенти - група што се наоѓа меѓу десната и левата страна",
+				"definition_example": "влада на левиот центар"
+			},
+			{
+				"definition_name": "Играч што игра во средината и го организира нападот во некои спортови",
+				"definition_example": "Центарот на гостинската екипа играше многу добро"
+			}
+		]
+	},
+
+	{
+		"word": "центарфор м.",
+		"name": "центарфор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Централен играч во нападот",
+				"definition_example": "(разг) Игра со повлечен центарфор"
+			}
+		]
+	},
+
+	{
+		"word": "центархалф м.",
+		"name": "центархалф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Играч што игра во средина и ја организира одбраната во некои спортови",
+				"definition_example": "(разг) Игра со два центархалфа"
+			}
+		]
+	},
+
+	{
+		"word": "центаршут м.",
+		"name": "центаршут",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Подавање на топката од крило во средината",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центиметар м.",
+		"name": "центиметар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "сантиметар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "централа ж.",
+		"name": "централа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Средишна служба на установа, претпријатие",
+				"definition_example": "Централата на фирмата беше во Скопје"
+			},
+			{
+				"definition_name": "електрична централа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Апаратура на телефонска станица",
+				"definition_example": "телефонска централа"
+			},
+			{
+				"definition_name": "Зграда во која се сместени такви апаратури",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "централен прид.",
+		"name": "централен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се наоѓа во центарот на нешто; што е расположен во центарот на нешто",
+				"definition_example": "централна точка"
+			},
+			{
+				"definition_name": "најважен, основен, суштествен",
+				"definition_example": "Тој заема централно место го нашиот политички живот"
+			},
+			{
+				"definition_name": "главен, раководен",
+				"definition_example": "централна власт"
+			},
+			{
+				"definition_name": "Што се извршува од центар или централа",
+				"definition_example": "централно греење"
+			}
+		]
+	},
+
+	{
+		"word": "централизам м.",
+		"name": "централизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Систем на управување или организиција при кој месните органи им се потчинети на централните и се раководат од нив",
+				"definition_example": "(разг) демократски централизам"
+			}
+		]
+	},
+
+	{
+		"word": "централизација ж.",
+		"name": "централизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сосредоточување на голем дел од државните функции во централните установи",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Сосредоточување на раководството или управата во едно место, во едно лице",
+				"definition_example": "Централизација на раководењето, на управувањето"
+			}
+		]
+	},
+
+	{
+		"word": "централизира св. и несв.",
+		"name": "централизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Сосредоточи, сосредоточува во еден центар; обедини, обединува во едно место или во едни раце",
+				"definition_example": "Ја централизираат управата"
+			}
+		]
+	},
+
+	{
+		"word": "централизиран прид.",
+		"name": "централизиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е сосредотечен во рацете на централната власт",
+				"definition_example": "централизирано стопанство"
+			}
+		]
+	},
+
+	{
+		"word": "централизирање ср.",
+		"name": "централизирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "централизира",
+				"definition_example": "Централизирање на власта"
+			}
+		]
+	},
+
+	{
+		"word": "централист м.",
+		"name": "централист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Приврзаник на централизмот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "централистички прид.",
+		"name": "централистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на централизам",
+				"definition_example": "Централистичко раководење"
+			}
+		]
+	},
+
+	{
+		"word": "центризам м.",
+		"name": "центризам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "умерено политичко движење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центрипетален прид.",
+		"name": "центрипетален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е насочен за време на ротационо движење кон центарот",
+				"definition_example": "(разг) центрипетална сила"
+			}
+		]
+	},
+
+	{
+		"word": "центрира св. и несв.",
+		"name": "центрира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Постави, поставува на една заедничка оска центрите на некое тело; приведе, приведува делови од нешто во правилна положба, во правилен однос кон други делови",
+				"definition_example": "Сега веќе ги центрираше инструментите"
+			},
+			{
+				"definition_name": "Нафрли, нафрлува топка од крило во средината на игралиштето, пред гол",
+				"definition_example": "Крилото лесно го минуваше бекот и убаво центрираше"
+			}
+		]
+	},
+
+	{
+		"word": "центрирање ср.",
+		"name": "центрирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "центрира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центрифуга ж.",
+		"name": "центрифуга",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Апарат за механичко разделување на некоја смеса, под дејството на центрифугалната сила",
+				"definition_example": "Медот сѐ уште е во центрифугата"
+			}
+		]
+	},
+
+	{
+		"word": "центрифугален прид.",
+		"name": "центрифугален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е насочен за време на движење од центарот кон периферијата",
+				"definition_example": "центрифугална машина"
+			}
+		]
+	},
+
+	{
+		"word": "центрифугира св. и несв.",
+		"name": "центрифугира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Цеди со центрифуга",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центро ср.",
+		"name": "центро",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "центар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центрумаш м.",
+		"name": "центрумаш",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Приврзаник на центар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центурија ж.",
+		"name": "центурија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Во Стариот Рим - војнички одред сд  луѓе",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во Стариот Рим - група граѓани разделени според имотниот ценз",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "центурион м.",
+		"name": "центурион",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "командир на центурија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ценување ср.",
+		"name": "ценување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "главување, пазарување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цењава несв.",
+		"name": "цењава",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "ценува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеп м.",
+		"name": "цеп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цепнатина",
+				"definition_example": "Ѕиркаше низ цеповите на стражарницата"
+			},
+			{
+				"definition_name": "Отвор на облеката, обично исечено место",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цепаница ж.",
+		"name": "цепаница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цепеница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цепач м.",
+		"name": "цепач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што се занимава со цепење дрва",
+				"definition_example": "Цепач на дрва"
+			}
+		]
+	},
+
+	{
+		"word": "цепелин м.",
+		"name": "цепелин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Голем апарат за летање со труп наполнет со гас полесен од воздухот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цепеница ж.",
+		"name": "цепеница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Големо расцепено дрво за горење",
+				"definition_example": "Во визбата имаше цел куп цепеници"
+			},
+			{
+				"definition_name": "Глупаво, неизделкано суштество",
+				"definition_example": "Цепеница беше и цепеница си остана"
+			},
+			{
+				"definition_name": "високо, несмасно суштество",
+				"definition_example": "Види го колкава цепеница"
+			}
+		]
+	},
+
+	{
+		"word": "цепење ср.",
+		"name": "цепење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) цепи",
+				"definition_example": "цепење дрва"
+			}
+		]
+	},
+
+	{
+		"word": "цепи несв.",
+		"name": "цепи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Сече дрво по должината",
+				"definition_example": "Цел ден дрва цепевме"
+			},
+			{
+				"definition_name": "За некои плодови - кине по половината, обично за сушење",
+				"definition_example": "Децата цепеа сливи и ги носеа да се сушат за зима"
+			},
+			{
+				"definition_name": "Кине, дере ткаенина, книга",
+				"definition_example": "Ова платно не мора да се сече, убаво се цепи"
+			},
+			{
+				"definition_name": "Прави бразда по вода, земја",
+				"definition_example": "Коработ ги цепеше мирните води на езерото"
+			},
+			{
+				"definition_name": "За звук - го реже воздухот",
+				"definition_example": "Револверски истрели одвреме-навреме ја цепеа ноќта"
+			},
+			{
+				"definition_name": "Разединува, руши единство на организација, партија и сл",
+				"definition_example": "Несогласиците ја цепеа партијата"
+			},
+			{
+				"definition_name": "(се цепи) Лесно се сече, се расцепува",
+				"definition_example": "Платното на средината се цепеше"
+			},
+			{
+				"definition_name": "(се цепи) се разединува",
+				"definition_example": "Партијата се цепеше на помали групи"
+			}
+		]
+	},
+
+	{
+		"word": "цепивлакно ср.",
+		"name": "цепивлакно",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Лице што испитува до ситници, што работи и неважни, нешта, педант, ситничар",
+				"definition_example": "Тој беше познат како голем цепивлакно"
+			}
+		]
+	},
+
+	{
+		"word": "цепка ж.",
+		"name": "цепка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цеп",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "смешка, шега",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цепка несв.",
+		"name": "цепка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Цепи на ситни парчиња, на ситни делови",
+				"definition_example": "Цепка дрва"
+			},
+			{
+				"definition_name": "(се цепка) Се цепи на ситни делови, се дели",
+				"definition_example": "Лесно се цепкаат дрвата"
+			},
+			{
+				"definition_name": "(се цепка) се дели",
+				"definition_example": "Само се цепкаме на групи"
+			}
+		]
+	},
+
+	{
+		"word": "цепкање ср.",
+		"name": "цепкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) цепка",
+				"definition_example": "цепкање дрва"
+			}
+		]
+	},
+
+	{
+		"word": "цеплив прид.",
+		"name": "цеплив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој може да се цепи",
+				"definition_example": "лесно цепливо дрво"
+			}
+		]
+	},
+
+	{
+		"word": "цепливост ж.",
+		"name": "цепливост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цеплив",
+				"definition_example": "цепливоста на кристалите"
+			}
+		]
+	},
+
+	{
+		"word": "цепнатина ж.",
+		"name": "цепнатина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тесен а долг отвор во нешто направен со цепење",
+				"definition_example": "мала цепнатина"
+			}
+		]
+	},
+
+	{
+		"word": "цепне св.",
+		"name": "цепне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Цепи еднаш или неколку пати по еднаш",
+				"definition_example": "Цепни малу дрва"
+			}
+		]
+	},
+
+	{
+		"word": "цепнува несв.",
+		"name": "цепнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цепне",
+				"definition_example": "Се симинаше во визбата и цепнуваше по некое дрво"
+			}
+		]
+	},
+
+	{
+		"word": "цепутка ж.",
+		"name": "цепутка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цепнатина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "процеп, пукнатина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "женски полов орган",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цер м.",
+		"name": "цер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "вид даб",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "средство за лекување",
+				"definition_example": "За неа веќе цер нема"
+			}
+		]
+	},
+
+	{
+		"word": "церада ж.",
+		"name": "церада",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "восочно платно",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Облека на поморци што не пропушта вода",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Навлака на коли заради заштита од лошо време",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "церга ж.",
+		"name": "церга",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ѕевгар",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "черга",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "церебрален прид.",
+		"name": "церебрален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со мозокот",
+				"definition_example": "церебрална парализа"
+			}
+		]
+	},
+
+	{
+		"word": "церемонија ж.",
+		"name": "церемонија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Установен ред при некои обреди; свечен акт",
+				"definition_example": "Погребна церемонија"
+			},
+			{
+				"definition_name": "(обично во мн) Условности во држење, обраќање карактеристични за церемонијален човек",
+				"definition_example": "Тој беше познат како човек од акција, кој не ги сака многу церемониите"
+			}
+		]
+	},
+
+	{
+		"word": "церемонијален прид.",
+		"name": "церемонијален",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на церемонијал",
+				"definition_example": "Церемонијален марш"
+			},
+			{
+				"definition_name": "Кој се извршува по определен церемонијал",
+				"definition_example": "Церемонијална средба"
+			},
+			{
+				"definition_name": "Претерано учтив, кој се држи строго до церемониите",
+				"definition_example": "Тој беше многу церемонијален во своите односи со луѓето"
+			}
+		]
+	},
+
+	{
+		"word": "церемонијал-мајстор м.",
+		"name": "церемонијал-мајстор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што раководи со церемониите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "церемонијално прил.",
+		"name": "церемонијално",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "церемонијален",
+				"definition_example": "Тој се држеше многу церемонијално"
+			}
+		]
+	},
+
+	{
+		"word": "церемонијалност ж.",
+		"name": "церемонијалност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "церемонијален",
+				"definition_example": "Церемонијалност на пречекот"
+			}
+		]
+	},
+
+	{
+		"word": "церење ср.",
+		"name": "церење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "смеење",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "кезење",
+				"definition_example": "в клештење"
+			},
+			{
+				"definition_name": "лекување",
+				"definition_example": "Церење рани"
+			}
+		]
+	},
+
+	{
+		"word": "цери несв.",
+		"name": "цери",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "лечи, лекува",
+				"definition_example": "Цери тешки рани"
+			},
+			{
+				"definition_name": "(се цери) се лечи",
+				"definition_example": "Мораше да се цери самата"
+			},
+			{
+				"definition_name": "(се цери) се смее",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(се цери) се кези, се клешти",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "церика ж.",
+		"name": "церика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "церово дрво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цериум м.",
+		"name": "цериум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Хемиски елемент, мек сребрест метал",
+				"definition_example": "На Земјата има повеќе цериум отколку бакар"
+			}
+		]
+	},
+
+	{
+		"word": "церов прид.",
+		"name": "церов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е од цер",
+				"definition_example": "Дрво церово бесплодно"
+			}
+		]
+	},
+
+	{
+		"word": "церовача ж.",
+		"name": "церовача",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лубеница со тврда и дебела кора",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цесар м.",
+		"name": "цесар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цесија ж.",
+		"name": "цесија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Отстапување на права и обврски од страна на кредитор на трето лице",
+				"definition_example": "Тие ќе мора да прават цесија со неплатените фактури"
+			}
+		]
+	},
+
+	{
+		"word": "цетка м.",
+		"name": "цетка",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Прскалка за поливање цвеќе",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цех м.",
+		"name": "цех",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во феудализмот - сталешка организација на занаетчии од една струка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Одделение во фабрика, во комбинат",
+				"definition_example": "Чевларскиот цех"
+			},
+			{
+				"definition_name": "Сметка на трошокот во кафеана, ресторан",
+				"definition_example": "Направија голем цех"
+			}
+		]
+	},
+
+	{
+		"word": "цеховски прид.",
+		"name": "цеховски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој са однесува на цех",
+				"definition_example": "Цеховски организации"
+			},
+			{
+				"definition_name": "Затворен во пределите на својата група, професија и сл",
+				"definition_example": "Цеховски интереси"
+			}
+		]
+	},
+
+	{
+		"word": "цеца несв.",
+		"name": "цеца",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "матка, матосува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеца ж.",
+		"name": "цеца",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Обраќање кон постара сестра, дада, сестричка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цецање ср.",
+		"name": "цецање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "маткање, матосување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеце ж.",
+		"name": "цеце",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Обично во составот мувата цеце - африканска мува што ја пренесува болеста спиење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цеце-мува ж.",
+		"name": "цеце-мува",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цеце",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цибрина ж.",
+		"name": "цибрина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Чисто, јасно, прозрачно небо; многу студено време",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивил м.",
+		"name": "цивил",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "граѓанин, граѓанско лице",
+				"definition_example": "Имаше само неколку цивили"
+			},
+			{
+				"definition_name": "Граѓанска состојба, спротивно на војничка",
+				"definition_example": "Во војската е друг редот, не е како во цивилот"
+			},
+			{
+				"definition_name": "граѓанска облека",
+				"definition_example": "Беше во цивил"
+			},
+			{
+				"definition_name": "граѓанско право",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилен прид.",
+		"name": "цивилен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Граѓански, кој не носи униформа",
+				"definition_example": "(разг) Цивилен брак"
+			},
+			{
+				"definition_name": "За облека - што не е униформа",
+				"definition_example": "Цивилна облека"
+			},
+			{
+				"definition_name": "Во правото - кој се однесува на општото граѓанско право",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизатор м.",
+		"name": "цивилизатор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што шири цивилизација; ироничен назив за колонизатоpи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизација ж.",
+		"name": "цивилизација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Степен на општествениот развој и на материјалната култура; современа култура, просвета",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизациски прид.",
+		"name": "цивилизациски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со цивилизација",
+				"definition_example": "Трајната определеност за вредностите на парламентарната демократија и цивилизациското припаѓање кон Европа"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизира св. и несв.",
+		"name": "цивилизира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Направи, прави некого цивилизиран или поцивилизиран",
+				"definition_example": "Требаше да го цивилизираат месното население"
+			},
+			{
+				"definition_name": "(се цивилизира) Стане, станува цивилизиран",
+				"definition_example": "Племињата брзо се цивилизираа"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизиран прид.",
+		"name": "цивилизиран",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "културен, образуван",
+				"definition_example": "цивилизиран човек"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизираност ж.",
+		"name": "цивилизираност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цивилизиран",
+				"definition_example": "Цивилизираноста на луѓето"
+			}
+		]
+	},
+
+	{
+		"word": "цивилизирање ср.",
+		"name": "цивилизирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) цивилизира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилист м.",
+		"name": "цивилист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист по граѓанско право",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивилистика ж.",
+		"name": "цивилистика",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Наука по граѓанското право",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цивка несв.",
+		"name": "цивка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За пилиња - издава глас ци-циу",
+				"definition_example": "Пилето цивка"
+			},
+			{
+				"definition_name": "За глувци - издава глас ци-циу",
+				"definition_example": "Глувците цивкаат"
+			}
+		]
+	},
+
+	{
+		"word": "цивкав прид.",
+		"name": "цивкав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што цивка",
+				"definition_example": "цивкави кутриња"
+			}
+		]
+	},
+
+	{
+		"word": "цивкање ср.",
+		"name": "цивкање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цивка",
+				"definition_example": "птичје цивкање"
+			}
+		]
+	},
+
+	{
+		"word": "Циганин м.",
+		"name": "Циганин",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Погрден назив за Ром",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигански прид.",
+		"name": "цигански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што му припаѓа на Циганин",
+				"definition_example": "цигански коњ"
+			},
+			{
+				"definition_name": "Во кој живеат Цигани",
+				"definition_example": "циганско маало"
+			},
+			{
+				"definition_name": "Што му е својствен на Циганин",
+				"definition_example": "цигански живот"
+			},
+			{
+				"definition_name": "Недобро, некултурно; на цигански начин",
+				"definition_example": "Живеат цигански"
+			}
+		]
+	},
+
+	{
+		"word": "циганче ср.",
+		"name": "циганче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Мала темносива појна птица слична на врапче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циганчење ср.",
+		"name": "циганчење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) циганчи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циганчи несв.",
+		"name": "циганчи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пројавува скржавост",
+				"definition_example": "Се циганчи за една банка"
+			}
+		]
+	},
+
+	{
+		"word": "циганштија ж.",
+		"name": "циганштија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "недолично однесување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циганштилак м.",
+		"name": "циганштилак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "ситничава работа, скржавост",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигара ж.",
+		"name": "цигара",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тутун во обработена форма за пушење",
+				"definition_example": "Запали цигара"
+			}
+		]
+	},
+
+	{
+		"word": "цигаралак м.",
+		"name": "цигаралак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "чибук",
+				"definition_example": "Пушеше со цигаралак"
+			}
+		]
+	},
+
+	{
+		"word": "цигаре ср.",
+		"name": "цигаре",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цигара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигарче ср.",
+		"name": "цигарче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цигара",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигла ж.",
+		"name": "цигла",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "тула",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циглар м.",
+		"name": "циглар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Производител на цигли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигларница ж.",
+		"name": "цигларница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Фабрика за цигли, печка за печење цигли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигларство ср.",
+		"name": "цигларство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "производство на цигли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигу-лигу изв.",
+		"name": "цигу-лигу",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Подражавање на звук од цигулка, од виолина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигулина ж.",
+		"name": "цигулина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Детска играчка од пченкарушка, импровизација на виолина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цигулка ж.",
+		"name": "цигулка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "виолина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цијан м.",
+		"name": "цијан",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Безбоен отровен гас, соединение на јагленород со азот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цијанид м.",
+		"name": "цијанид",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Многу силен отров",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цијанкалиум м.",
+		"name": "цијанкалиум",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Многу силен отров, соединение на цијан со калиум",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цијаноза ж.",
+		"name": "цијаноза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Сина обоеност на кожата и на усните од студ, алкохолизам и од некои болести",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цика несв.",
+		"name": "цика",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цикне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цикање ср.",
+		"name": "цикање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "пискање, врискање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циклама ж.",
+		"name": "циклама",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Зимско цвеќе со убава миризба",
+				"definition_example": "диви циклами"
+			},
+			{
+				"definition_name": "Нијанса на боја според цветот на циклама",
+				"definition_example": "хоризонт со боја на циклама"
+			}
+		]
+	},
+
+	{
+		"word": "цикличен прид.",
+		"name": "цикличен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се извршува на циклуси, кружен",
+				"definition_example": "Цикличен развиток"
+			},
+			{
+				"definition_name": "Кој претставува циклус",
+				"definition_example": "Циклични музички форми"
+			}
+		]
+	},
+
+	{
+		"word": "циклички прид.",
+		"name": "циклички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "цикличен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цикличност ж.",
+		"name": "цикличност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цикличен",
+				"definition_example": "Цикличноста на појавите"
+			}
+		]
+	},
+
+	{
+		"word": "циклон м.",
+		"name": "циклон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во метеорологијата - виорно движење на атмосферата",
+				"definition_example": "циклони и антициклони"
+			}
+		]
+	},
+
+	{
+		"word": "циклонски прид.",
+		"name": "циклонски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со циклон",
+				"definition_example": "циклонски промени"
+			}
+		]
+	},
+
+	{
+		"word": "циклостил м.",
+		"name": "циклостил",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Направа за умножување на текстови",
+				"definition_example": "Материјалите беа отпечатени на циклостил"
+			}
+		]
+	},
+
+	{
+		"word": "циклотрон м.",
+		"name": "циклотрон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "забрзувач на честички",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циклус м.",
+		"name": "циклус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Целокупност на разни појави, работи, процеси што прават затворен круг на развитокот на нешто во определен период",
+				"definition_example": "производствен циклус"
+			},
+			{
+				"definition_name": "Збир на меѓусебно поврзани појави што се повторуваат по ист ред во определен временски период",
+				"definition_example": "Сончевиот циклус"
+			},
+			{
+				"definition_name": "Група од науки, дисциплини сврзани со некој општ принцип",
+				"definition_example": "биолошки циклус"
+			},
+			{
+				"definition_name": "Група од литературни, музички, уметнички дела од еден жанр или ред појави, дејства сврзани за некаков општ признак",
+				"definition_example": "циклуси на народни песни"
+			}
+		]
+	},
+
+	{
+		"word": "цикне св.",
+		"name": "цикне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "За птица - пушти глас ци-ци",
+				"definition_example": "Пилето цикна и летна"
+			},
+			{
+				"definition_name": "викне, писне, ревне",
+				"definition_example": "Цикна преплашено жената"
+			}
+		]
+	},
+
+	{
+		"word": "цикнува несв.",
+		"name": "цикнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цикне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цикнување ср.",
+		"name": "цикнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(глаг им) цикнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цикорија ж.",
+		"name": "цикорија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Растение од фамилијата на сложеноцветните",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Коренот на ова растение употребуван како додаток на кафе",
+				"definition_example": "Кафе со цикорија"
+			}
+		]
+	},
+
+	{
+		"word": "цикцак прил.",
+		"name": "цикцак",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "По крива линија",
+				"definition_example": "Пијаниот одеше цикцак"
+			}
+		]
+	},
+
+	{
+		"word": "цилиндричен прид.",
+		"name": "цилиндричен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има форма на цилиндар",
+				"definition_example": "Цилиндрично тело"
+			}
+		]
+	},
+
+	{
+		"word": "цилунка ж.",
+		"name": "цилунка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид сушена риба",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цимбал м.",
+		"name": "цимбал",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музички инструмент со многу жици по кои се удира со чеканчиња",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цимбалист м.",
+		"name": "цимбалист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Музичар што свири на цимбал",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цименто ср.",
+		"name": "цименто",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цемент",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цимер м.",
+		"name": "цимер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што живее заедно со други во иста просторија",
+				"definition_example": "Бевме цимери во студентскиот дом"
+			}
+		]
+	},
+
+	{
+		"word": "цимет м.",
+		"name": "цимет",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Растение од семејството на ловориките",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Кората на ова растение; се употребува како зачин на печиво",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циметов прид.",
+		"name": "циметов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цимет",
+				"definition_example": "циметово дрво"
+			}
+		]
+	},
+
+	{
+		"word": "цимолење ср.",
+		"name": "цимолење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цимоли",
+				"definition_example": "Цимолењето на детето го кинеше"
+			}
+		]
+	},
+
+	{
+		"word": "цимоли несв.",
+		"name": "цимоли",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Плаче со придушен глас",
+				"definition_example": "Што туку цимолиш!"
+			}
+		]
+	},
+
+	{
+		"word": "цимолка несв.",
+		"name": "цимолка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цимоли",
+				"definition_example": "Туку цимолка детево!"
+			}
+		]
+	},
+
+	{
+		"word": "цимури несв.",
+		"name": "цимури",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цимоли",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цингур м.",
+		"name": "цингур",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "врапче, врабeц",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинизам м.",
+		"name": "цинизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Учење на циниците",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Презрив однос кон моралот и кон секоја општествена норма",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрскост, груба подбивност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циник м.",
+		"name": "циник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Приврзаник на старогрчката школа на филозофот Антистен",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "циничен човек",
+				"definition_example": "Беше познат како голем циник"
+			}
+		]
+	},
+
+	{
+		"word": "циничен прид.",
+		"name": "циничен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој пројавува цинизам во своите односи",
+				"definition_example": "циничен човек"
+			},
+			{
+				"definition_name": "Кој содржи или изразува цинизам",
+				"definition_example": "цинична насмевка"
+			}
+		]
+	},
+
+	{
+		"word": "цинички прид.",
+		"name": "цинички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "циничен",
+				"definition_example": "Цинички забелешки"
+			}
+		]
+	},
+
+	{
+		"word": "цинично прил.",
+		"name": "цинично",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "циничен",
+				"definition_example": "Постапува цинично"
+			}
+		]
+	},
+
+	{
+		"word": "циничност ж.",
+		"name": "циничност",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "циничен",
+				"definition_example": "Циничноста на неговите постапки"
+			}
+		]
+	},
+
+	{
+		"word": "цинк м.",
+		"name": "цинк",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "метал со синкавобела боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинкари несв.",
+		"name": "цинкари",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "поткажува некого",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинквајс м.",
+		"name": "цинквајс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Бел прав; се употребува за правење бела боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинков прид.",
+		"name": "цинков",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој содржи цинк",
+				"definition_example": "Цинкови руди"
+			},
+			{
+				"definition_name": "Кој е направен од цинк",
+				"definition_example": "Цинкова труба"
+			}
+		]
+	},
+
+	{
+		"word": "цинкограф м.",
+		"name": "цинкограф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Специјалист по цинкографија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинкографски прид.",
+		"name": "цинкографски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цинкограф и цинкографија",
+				"definition_example": "Цинкографски занает"
+			}
+		]
+	},
+
+	{
+		"word": "цинкува несв.",
+		"name": "цинкува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Поминува, премачкува со цинк некоја површина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинкуван прид.",
+		"name": "цинкуван",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е поминат, премачкан со цинк",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "лажиран, маркиран",
+				"definition_example": "Цинкувани карти"
+			}
+		]
+	},
+
+	{
+		"word": "цинкување ср.",
+		"name": "цинкување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цинкува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинобер м.",
+		"name": "цинобер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Живин сулфид, минерал што се употребува за правење бои",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Вид јака црвена боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинцар м.",
+		"name": "цинцар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "скржавец",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(Цинцар) Влав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цинцарка ж.",
+		"name": "цинцарка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид тиква со дебела кора",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "(Цинцарка) жена Цинцар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ционизам м.",
+		"name": "ционизам",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Национално движење на Евреите за воспоставување на еврејска држава во Палестина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ционист м.",
+		"name": "ционист",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Приврзаник на ционизмот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ционистички прид.",
+		"name": "ционистички",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на ционизам и на ционист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ционистка ж.",
+		"name": "ционистка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена ционист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ципа ж.",
+		"name": "ципа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тенка кожичка која го дели абдоменот од тестикулите",
+				"definition_example": "Чувствуваше болки во ципите"
+			},
+			{
+				"definition_name": "мембрана",
+				"definition_example": "Мозочна ципа"
+			}
+		]
+	},
+
+	{
+		"word": "ципура ж.",
+		"name": "ципура",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Риба од Средоземното Море, позната уште од античко време",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цирада ж.",
+		"name": "цирада",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "церада",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цирка несв.",
+		"name": "цирка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За вода - тече слабо",
+				"definition_example": "Циркаше вода од кладенецот"
+			}
+		]
+	},
+
+	{
+		"word": "цирка ж.",
+		"name": "цирка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Лековито трновито растение, кинеска урма",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цирка прил.",
+		"name": "цирка",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "приближно, околу",
+				"definition_example": "Имаше цирка десет проценти"
+			}
+		]
+	},
+
+	{
+		"word": "циркање ср.",
+		"name": "циркање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(глаг им) цирка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркли само мн.",
+		"name": "циркли",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Шестар и друг прибор за цртање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркон м.",
+		"name": "циркон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "скапоцен камен",
+				"definition_example": "прстен со син циркон"
+			}
+		]
+	},
+
+	{
+		"word": "циркулар м.",
+		"name": "циркулар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Директивен распис до потчинети организациони единици и поединци, окружница",
+				"definition_example": "Циркуларот на Секретаријатот"
+			},
+			{
+				"definition_name": "Кружна пила за сечење дрва",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркуларен прид.",
+		"name": "циркуларен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на циркулар, спис кој циркулира",
+				"definition_example": "Циркуларно писмо"
+			},
+			{
+				"definition_name": "Кој се однесува на циркулар, алатка",
+				"definition_example": "Циркуларен нож"
+			}
+		]
+	},
+
+	{
+		"word": "циркулација ж.",
+		"name": "циркулација",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Кружно движење",
+				"definition_example": "Циркулацијата на крвта"
+			},
+			{
+				"definition_name": "промет, врвеж",
+				"definition_example": "Циркулацијата на новите банкноти"
+			}
+		]
+	},
+
+	{
+		"word": "циркулационен прид.",
+		"name": "циркулационен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на циркулација",
+				"definition_example": "Циркулациони хартии"
+			}
+		]
+	},
+
+	{
+		"word": "циркулирање ср.",
+		"name": "циркулирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "циркулира",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркумфлекс м.",
+		"name": "циркумфлекс",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "вид акцент",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркус м.",
+		"name": "циркус",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид театарска уметност што ја вклучува акробатиката, еквилибристиката, жонглирањето, дресирањето на животни и сл",
+				"definition_example": "Гледав циркус"
+			},
+			{
+				"definition_name": "Установа што приредува претстави од овој вид; просторија со амфитеатар за гледачи и арена",
+				"definition_example": "Стариот каменен циркус"
+			},
+			{
+				"definition_name": "Забавна глетка; непристојна викотница",
+				"definition_example": "Каков циркус е ова?"
+			}
+		]
+	},
+
+	{
+		"word": "циркусант м.",
+		"name": "циркусант",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "циркуски артист",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Човек што се држи како циркуски артист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циркуски прид.",
+		"name": "циркуски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на циркус",
+				"definition_example": "циркуски артист"
+			}
+		]
+	},
+
+	{
+		"word": "цироза ж.",
+		"name": "цироза",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Разраскување на ткивото на некој орган со нарушување на неговата функција",
+				"definition_example": "Цироза на црниот"
+			}
+		]
+	},
+
+	{
+		"word": "цирон м.",
+		"name": "цирон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "белвица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Риба белвица посолена и исушена на сонце",
+				"definition_example": "вкус на цирони"
+			}
+		]
+	},
+
+	{
+		"word": "циронка ж.",
+		"name": "циронка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цирон",
+				"definition_example": "сушени циронки"
+			}
+		]
+	},
+
+	{
+		"word": "циста ж.",
+		"name": "циста",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Меур полн со гној или сукрвица настанат обично поради ненормално зголемување на некоја жлезда",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цистерна ж.",
+		"name": "цистерна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Резервоар за вода со бетонско дно и ѕидови",
+				"definition_example": "Во цистерните немаше ни капка вода"
+			},
+			{
+				"definition_name": "Поголем резервоар, а исто така и автомобил, вагон, брод со таков резервоар за пренесување на течност",
+				"definition_example": "Цистерни ги прскаа улиците"
+			}
+		]
+	},
+
+	{
+		"word": "цистра ж.",
+		"name": "цистра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Стар жичен музички инструмент, сличен со лаута, но со рамно дно",
+				"definition_example": "Овој инструмент најверојатно е комбинација од средновековните „цистра“ или „цитара“ и арапската лејта[извор]"
+			}
+		]
+	},
+
+	{
+		"word": "цитадела ж.",
+		"name": "цитадела",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тврдина, упориште; самостојно упориште внатре во некој град или во некоја тврдина",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитат м.",
+		"name": "цитат",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Точно, буквално пренесен дел од некој текст",
+				"definition_example": "Ракописот обилуваше со цитати"
+			}
+		]
+	},
+
+	{
+		"word": "цитира св. и несв.",
+		"name": "цитира",
+		"type": "Глагол, свршен и несвршен",
+		"definitions": [
+			{
+				"definition_name": "Наведе, наведува усно или писмено нечии зборови",
+				"definition_example": "Секогаш го цитираше својот сакан учител"
+			},
+			{
+				"definition_name": "Одбележи, одбележува, спомене, споменува нешто како доказ",
+				"definition_example": "Не можеше да биде доволно само да ја цитира неговата книга"
+			}
+		]
+	},
+
+	{
+		"word": "цитирање ср.",
+		"name": "цитирање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цитира",
+				"definition_example": "цитирање напамет, наизуст"
+			}
+		]
+	},
+
+	{
+		"word": "цитоплазма ж.",
+		"name": "цитоплазма",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Протоплазмата од клетката со исклучок на јадрото",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитостатик м.",
+		"name": "цитостатик",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лек што се применува во лекувањето на малигните тумори и го спречува растењето на клетките во организмот",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитра ж.",
+		"name": "цитра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Инструмент со множество жици",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитрон м.",
+		"name": "цитрон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Суптропско овошно дрво со големи плодови",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Плод од цитрон",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитронада ж.",
+		"name": "цитронада",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Напивка, сок од цеден цитрон",
+				"definition_example": "студена цитронада"
+			}
+		]
+	},
+
+	{
+		"word": "цитрусен прид.",
+		"name": "цитрусен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа, што се однесува на цитруси",
+				"definition_example": "цитрусни растенија"
+			}
+		]
+	},
+
+	{
+		"word": "цитруси само мн.",
+		"name": "цитруси",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Општ назив за овошни дрвја со вечнозелени лисја и бели мирисливи цветови чии плодови содржат етерични масла (лимон, зелен лимон, портокал, мандарина, цитрон и др)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цитрусов прид.",
+		"name": "цитрусов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "цитрусен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циун м.",
+		"name": "циун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Чеп за бочва или каца",
+				"definition_example": "Тече низ циунот"
+			}
+		]
+	},
+
+	{
+		"word": "цифка несв.",
+		"name": "цифка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цивка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цифон м.",
+		"name": "цифон",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "сифон",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цифра ж.",
+		"name": "цифра",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Условен писмен знак за единечен број",
+				"definition_example": "Целиот лист беше покриен само со цифри"
+			},
+			{
+				"definition_name": "износ, сума, збир",
+				"definition_example": "Со таа цифра можам да се согласам"
+			}
+		]
+	},
+
+	{
+		"word": "цифрен прид.",
+		"name": "цифрен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој е означен со цифри",
+				"definition_example": "Цифрени податоци"
+			}
+		]
+	},
+
+	{
+		"word": "цифун м.",
+		"name": "цифун",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Тесна цевка низ која тече вода и сл",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долниот тесен дел на буката од воденицата за дотек на вода",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Чеп за бочва или за каца",
+				"definition_example": "отворен цифун"
+			},
+			{
+				"definition_name": "Писката на зурлата",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Тесен дел од река каде што е водата најсилна и најбрза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циц м.",
+		"name": "циц",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид памучна ткаенина со шарки",
+				"definition_example": "Фустан од циц"
+			}
+		]
+	},
+
+	{
+		"word": "циц! изв.",
+		"name": "циц!",
+		"type": "Извик",
+		"definitions": [
+			{
+				"definition_name": "Обично удвоено циц, циц! - извик со кој се вабат јариња",
+				"definition_example": "Циц, козице, на планина!"
+			}
+		]
+	},
+
+	{
+		"word": "цица ж.",
+		"name": "цица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цицка, дојка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цица несв.",
+		"name": "цица",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "За дете - смука млеко од женска града",
+				"definition_example": "Детето плаче, сака да цица"
+			},
+			{
+				"definition_name": "За некои животни, инсекти - вцицува некоја течност: вода, крв, сок со помошта на специјални органи",
+				"definition_example": "Болви и муви му ја цицаа крвта"
+			},
+			{
+				"definition_name": "За корењето на растенијата - впива сокови од земјата",
+				"definition_example": "Од пазувите на земјата цицаат хранителни сокови"
+			},
+			{
+				"definition_name": "Земе нешто в уста и го смука како цицка",
+				"definition_example": "Детето ги цица прстите"
+			},
+			{
+				"definition_name": "Нечесно користи туѓ труд",
+				"definition_example": "Разни аги и бегови го цицаа народот"
+			}
+		]
+	},
+
+	{
+		"word": "цицалка ж.",
+		"name": "цицалка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "направа за цицање",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Орган низ кој цицаат некои инсекти, мекотели, црви и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицалче ср.",
+		"name": "цицалче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Дете што уште се дои",
+				"definition_example": "Жената имаше две деца: едно седумгодишно и едно уште цицалче"
+			},
+			{
+				"definition_name": "Животно што се храни уште на цица",
+				"definition_example": "Јагне цицалче"
+			}
+		]
+	},
+
+	{
+		"word": "цицање ср.",
+		"name": "цицање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цица",
+				"definition_example": "Цицање на мајчино млеко"
+			}
+		]
+	},
+
+	{
+		"word": "цицач м.",
+		"name": "цицач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(пообично мн) Животно што ги храни своите мали со млеко",
+				"definition_example": "Цицачите се највисока класа меѓу 'рбетниците"
+			},
+			{
+				"definition_name": "(поретко) Оној што цица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицаче ср.",
+		"name": "цицаче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цицалче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицвара ж.",
+		"name": "цицвара",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Качамак со кајмак",
+				"definition_example": "На цицварата се додава кајмакот, па се меша со издробено сирење и брашно"
+			}
+		]
+	},
+
+	{
+		"word": "цице ср.",
+		"name": "цице",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цицка",
+				"definition_example": "Детето ми сака цице"
+			}
+		]
+	},
+
+	{
+		"word": "цицен прид.",
+		"name": "цицен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(кој се однесува на циц)",
+				"definition_example": "цицен фустан"
+			},
+			{
+				"definition_name": "цицни жлезди,",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицер м.",
+		"name": "цицер",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Во печатарството - висината на буквите",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Во печатарството - вид букви; колона од  типографски точки што служи како единица за мерење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Цицерон име.",
+		"name": "Цицерон",
+		"type": "Име",
+		"definitions": [
+			{
+				"definition_name": "римски оратор, државник и филозоф",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "циција м.",
+		"name": "циција",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "скржав, скржавец",
+				"definition_example": "Голем циција е тој, има змија во џебот!"
+			}
+		]
+	},
+
+	{
+		"word": "цицијаши несв.",
+		"name": "цицијаши",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "скржави",
+				"definition_example": "Најбогатиот трговец не цицијашеше"
+			}
+		]
+	},
+
+	{
+		"word": "цицина ж.",
+		"name": "цицина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Оток, место каде кожата е црвена и надуена како последица на рана, убод и слично",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицингарец м.",
+		"name": "цицингарец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црцорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цициште ср.",
+		"name": "цициште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(обично мн цицишта) цица, дојка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицка ж.",
+		"name": "цицка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "женска града",
+				"definition_example": "Го доеше детето, при што чувствуваше големи болки во цицките"
+			},
+			{
+				"definition_name": "града на маж",
+				"definition_example": "Момчето имаше белег под десната цицка"
+			},
+			{
+				"definition_name": "кај женски животни",
+				"definition_example": "Кученцето фати да цица де од една, де од друга цицка"
+			},
+			{
+				"definition_name": "млеко, дојка",
+				"definition_example": "Мајчината цицка ја проколнуваше во тој момент"
+			},
+			{
+				"definition_name": "болест дизентерија, срчка, срдешница",
+				"definition_example": "(клетва) Цицка те изела!"
+			},
+			{
+				"definition_name": "лековита билка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цицне св.",
+		"name": "цицне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Цица малу, еднаш или неколку пати по малу",
+				"definition_example": "Детето цицна малу и ја пушти цицката"
+			}
+		]
+	},
+
+	{
+		"word": "цицнува несв.",
+		"name": "цицнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цицне",
+				"definition_example": "Моево дете цицнува по малу и веднаш заспива"
+			}
+		]
+	},
+
+	{
+		"word": "цицнување ср.",
+		"name": "цицнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цицнува",
+				"definition_example": "Едно цицнување и заспивање"
+			}
+		]
+	},
+
+	{
+		"word": "циче ср.",
+		"name": "циче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "ЦК скр.",
+		"name": "ЦК",
+		"type": "Скратеница",
+		"definitions": [
+			{
+				"definition_name": "Централен комитет",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цоиса св.",
+		"name": "цоиса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "пцовиса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цокле ср.",
+		"name": "цокле",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Долниот дел на надворешен ѕид на зграда, обично малу издаден",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долен дел на ѕид, обично бојадисан со мрсна боја",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Долен дел од плакар или шкаф што овозможува подобра стабилност",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цокула ж.",
+		"name": "цокула",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тешка, висока, обично војничка обувка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "дрвена обувка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цол м.",
+		"name": "цол",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Англиска мерка за должина (, см)",
+				"definition_example": "Должината е наведена во цолови"
+			}
+		]
+	},
+
+	{
+		"word": "цопаќ м.",
+		"name": "цопаќ",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Поголемо парче домашен леб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црв м.",
+		"name": "црв",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Животно безрбетник со долгникаво тело; ларви од ова животно",
+				"definition_example": "Бараше црвје и ловеше со нив риби"
+			},
+			{
+				"definition_name": "Ништожен, понизен човек; слабо суштество, дете",
+				"definition_example": "Тој не беше човек, а обичен црв"
+			},
+			{
+				"definition_name": "Во состав со некои зборови што означуваат некое чувство, состојба",
+				"definition_example": "Црв на сомневањето почна да го гризе"
+			},
+			{
+				"definition_name": "Микроскопски ситни претставници од класата Арахнида, со валчести тела што виреат насекаде и се хранат од растителни и животински отпадоци",
+				"definition_example": "прашина полна со црви"
+			}
+		]
+	},
+
+	{
+		"word": "црвек м.",
+		"name": "црвек",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црцорец, штурец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвен м.",
+		"name": "црвен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Крајно лев по политичките убедувања, комунист",
+				"definition_example": "Тој беше познат како црвен"
+			}
+		]
+	},
+
+	{
+		"word": "црвен прид.",
+		"name": "црвен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има нијанса на една од основните бои на спектарот, што има боја на крв",
+				"definition_example": "црвен молив, црвено мастило"
+			},
+			{
+				"definition_name": "Што има боја блиска до бојата на крвта, румен",
+				"definition_example": "Девојката е бела и црвена"
+			},
+			{
+				"definition_name": "Што се раководи од идеите на комунизмот",
+				"definition_example": "Црвена република"
+			},
+			{
+				"definition_name": "Како составен дел на некои ботанички и зоолошки називи",
+				"definition_example": "Црвен багрем (Robinia hispida)"
+			}
+		]
+	},
+
+	{
+		"word": "црвендалест прид.",
+		"name": "црвендалест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За човек - кој има црвеникаво лице",
+				"definition_example": "Слаб и црвендалест млад човек"
+			}
+		]
+	},
+
+	{
+		"word": "црвенее несв.",
+		"name": "црвенее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Добива црвена боја",
+				"definition_example": "Кожата му црвенееше од сонцето"
+			},
+			{
+				"definition_name": "(се црвенее) Се одликува, се изделува со својата црвена боја",
+				"definition_example": "Во далечината се црвенееја покривите на куќите"
+			}
+		]
+	},
+
+	{
+		"word": "црвенеење ср.",
+		"name": "црвенеење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "(се) црвенее",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенење ср.",
+		"name": "црвенење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црвење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвени несв.",
+		"name": "црвени",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) црви",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвеник м.",
+		"name": "црвеник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Народен назив за месеците јуни и јули (од  јуни до  јули)",
+				"definition_example": "(нар поез) Ми помрзнале до три гемии / во среде лето, во црвеника"
+			}
+		]
+	},
+
+	{
+		"word": "црвеникав прид.",
+		"name": "црвеникав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има боја блиска до црвената",
+				"definition_example": "Тоа беше црвеникава убава куќа"
+			}
+		]
+	},
+
+	{
+		"word": "црвенило ср.",
+		"name": "црвенило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Црвена боја, руменило по лице",
+				"definition_example": "Црвенило му го облеа лицето"
+			},
+			{
+				"definition_name": "црвило",
+				"definition_example": "Ќе си купам белило, белило и црвенило"
+			}
+		]
+	},
+
+	{
+		"word": "црвенина ж.",
+		"name": "црвенина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црвенило, руменило",
+				"definition_example": "црвенината на изгревот"
+			}
+		]
+	},
+
+	{
+		"word": "црвеница ж.",
+		"name": "црвеница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црвенило",
+				"definition_example": "црвеницата на изгревот"
+			},
+			{
+				"definition_name": "болеста црвен ветер",
+				"definition_example": "Од вчера го фати црвеница"
+			},
+			{
+				"definition_name": "црвена земја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенка ж.",
+		"name": "црвенка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "крупна црвена пченица",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "црвено вино",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "Црвенкапа ж.",
+		"name": "Црвенкапа",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Девојче со црвена капа од истоимената приказна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвено ср.",
+		"name": "црвено",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "нешто со црвена боја",
+				"definition_example": "Јас сум за црвеното"
+			}
+		]
+	},
+
+	{
+		"word": "црвено ср.",
+		"name": "црвено",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "нешто со црвена боја",
+				"definition_example": "Јас сум за црвеното"
+			}
+		]
+	},
+
+	{
+		"word": "црвено прил.",
+		"name": "црвено",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "црвен",
+				"definition_example": "Собата ја бојадисаа црвено"
+			}
+		]
+	},
+
+	{
+		"word": "црвеноармеец м.",
+		"name": "црвеноармеец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Припадник на Црвената армија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенобрад прид.",
+		"name": "црвенобрад",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црвеникава, лисеста брада",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенобрадест прид.",
+		"name": "црвенобрадест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има црвена брада",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвеногушка ж.",
+		"name": "црвеногушка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Мала сива појна птица слична на врапче со портокалово црвени гради",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенокож прид.",
+		"name": "црвенокож",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црвеникава кожа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенокожец м.",
+		"name": "црвенокожец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице со црвеникава кожа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лице од индијанско племе со црвеникава боја на кожата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенокос прид.",
+		"name": "црвенокос",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црвеникава коса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвеноперка ж.",
+		"name": "црвеноперка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид риба со црвени перки",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенотија ж.",
+		"name": "црвенотија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црвенило",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвеното ср.",
+		"name": "црвеното",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Нешто со црвена боја",
+				"definition_example": "Јас сум за црвеното"
+			}
+		]
+	},
+
+	{
+		"word": "црвеношијка ж.",
+		"name": "црвеношијка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Птичка со црвеникав пердув околу шијата и градите",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенузлав прид.",
+		"name": "црвенузлав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црвеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенушка ж.",
+		"name": "црвенушка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Вид црвено јаболко",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвенушкав прид.",
+		"name": "црвенушкав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црвеникав",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвење ср.",
+		"name": "црвење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Станување црвен",
+				"definition_example": "Црвење од срам"
+			},
+			{
+				"definition_name": "Правење црвен",
+				"definition_example": "Црвење јајца"
+			}
+		]
+	},
+
+	{
+		"word": "црвец м.",
+		"name": "црвец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црв",
+				"definition_example": "Бели црвци"
+			}
+		]
+	},
+
+	{
+		"word": "црви несв.",
+		"name": "црви",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Бојадисува со црвена боја; премачкува со црвило",
+				"definition_example": "Дента црвеа јајца за Велигден"
+			},
+			{
+				"definition_name": "(се црви) Станува црвен, поруменува од срам, се срами",
+				"definition_example": "Се црви од срам"
+			},
+			{
+				"definition_name": "(се црви) Стави црвило - на усни, лице; се црвени",
+				"definition_example": "(нар поез) Не се бели, Маре мори, не се црви"
+			}
+		]
+	},
+
+	{
+		"word": "црвило ср.",
+		"name": "црвило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Козметичко средство за црвење усни и лице",
+				"definition_example": "Без црвило нацрвена"
+			}
+		]
+	},
+
+	{
+		"word": "црвилце ср.",
+		"name": "црвилце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црвило",
+				"definition_example": "Си купи црвилце"
+			}
+		]
+	},
+
+	{
+		"word": "црвјоса св.",
+		"name": "црвјоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "црвоса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвјосан прид.",
+		"name": "црвјосан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(глаг прид) црвјоса",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвлив прид.",
+		"name": "црвлив",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црвје; кој е разјаден од црвје",
+				"definition_example": "црвливи јаболка"
+			}
+		]
+	},
+
+	{
+		"word": "црвливост ж.",
+		"name": "црвливост",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црвлив",
+				"definition_example": "Црвливоста на овошјето"
+			}
+		]
+	},
+
+	{
+		"word": "црволик прид.",
+		"name": "црволик",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој прилега на црв",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвообразен прид.",
+		"name": "црвообразен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црволик",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвоса св.",
+		"name": "црвоса",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Фати црвје, стане црвлив",
+				"definition_example": "Црвосал гравот"
+			},
+			{
+				"definition_name": "се наседи, се изнаседи",
+				"definition_example": "Црвоса од седење на едно место"
+			}
+		]
+	},
+
+	{
+		"word": "црвосан прид.",
+		"name": "црвосан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црвлив",
+				"definition_example": "Црвосано јаболко"
+			}
+		]
+	},
+
+	{
+		"word": "црвосаница ж.",
+		"name": "црвосаница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Нешто (род, дрво и слично) што е црвосано",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвосува несв.",
+		"name": "црвосува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "црвоса",
+				"definition_example": "Црешите црвосуваат секоја година"
+			}
+		]
+	},
+
+	{
+		"word": "црвосување ср.",
+		"name": "црвосување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црвосува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвоточина ж.",
+		"name": "црвоточина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Истресок од црвје в дрво; разјадено место од црвје",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвул м.",
+		"name": "црвул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "опинок",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црвче ср.",
+		"name": "црвче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црв, црвец",
+				"definition_example": "Се храни со црвчиња"
+			}
+		]
+	},
+
+	{
+		"word": "цревар м.",
+		"name": "цревар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што преработува или продава црева од заклан добиток",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цреварски прид.",
+		"name": "цреварски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цревар",
+				"definition_example": "Цреварска работилница"
+			}
+		]
+	},
+
+	{
+		"word": "цреварство ср.",
+		"name": "цреварство",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "професија на цревар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цревен прид.",
+		"name": "цревен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цревата",
+				"definition_example": "Цревен тифус"
+			}
+		]
+	},
+
+	{
+		"word": "цревја само мн.",
+		"name": "цревја",
+		"type": "Именка, множина",
+		"definitions": [
+			{
+				"definition_name": "Вид плитко обувало, чевли",
+				"definition_example": "Ковани цревја"
+			}
+		]
+	},
+
+	{
+		"word": "црево ср.",
+		"name": "црево",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Еластични цевки во утробата на човек или живо но низ кои минува храната",
+				"definition_example": "Дванаесетпрсно црево (дванаесетпрсник)"
+			},
+			{
+				"definition_name": "Гумена или платнена труба за пресипување течности",
+				"definition_example": "Гумено, платнено црево"
+			}
+		]
+	},
+
+	{
+		"word": "цревоугодник м.",
+		"name": "цревоугодник",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што се предава на многу јадење и пиење, гастроном",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цревоугодница ж.",
+		"name": "цревоугодница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена цревоугодник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цревце ср.",
+		"name": "цревце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Очистени црева, обично јагнешки, сплетени и приготвена за јадење",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црека несв.",
+		"name": "црека",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "се дере, вриска, пишти",
+				"definition_example": "Вечно црекаат во дворот"
+			}
+		]
+	},
+
+	{
+		"word": "црекало ср.",
+		"name": "црекало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Лице што црека многу",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цреканица ж.",
+		"name": "цреканица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "голема викотница, врескотница",
+				"definition_example": "Му здодеа таа цреканица"
+			}
+		]
+	},
+
+	{
+		"word": "црекање ср.",
+		"name": "црекање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црека",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црекне св.",
+		"name": "црекне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Дрекна, врисна, писна",
+				"definition_example": "Беше тишина освен што ќе црекнеше некој одвреме-навреме"
+			},
+			{
+				"definition_name": "штрцне, шприцне",
+				"definition_example": "Црекни некоја капка млеко"
+			}
+		]
+	},
+
+	{
+		"word": "цремша ж.",
+		"name": "цремша",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "дива цреша",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црен м.",
+		"name": "црен",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Црн рог, рожна дршка од нож",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цренче ср.",
+		"name": "цренче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цреп м.",
+		"name": "цреп",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "саксија за цвеќе",
+				"definition_example": "На балконот стоеја цвеќињата во убави црепови"
+			},
+			{
+				"definition_name": "Парче од искршен предмет од земја; скршена стомна, барде",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "ќерамида",
+				"definition_example": "Оддалеку се црвенеат цреповите на куќарчето"
+			}
+		]
+	},
+
+	{
+		"word": "црепка ж.",
+		"name": "црепка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Парче од искршен предмет од земја, керамика и сл",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црепна ж.",
+		"name": "црепна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Земјен сад во вид на тепсија кој служи за печење леб",
+				"definition_example": "Оваа црепна пече убаво"
+			}
+		]
+	},
+
+	{
+		"word": "црепналка ж.",
+		"name": "црепналка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Крпа со која се брише црепната",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црепнарски прид.",
+		"name": "црепнарски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на црепна",
+				"definition_example": "црепнарска пачавра"
+			}
+		]
+	},
+
+	{
+		"word": "црепче ср.",
+		"name": "црепче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цреп",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цресло ср.",
+		"name": "цресло",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Остро железо над палешникот на рало, ја сече земјата и го определува правецот",
+				"definition_example": "Мажите извадија од пазувите кој стап, кој цресло, кој жегол и удрија по силниците"
+			}
+		]
+	},
+
+	{
+		"word": "цреша ж.",
+		"name": "цреша",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "овошно дрво",
+				"definition_example": "Се качи на црешата што беше во дворот"
+			},
+			{
+				"definition_name": "Плодот на оваа овошка",
+				"definition_example": "Купивме на пазари цреши и вишни"
+			}
+		]
+	},
+
+	{
+		"word": "црешак м.",
+		"name": "црешак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Место каде што има многу црешови дрвја, овоштарник со цреши",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црешар м.",
+		"name": "црешар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице кое продава или многу сака јаде цреши",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Народен назив за месецот мај",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црешна ж.",
+		"name": "црешна",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цреша",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црешнар м.",
+		"name": "црешнар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црешар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црешница ж.",
+		"name": "црешница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црешово дрво",
+				"definition_example": "стара црешница"
+			}
+		]
+	},
+
+	{
+		"word": "црешниче ср.",
+		"name": "црешниче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црешна",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црешов прид.",
+		"name": "црешов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цреша",
+				"definition_example": "црешово дрво"
+			}
+		]
+	},
+
+	{
+		"word": "црешовиден прид.",
+		"name": "црешовиден",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има форма на цреша, што е од цреша",
+				"definition_example": "црешовидни пиперчиња"
+			}
+		]
+	},
+
+	{
+		"word": "црешовица ж.",
+		"name": "црешовица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "ракија од цреши",
+				"definition_example": "Испивме шише црешовица"
+			}
+		]
+	},
+
+	{
+		"word": "црка несв.",
+		"name": "црка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "се дере, вика",
+				"definition_example": "Надвор цркаа деца"
+			}
+		]
+	},
+
+	{
+		"word": "цркавец м.",
+		"name": "цркавец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црцорец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркавица ж.",
+		"name": "цркавица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Бедна плата, бедни примања, доволни колку да не се цркне",
+				"definition_example": "Колкумина ќе останат и без онаа бедна цркавица која и досега ја примаа легално?"
+			}
+		]
+	},
+
+	{
+		"word": "цркала несв.",
+		"name": "цркала",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "тркала",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црканица ж.",
+		"name": "црканица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цреканица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркање ср.",
+		"name": "цркање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "викање, дерење",
+				"definition_example": "постојани цркања"
+			}
+		]
+	},
+
+	{
+		"word": "црква ж.",
+		"name": "црква",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "христијански храм",
+				"definition_example": "Селото имаше убава нова црква"
+			},
+			{
+				"definition_name": "Служба во христијански храм",
+				"definition_example": "Денеска нема црква"
+			},
+			{
+				"definition_name": "Организација што го раководи религиозниот живот на христијаните",
+				"definition_example": "Православната црква во Македонија"
+			}
+		]
+	},
+
+	{
+		"word": "црквар м.",
+		"name": "црквар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Човек што редовно оди в црква",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркварка ж.",
+		"name": "цркварка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "За жена црквар",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркварски прид.",
+		"name": "цркварски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на црквар/цркварка",
+				"definition_example": "цркварско дете"
+			}
+		]
+	},
+
+	{
+		"word": "цркве ср.",
+		"name": "цркве",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црква",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црквен прид.",
+		"name": "црквен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што припаѓа на црква, што се однесува на црква",
+				"definition_example": "црквени двери"
+			}
+		]
+	},
+
+	{
+		"word": "црквенски прид.",
+		"name": "црквенски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црквински",
+				"definition_example": "На црквенски пат да седиш"
+			}
+		]
+	},
+
+	{
+		"word": "црквин прид.",
+		"name": "црквин",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со црква",
+				"definition_example": "Пред црквина врата"
+			}
+		]
+	},
+
+	{
+		"word": "црквински прид.",
+		"name": "црквински",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што е во врска со црква",
+				"definition_example": "Застана на црквинска врата"
+			}
+		]
+	},
+
+	{
+		"word": "црквица ж.",
+		"name": "црквица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црква",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црквиче ср.",
+		"name": "црквиче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црква",
+				"definition_example": "Во црквичето над селото"
+			}
+		]
+	},
+
+	{
+		"word": "црквичка ж.",
+		"name": "црквичка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црква",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црквиште ср.",
+		"name": "црквиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Место кај што имало некогаш црква",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Оградено земјиште околу црква; црковен двор",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркне св.",
+		"name": "цркне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "За животни - умре",
+				"definition_example": "Коњот му црква одненадеж"
+			},
+			{
+				"definition_name": "прсне, пукне",
+				"definition_example": "Цркна гумата на предното тркало"
+			},
+			{
+				"definition_name": "пукне, умре",
+				"definition_example": "Цркна додека не ја исполни задачата"
+			}
+		]
+	},
+
+	{
+		"word": "цркнува несв.",
+		"name": "цркнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цркне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цркнување ср.",
+		"name": "цркнување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цркнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црков ж.",
+		"name": "црков",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црква",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црковен прид.",
+		"name": "црковен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Сврзан со црквата, со религијата; кој и припаѓа на црквата",
+				"definition_example": "Црковен суд"
+			},
+			{
+				"definition_name": "Кој се однесува на црква",
+				"definition_example": "Црковна врата"
+			}
+		]
+	},
+
+	{
+		"word": "црковиште ср.",
+		"name": "црковиште",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црквиште",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црковнословенски прид.",
+		"name": "црковнословенски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на богослужбената писменост на Источните и на Јужните Словеци",
+				"definition_example": "црковнословенски јазик"
+			}
+		]
+	},
+
+	{
+		"word": "црн прид.",
+		"name": "црн",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има боја на саѓи, јаглен",
+				"definition_example": "Носеше црна шамија"
+			},
+			{
+				"definition_name": "Кој има боја блиска до црната, кој е потемен во споредба со обичната боја",
+				"definition_example": "Имаше убаво црно лице"
+			},
+			{
+				"definition_name": "Кој е лишен од радост, тажен",
+				"definition_example": "Црни мисли му се вртеа во главата"
+			},
+			{
+				"definition_name": "Кој е во лоша положба",
+				"definition_example": "Остана црна вдовица"
+			},
+			{
+				"definition_name": "негативен, лош",
+				"definition_example": "Го опишува животот со црни бои"
+			},
+			{
+				"definition_name": "лош, зол, злокобен",
+				"definition_example": "Црна се чума зададе"
+			},
+			{
+				"definition_name": "омразен, одвратен, непријатен",
+				"definition_example": "По тој настан не можам веќе да го гледам, црн ми е пред очиве"
+			},
+			{
+				"definition_name": "За работа, труд - неквалификуван, физички тежок",
+				"definition_example": "црн труд"
+			},
+			{
+				"definition_name": "Како составен дел на некои зоолошки и ботанички називи",
+				"definition_example": "црна мечка"
+			}
+		]
+	},
+
+	{
+		"word": "црнава ж.",
+		"name": "црнава",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црнотија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнгалест прид.",
+		"name": "црнгалест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Доста беше црнгалеста, убава мома",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнева ж.",
+		"name": "црнева",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црнава, црнотија",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црневица ж.",
+		"name": "црневица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "мноштво",
+				"definition_example": "По улиците - црневица од луѓе"
+			},
+			{
+				"definition_name": "Плодна темна земја богата со органски материи",
+				"definition_example": "Сето поле е црневица"
+			}
+		]
+	},
+
+	{
+		"word": "црнее несв.",
+		"name": "црнее",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Станува црн",
+				"definition_example": "Црнее брзо на сонце"
+			},
+			{
+				"definition_name": "тагува",
+				"definition_example": "Само јас со дечињава ќе црнеам по тебе"
+			},
+			{
+				"definition_name": "(се црнее) Се изделува со својата црна боја",
+				"definition_example": "Во далечината, под ридот, се црнееја високите тополи"
+			}
+		]
+	},
+
+	{
+		"word": "црнеење ср.",
+		"name": "црнеење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црнење, црни",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнец м.",
+		"name": "црнец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице од црната раса",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Лице што врши тешка работа",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "црн човек",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнечки прид.",
+		"name": "црнечки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на црнец",
+				"definition_example": "црнечки песни"
+			}
+		]
+	},
+
+	{
+		"word": "црни м.",
+		"name": "црни",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Црн човек; човек со темно, црно лице",
+				"definition_example": "Кај мене дојде црниот"
+			},
+			{
+				"definition_name": "Во шахот - играчот што игра со црни фигури",
+				"definition_example": "Црниот е на потег"
+			}
+		]
+	},
+
+	{
+		"word": "црни несв.",
+		"name": "црни",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Прави нешто да стане црно, оцрнува",
+				"definition_example": "Си ја црни косата секој месец"
+			},
+			{
+				"definition_name": "За животот, младоста - ги чини несреќни",
+				"definition_example": "Сама си го црнеше животот"
+			}
+		]
+	},
+
+	{
+		"word": "црникав прид.",
+		"name": "црникав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Не многу црн, кој клони кон црн",
+				"definition_example": "Црникави или црвеникави"
+			}
+		]
+	},
+
+	{
+		"word": "црнилка ж.",
+		"name": "црнилка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "зеница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнило ср.",
+		"name": "црнило",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Средство за црнење",
+				"definition_example": "Купи ми малу црнило"
+			},
+			{
+				"definition_name": "несреќен живот",
+				"definition_example": "За Македонците се создадени сите црнила на овој век"
+			},
+			{
+				"definition_name": "Вид болест кај житата",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнина ж.",
+		"name": "црнина",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црнотија, црност",
+				"definition_example": "Црнината на кожата е добра"
+			},
+			{
+				"definition_name": "Црна облека што се носи во знак на жалост",
+				"definition_example": "Носи црнина"
+			}
+		]
+	},
+
+	{
+		"word": "црница ж.",
+		"name": "црница",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "дрво и плод",
+				"definition_example": "Се качи на црницата"
+			},
+			{
+				"definition_name": "Плодна темна земја богата со органски материи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црничка ж.",
+		"name": "црничка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црничов прид.",
+		"name": "црничов",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на црница",
+				"definition_example": "Црничови лисја"
+			},
+			{
+				"definition_name": "Кој е добиен од црници",
+				"definition_example": "Црничова ракија"
+			}
+		]
+	},
+
+	{
+		"word": "црничок прид.",
+		"name": "црничок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Малку црн, темен",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнка ж.",
+		"name": "црнка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Црн отвор во окото што ја пропушта светлината",
+				"definition_example": "Му беше повредена црнката"
+			},
+			{
+				"definition_name": "припадничка на црната раса",
+				"definition_example": "Се сакаше со една црнка"
+			},
+			{
+				"definition_name": "мозолче, митесер",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнкавест прид.",
+		"name": "црнкавест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црникав",
+				"definition_example": "Црнкавеста овца"
+			}
+		]
+	},
+
+	{
+		"word": "црнкинка ж.",
+		"name": "црнкинка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "за жена црнец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црно прил.",
+		"name": "црно",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "Со црна боја",
+				"definition_example": "Преѓата ја бојадисаа црно"
+			},
+			{
+				"definition_name": "нерадосно, тажно",
+				"definition_example": "Ти гледаш многу црно на животот"
+			}
+		]
+	},
+
+	{
+		"word": "црно ср.",
+		"name": "црно",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Предмет во црна боја",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Илегална, незаконска постапка",
+				"definition_example": "Автомобилот го купив на црно"
+			},
+			{
+				"definition_name": "Црна облека",
+				"definition_example": "Оди во црно"
+			}
+		]
+	},
+
+	{
+		"word": "црно-бел прид.",
+		"name": "црно-бел",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Комбинација на бои",
+				"definition_example": "црно-бела слика"
+			}
+		]
+	},
+
+	{
+		"word": "црноберзијанец м.",
+		"name": "црноберзијанец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Лице што се занимава со црна берза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црноберзијански прид.",
+		"name": "црноберзијански",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на црна берза",
+				"definition_example": "црноберзијанска цена"
+			}
+		]
+	},
+
+	{
+		"word": "црнобрад прид.",
+		"name": "црнобрад",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црна брада",
+				"definition_example": "Црнобрадо момче"
+			}
+		]
+	},
+
+	{
+		"word": "црнобрадест прид.",
+		"name": "црнобрадест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што има црна брада",
+				"definition_example": "црнобрадест Дедо Мраз"
+			}
+		]
+	},
+
+	{
+		"word": "црногледец м.",
+		"name": "црногледец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "песимист",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црногорец м.",
+		"name": "црногорец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Стар ерген, нежења",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црногорка ж.",
+		"name": "црногорка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид оро",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црно-жолт прид.",
+		"name": "црно-жолт",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Комбинација на бои",
+				"definition_example": "Старото црно-жолто знаме"
+			}
+		]
+	},
+
+	{
+		"word": "црнозем м.",
+		"name": "црнозем",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Плодна темна земја богата со органски материи",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црноземен прид.",
+		"name": "црноземен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на земја (почва) црница",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнок м.",
+		"name": "црнок",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "црн даб",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокапец м.",
+		"name": "црнокапец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Назив за духовно лице (во православното христијанство)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црноклас прид.",
+		"name": "црноклас",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "за пченица – која има црни краеви на класот",
+				"definition_example": "пченицата црно-класа"
+			}
+		]
+	},
+
+	{
+		"word": "црнокласица ж.",
+		"name": "црнокласица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "(в црноклас)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокож прид.",
+		"name": "црнокож",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(кој има црна, црникава кожа)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокос прид.",
+		"name": "црнокос",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(кој има црна, црникава коса)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокошулец м.",
+		"name": "црнокошулец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Италијански фашист - според униформата; црна кошула",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокошулски прид.",
+		"name": "црнокошулски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(в црнокошулец)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнокрил прид.",
+		"name": "црнокрил",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(кој има црни крилја)",
+				"definition_example": "црнокрило пиле"
+			}
+		]
+	},
+
+	{
+		"word": "црноморски прид.",
+		"name": "црноморски",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Што се однесува на Црно Море",
+				"definition_example": "црноморски град"
+			}
+		]
+	},
+
+	{
+		"word": "црномурен прид.",
+		"name": "црномурен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "За човек - кој има црни очи и коса и потемна боја на кожата",
+				"definition_example": "Се исправи пред него убаво градено црномурно момче"
+			}
+		]
+	},
+
+	{
+		"word": "црноок прид.",
+		"name": "црноок",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој има црни, темнокафени очи",
+				"definition_example": "Црноока мома"
+			}
+		]
+	},
+
+	{
+		"word": "црноперка ж.",
+		"name": "црноперка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Назив за стрела со црно перо",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црноризец м.",
+		"name": "црноризец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Монах, калуѓер, оној што носи црна риза",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнослива ж.",
+		"name": "црнослива",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "слива",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнотија ж.",
+		"name": "црнотија",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црност, црнина",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Црна, темна боја на нешто",
+				"definition_example": "Црнотијата на јагленот"
+			},
+			{
+				"definition_name": "мрак, темница",
+				"definition_example": "Во црнотијата на ноќта"
+			},
+			{
+				"definition_name": "Несреќен живот, страдање",
+				"definition_example": "Не си болна од болест, туку од твојата црнотија"
+			}
+		]
+	},
+
+	{
+		"word": "црноцрен прид.",
+		"name": "црноцрен",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црен",
+				"definition_example": "Ноже црноцрено"
+			}
+		]
+	},
+
+	{
+		"word": "црнулав прид.",
+		"name": "црнулав",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој не е многу црн, кој клони кон црн",
+				"definition_example": "црнулаво влакно"
+			}
+		]
+	},
+
+	{
+		"word": "црнулест прид.",
+		"name": "црнулест",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "црникав",
+				"definition_example": "На нејзиното црнулесто лице"
+			}
+		]
+	},
+
+	{
+		"word": "црнче ср.",
+		"name": "црнче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црнец",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црнчи несв.",
+		"name": "црнчи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Работи како црнец, како роб",
+				"definition_example": "Ама таму има многу работа, треба да се црнчи со години"
+			}
+		]
+	},
+
+	{
+		"word": "црњак м.",
+		"name": "црњак",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Црно вино",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црпалка ж.",
+		"name": "црпалка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црпка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Голема лажица, обично за сервирање супа",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црпало ср.",
+		"name": "црпало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црпка",
+				"definition_example": "Тој се засркна од смеа, а после нацрпи во црпалото пак вода и уште неколку пати ја плисна"
+			}
+		]
+	},
+
+	{
+		"word": "црпење ср.",
+		"name": "црпење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црпи",
+				"definition_example": "црпење вода"
+			}
+		]
+	},
+
+	{
+		"word": "црпи несв.",
+		"name": "црпи",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Вади вода обично од некоја длабочина со сад; зафаќа дел од некоја течна маса",
+				"definition_example": "Црпеше вода од бунарот"
+			},
+			{
+				"definition_name": "Извлекува, зема нешто од некаде",
+				"definition_example": "Од многу книги ги црпеше податоците за својата студија"
+			},
+			{
+				"definition_name": "добива, зема, стекнува",
+				"definition_example": "Оттаму црпеше нови сили"
+			}
+		]
+	},
+
+	{
+		"word": "црпка несв.",
+		"name": "црпка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Црпи по малу",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црпка ж.",
+		"name": "црпка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тиква или некаков сад приспособен за црпење",
+				"definition_example": "Наполни ја црпката со вода"
+			},
+			{
+				"definition_name": "тиква, глава",
+				"definition_example": "Само јас десетпати му ја полнев црпката и ништо"
+			}
+		]
+	},
+
+	{
+		"word": "црпне св.",
+		"name": "црпне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "Црпи еднаш или неколку пати по еднаш, зафаќа малку (вода)",
+				"definition_example": "Црпни малу вода"
+			}
+		]
+	},
+
+	{
+		"word": "црпнува несв.",
+		"name": "црпнува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "црпне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црпче ср.",
+		"name": "црпче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "црпка, црпалка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црта ж.",
+		"name": "црта",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Тенка трага повлечена со молив, перо, остар предмет и сл",
+				"definition_example": "Повлече една дебела црта"
+			},
+			{
+				"definition_name": "Граница, линија што разграничува едно нешто од друго",
+				"definition_example": "Падна зад цртата што ја бележеше реката"
+			},
+			{
+				"definition_name": "(обично во мн) надворешни белези",
+				"definition_example": "Имаше правилни црти на лицето"
+			},
+			{
+				"definition_name": "признак, особеност на нешто",
+				"definition_example": "Укажа на некои негативни црти на неговиот карактер"
+			}
+		]
+	},
+
+	{
+		"word": "црта несв.",
+		"name": "црта",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Изобразува уметнички со молив, перо, јаглен, бои и сл",
+				"definition_example": "Го црташе детето во природна големина"
+			},
+			{
+				"definition_name": "Опишува со зборови; мислено претставува",
+				"definition_example": "Во мислите си го црташе своето село и татковата куќа во него"
+			},
+			{
+				"definition_name": "Приготвува цртеж на нешто",
+				"definition_example": "Го црташе планот на Скопје"
+			}
+		]
+	},
+
+	{
+		"word": "цртан прид.",
+		"name": "цртан",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "(глаг прид) црта",
+				"definition_example": "цртани филмови"
+			}
+		]
+	},
+
+	{
+		"word": "цртанка ж.",
+		"name": "цртанка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "тетратка, блок за цртање",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цртање ср.",
+		"name": "цртање",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Уметничко изобразување со бои, молив и сл",
+				"definition_example": "сала за цртање, хартија за цртање"
+			},
+			{
+				"definition_name": "Опишување со зборови; мислено претставување",
+				"definition_example": "Цртање на подробности"
+			},
+			{
+				"definition_name": "учебен предмет",
+				"definition_example": "учител по цртање"
+			}
+		]
+	},
+
+	{
+		"word": "цртач м.",
+		"name": "цртач",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "оној што црта",
+				"definition_example": "Беше најдобар цртач во класот"
+			}
+		]
+	},
+
+	{
+		"word": "цртачка ж.",
+		"name": "цртачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Жена што црта",
+				"definition_example": "Работеше како цртачка"
+			}
+		]
+	},
+
+	{
+		"word": "цртачки прид.",
+		"name": "цртачки",
+		"type": "Придавка",
+		"definitions": [
+			{
+				"definition_name": "Кој се однесува на цртач и цртање",
+				"definition_example": "цртачки талент"
+			}
+		]
+	},
+
+	{
+		"word": "цртица ж.",
+		"name": "цртица",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "црта",
+				"definition_example": "Повлече само една цртица"
+			},
+			{
+				"definition_name": "Во литературата и новинарството - краток опис",
+				"definition_example": "Цртици од патот по Италија"
+			},
+			{
+				"definition_name": "интерпункциски знак „ - “",
+				"definition_example": "Таа сложенка се пишува со цртица"
+			}
+		]
+	},
+
+	{
+		"word": "цртичка ж.",
+		"name": "цртичка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "мала црта",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Знакот „-“ со кој се пишуваат неполно сраснати зборови со извесна самостојност",
+				"definition_example": "германско-македонски речник"
+			}
+		]
+	},
+
+	{
+		"word": "црца несв.",
+		"name": "црца",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цврцка, пивка",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "цица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцало ср.",
+		"name": "црцало",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "ралник",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцанче ср.",
+		"name": "црцанче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цуцла",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцне св.",
+		"name": "црцне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "цврцне",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцор м.",
+		"name": "црцор",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Врева, звуци што ги испуштаат некои птици и инсекти",
+				"definition_example": "црцорот на птиците"
+			}
+		]
+	},
+
+	{
+		"word": "црцорење ср.",
+		"name": "црцорење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Давање звук како штурец",
+				"definition_example": "Го слушаше црцорењето на црцорците"
+			},
+			{
+				"definition_name": "Течење по малку",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцорец м.",
+		"name": "црцорец",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид крилест инсект, мажјакот на стомакот има кожичка која треперејќи произведува специфични звуци (црцор) при високи температури",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "црцори несв.",
+		"name": "црцори",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пушта звук како црцорец",
+				"definition_example": "Црцорец црцори"
+			},
+			{
+				"definition_name": "Тече по малку",
+				"definition_example": "Чешмата црцори"
+			}
+		]
+	},
+
+	{
+		"word": "цулуф м.",
+		"name": "цулуф",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "(пообично во мн) Шишка, прамен, залисток (коса)",
+				"definition_example": "Си ги исчешла цулуфите"
+			}
+		]
+	},
+
+	{
+		"word": "цунами ср.",
+		"name": "цунами",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Голем морски бран што настанува после земјотрес на дното од океанот и го потопува крајбрежјето",
+				"definition_example": "Цунамито предизвика големи разурнувања во Азија"
+			},
+			{
+				"definition_name": "потоп",
+				"definition_example": "Во такво економско невреме, а некаде и цунами, разбирлива е претпазливоста на странските компании"
+			}
+		]
+	},
+
+	{
+		"word": "цуне св.",
+		"name": "цуне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "бакнува",
+				"definition_example": "Цуни му рака"
+			},
+			{
+				"definition_name": "(се цуне) се бакне",
+				"definition_example": "Се цунаа во уста"
+			}
+		]
+	},
+
+	{
+		"word": "цунка несв.",
+		"name": "цунка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "бакне, целува",
+				"definition_example": "Си го цункаше постојано детенцето"
+			}
+		]
+	},
+
+	{
+		"word": "цунува несв.",
+		"name": "цунува",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "(се) бакнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цунување ср.",
+		"name": "цунување",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "љубење, целивање, бакнување",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цупка несв.",
+		"name": "цупка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "потскокнува, подрипнува",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цурајка ж.",
+		"name": "цурајка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "обетка, минѓуша",
+				"definition_example": "No example"
+			},
+			{
+				"definition_name": "Двогодишно украсно цвеќе со розова боја",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цурајче ср.",
+		"name": "цурајче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "обетче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цурак ср.",
+		"name": "цурак",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "обетка",
+				"definition_example": "(разг) Цурак да ставиш!"
+			}
+		]
+	},
+
+	{
+		"word": "цуракуша ж.",
+		"name": "цуракуша",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "извикана жена",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цурачка ж.",
+		"name": "цурачка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цурајка",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цурик прил.",
+		"name": "цурик",
+		"type": "Прилог",
+		"definitions": [
+			{
+				"definition_name": "назад, назадечки",
+				"definition_example": "„Цурик!“, пајтонџијата ги повлече дизгините"
+			}
+		]
+	},
+
+	{
+		"word": "цурко ср.",
+		"name": "цурко",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "девојченце, момиче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цутар м.",
+		"name": "цутар",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Архаично име за третиот месец во годината",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цутеж м.",
+		"name": "цутеж",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "цветеж, цутење",
+				"definition_example": "цутење на јаболкниците"
+			}
+		]
+	},
+
+	{
+		"word": "цутење ср.",
+		"name": "цутење",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "Пуштање цветови",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цути несв.",
+		"name": "цути",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "Пушта цутови, се отвора во цут",
+				"definition_example": "Јаболкницата цутеше"
+			},
+			{
+				"definition_name": "Има поволни услови за развој",
+				"definition_example": "Цути економијата"
+			}
+		]
+	},
+
+	{
+		"word": "цутка несв.",
+		"name": "цутка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цвета",
+				"definition_example": "На дрвото црвено цвеќе цутка"
+			}
+		]
+	},
+
+	{
+		"word": "цутка ж.",
+		"name": "цутка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "цут",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цутне св.",
+		"name": "цутне",
+		"type": "Глагол, свршен",
+		"definitions": [
+			{
+				"definition_name": "расцветува",
+				"definition_example": "Цутнало цвеќе в градина"
+			}
+		]
+	},
+
+	{
+		"word": "цутче ср.",
+		"name": "цутче",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "цветче",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цуце ср.",
+		"name": "цуце",
+		"type": "Именка, среден род",
+		"definitions": [
+			{
+				"definition_name": "кепец, човече",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цуцка несв.",
+		"name": "цуцка",
+		"type": "Глагол, несвршен",
+		"definitions": [
+			{
+				"definition_name": "цупка, потскокнува",
+				"definition_example": "Цуцка детето на снегот"
+			}
+		]
+	},
+
+	{
+		"word": "цуцка ж.",
+		"name": "цуцка",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Шилест дел, врв па нешто (на пример на капа, планина)",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цуцла ж.",
+		"name": "цуцла",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "Мало гумено топче на тркалезна плочка, што му се дава на бебето да цица",
+				"definition_example": "No example"
+			}
+		]
+	},
+
+	{
+		"word": "цуцул м.",
+		"name": "цуцул",
+		"type": "Именка, машки род",
+		"definitions": [
+			{
+				"definition_name": "Вид птица со цуцка",
+				"definition_example": "Цуцул пасе говеда покрај река Ситница"
+			}
+		]
+	},
+
+	{
+		"word": "цуцулига ж.",
+		"name": "цуцулига",
+		"type": "Именка, женски род",
+		"definitions": [
+			{
+				"definition_name": "вид летало (детска играчка)",
+				"definition_example": "No example"
+			}
+		]
+	}
+]}	

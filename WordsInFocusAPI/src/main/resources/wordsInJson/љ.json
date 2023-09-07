@@ -1,4 +1,6 @@
-[
+{
+	"name": "љ",
+	"words":[
 	{
 		"word": "љуба ж.",
 		"name": "љуба",
@@ -397,4 +399,5 @@
 				"definition_example": "No example"
 			}
 		]
-	},
+	}
+]}
