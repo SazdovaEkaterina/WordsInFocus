@@ -10,7 +10,6 @@
                </div>
                <div>
                 <select name="words" id="words" class="wordsDropdown"  @change="getSelectedWordId($event)" >
-                    <!-- <option selected disabled>Одбери збор</option> -->
                     <option v-for="word in words" v-bind:key="word.id" v-bind:value="word.id">{{word.word}}</option>
                 </select>
                </div>
@@ -25,7 +24,6 @@
 </template>
 
 <script>
-
 import WordComponent from './WordComponent.vue';
 
     export default{
@@ -33,6 +31,7 @@ import WordComponent from './WordComponent.vue';
     data() {
         return {
             name: this.$route.params.l,
+            w: this.$route.params.w + " " + this.$route.params.t+'.',
             letter: null,
             words: [],
             selectedWordId: 0,
@@ -51,26 +50,44 @@ import WordComponent from './WordComponent.vue';
             const wordsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words');
             const result = await wordsApi.json();
             this.words = result;
-            this.word=result[0];
-            this.selectedWordId = result[0].id;
-            const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + result[0].id +"/definitions");
-            const result2 = await definitionsApi.json();
-            this.definitions = result2;
+            
+            if(this.w != 'undefined undefined.'){
+                const wordApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/byWord/' + this.w);
+                const result3 = await wordApi.json();
+                this.word = result3;
+                this.selectedWordId = result3.id;      
+                console.log(this.selectedWordId)          
+                const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + result3.id +"/definitions");
+                const result4 = await definitionsApi.json();
+                this.definitions = result4;
+            }else{
+                this.word=result[0];
+                this.selectedWordId = result[0].id;
+                const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + result[0].id +"/definitions");
+                const result2 = await definitionsApi.json();
+                this.definitions = result2;
+            }
+            
         },
         async getSelectedWordId(event){
-                console.log(event.target.value);
                 this.selectedWordId =  event.target.value;
                 const wordApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + event.target.value);
                 const result = await wordApi.json();
                 this.word = result;
-                console.log(this.word)
                 const definitionsApi = await fetch('http://localhost:9090/api/letters/' + this.letter.id + '/words/' + event.target.value +"/definitions");
                 const result2 = await definitionsApi.json();
                 this.definitions = result2;
-                console.log(this.definitions)
-                // this.$forceUpdate();
-            
-            }
+                // const routeString = this.word.word.split(" ");
+                // const part1 = routeString[0];
+                // let part2 = '';
+                // if(routeString. > 2)
+                //     part2 = routeString[1]+ routeString[2]+ routeString[3];
+                // else
+                //     part2 = routeString[1];
+                // console.log(part2)
+                // this.$router.push(this.letter.name+'.'+part1+"/"+part2);
+                // this.$route.fullPath()
+            }           
          
     },
     computed:{
