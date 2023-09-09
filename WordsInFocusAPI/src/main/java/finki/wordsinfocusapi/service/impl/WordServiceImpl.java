@@ -43,6 +43,21 @@ public class WordServiceImpl implements WordService {
     }
 
     @Override
+    public WordDto findByWord(Long letterId, String word) {
+        List<WordDto> wordDtos = this.findAllByLetter(letterId);
+
+        Optional<WordDto> wordDtoOptional = wordDtos.stream()
+                .filter(w -> w.getWord().equals(word))
+                .findFirst();
+
+        if(!wordDtoOptional.isPresent()){
+            return null;
+        }
+
+        return wordDtoOptional.get();
+    }
+
+    @Override
     public List<WordDto> findAllByLetter(Long letterId) {
 
         Letter letter = this.letterRepository.findById(letterId).get();

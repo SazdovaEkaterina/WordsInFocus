@@ -57,4 +57,24 @@ public class WordRestController {
 
         return ResponseEntity.ok().body(wordDto);
     }
+
+    @GetMapping("byWord/{word}")
+    public ResponseEntity<WordDto> getByWord(
+            @PathVariable Long letterId,
+            @PathVariable String word){
+
+        LetterDto letterDto = this.letterService.findById(letterId);
+
+        if(letterDto == null){
+            return ResponseEntity.notFound().build();
+        }
+
+        WordDto wordDto = this.wordService.findByWord(letterId, word);
+
+        if(wordDto == null){
+            return ResponseEntity.notFound().build();
+        }
+
+        return ResponseEntity.ok().body(wordDto);
+    }
 }
