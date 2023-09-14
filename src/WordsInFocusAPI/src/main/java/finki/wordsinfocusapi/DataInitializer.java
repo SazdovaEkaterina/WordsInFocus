@@ -25,17 +25,15 @@ public class DataInitializer {
 
         ObjectMapper objectMapper = new ObjectMapper();
         List<String> letters = new ArrayList<>(Arrays.asList(
-                "а", "б"));
-//                , "в", "г", "д", "ѓ", "е",
-//                "ж", "з", "ѕ", "и", "ј", "к", "л",
-//                "љ", "м", "н", "њ", "о", "п", "р",
-//                "с", "т", "ќ", "у", "ф", "х", "ц",
-//                "ч", "џ", "ш"));
+                "а", "б", "в", "г", "д", "ѓ", "е",
+                "ж", "з", "ѕ", "и", "ј", "к", "л",
+                "љ", "м", "н", "њ", "о", "п", "р",
+                "с", "т", "ќ", "у", "ф", "х", "ц",
+                "ч", "џ", "ш"));
 
         for (String letterValue:letters) {
             Letter letter = objectMapper
                     .readValue(new File("src/main/resources/wordsInJson/"+letterValue+".json"), Letter.class);
-            System.out.println(letter);
 
             letterService.save(letter);
         }
